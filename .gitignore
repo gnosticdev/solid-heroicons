@@ -1,7 +1,4 @@
-dist
 node_modules
-outline
-solid
 solid-mini
 
 .yarn/*
