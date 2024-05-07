@@ -72,7 +72,7 @@ async function main() {
 	await generateIcons({
 		path: LUCIDE_DIST,
 		name: 'lucide',
-		outline: false,
+		outline: true,
 		mini: false,
 	})
 

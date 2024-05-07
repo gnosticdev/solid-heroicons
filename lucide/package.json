@@ -1,5 +1,5 @@
 {
-    "name": "solid-heroicons/lucide",
+    "name": "solid-heroicons-with-lucide/lucide",
 				"type": "module",
     "module": "browser/index.js",
     "main": "browser/index.js",

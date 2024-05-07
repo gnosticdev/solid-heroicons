@@ -1,5 +1,5 @@
 {
-    "name": "solid-heroicons/outline",
+    "name": "solid-heroicons-with-lucide/outline",
 				"type": "module",
     "module": "browser/index.js",
     "main": "browser/index.js",

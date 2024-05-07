@@ -4016,8761 +4016,8761 @@ var _tmpl$ = /*#__PURE__*/template(`<svg><path d="M3.5 13h6"></svg>`, false, tru
   _tmpl$4014 = /*#__PURE__*/template(`<svg><line x1=8 x2=14 y1=11 y2=11></svg>`, false, true);
 const aArrowDown = {
   path: () => [_tmpl$(), _tmpl$2(), _tmpl$3(), _tmpl$4()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'A Arrow Down'
 };
 const aArrowUp = {
   path: () => [_tmpl$(), _tmpl$2(), _tmpl$5(), _tmpl$6()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'A Arrow Up'
 };
 const aLargeSmall = {
   path: () => [_tmpl$7(), _tmpl$8(), _tmpl$9(), _tmpl$10()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'A Large Small'
 };
 const accessibility = {
   path: () => [_tmpl$11(), _tmpl$12(), _tmpl$13(), _tmpl$14(), _tmpl$15()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Accessibility'
 };
 const activity = {
   path: () => _tmpl$16(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Activity'
 };
 const airVent = {
   path: () => [_tmpl$17(), _tmpl$18(), _tmpl$19(), _tmpl$20()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Air Vent'
 };
 const airplay = {
   path: () => [_tmpl$21(), _tmpl$22()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Airplay'
 };
 const alarmClockCheck = {
   path: () => [_tmpl$23(), _tmpl$24(), _tmpl$25(), _tmpl$26(), _tmpl$27(), _tmpl$28()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Alarm Clock Check'
 };
 const alarmClockMinus = {
   path: () => [_tmpl$23(), _tmpl$24(), _tmpl$25(), _tmpl$26(), _tmpl$27(), _tmpl$29()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Alarm Clock Minus'
 };
 const alarmClockOff = {
   path: () => [_tmpl$30(), _tmpl$31(), _tmpl$25(), _tmpl$32(), _tmpl$33(), _tmpl$34()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Alarm Clock Off'
 };
 const alarmClockPlus = {
   path: () => [_tmpl$23(), _tmpl$24(), _tmpl$25(), _tmpl$26(), _tmpl$27(), _tmpl$35(), _tmpl$29()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Alarm Clock Plus'
 };
 const alarmClock = {
   path: () => [_tmpl$23(), _tmpl$36(), _tmpl$24(), _tmpl$25(), _tmpl$26(), _tmpl$27()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Alarm Clock'
 };
 const alarmSmoke = {
   path: () => [_tmpl$37(), _tmpl$38(), _tmpl$39(), _tmpl$40(), _tmpl$41()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Alarm Smoke'
 };
 const album = {
   path: () => [_tmpl$42(), _tmpl$43()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Album'
 };
 const alignCenterHorizontal = {
   path: () => [_tmpl$44(), _tmpl$45(), _tmpl$46(), _tmpl$47(), _tmpl$48()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Center Horizontal'
 };
 const alignCenterVertical = {
   path: () => [_tmpl$49(), _tmpl$50(), _tmpl$51(), _tmpl$52(), _tmpl$53()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Center Vertical'
 };
 const alignCenter = {
   path: () => [_tmpl$54(), _tmpl$55(), _tmpl$56()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Center'
 };
 const alignEndHorizontal = {
   path: () => [_tmpl$57(), _tmpl$58(), _tmpl$59()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align End Horizontal'
 };
 const alignEndVertical = {
   path: () => [_tmpl$60(), _tmpl$61(), _tmpl$62()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align End Vertical'
 };
 const alignHorizontalDistributeCenter = {
   path: () => [_tmpl$63(), _tmpl$64(), _tmpl$65(), _tmpl$66(), _tmpl$67(), _tmpl$68()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Horizontal Distribute Center'
 };
 const alignHorizontalDistributeEnd = {
   path: () => [_tmpl$63(), _tmpl$64(), _tmpl$69(), _tmpl$70()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Horizontal Distribute End'
 };
 const alignHorizontalDistributeStart = {
   path: () => [_tmpl$63(), _tmpl$64(), _tmpl$71(), _tmpl$72()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Horizontal Distribute Start'
 };
 const alignHorizontalJustifyCenter = {
   path: () => [_tmpl$73(), _tmpl$74(), _tmpl$49()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Horizontal Justify Center'
 };
 const alignHorizontalJustifyEnd = {
   path: () => [_tmpl$73(), _tmpl$75(), _tmpl$76()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Horizontal Justify End'
 };
 const alignHorizontalJustifyStart = {
   path: () => [_tmpl$77(), _tmpl$74(), _tmpl$78()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Horizontal Justify Start'
 };
 const alignHorizontalSpaceAround = {
   path: () => [_tmpl$79(), _tmpl$80(), _tmpl$81()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Horizontal Space Around'
 };
 const alignHorizontalSpaceBetween = {
   path: () => [_tmpl$82(), _tmpl$83(), _tmpl$84(), _tmpl$85()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Horizontal Space Between'
 };
 const alignJustify = {
   path: () => [_tmpl$86(), _tmpl$87(), _tmpl$88()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Justify'
 };
 const alignLeft = {
   path: () => [_tmpl$54(), _tmpl$89(), _tmpl$90()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Left'
 };
 const alignRight = {
   path: () => [_tmpl$54(), _tmpl$91(), _tmpl$92()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Right'
 };
 const alignStartHorizontal = {
   path: () => [_tmpl$93(), _tmpl$94(), _tmpl$95()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Start Horizontal'
 };
 const alignStartVertical = {
   path: () => [_tmpl$96(), _tmpl$97(), _tmpl$78()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Start Vertical'
 };
 const alignVerticalDistributeCenter = {
   path: () => [_tmpl$98(), _tmpl$99(), _tmpl$100(), _tmpl$101(), _tmpl$102(), _tmpl$103()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Vertical Distribute Center'
 };
 const alignVerticalDistributeEnd = {
   path: () => [_tmpl$104(), _tmpl$105(), _tmpl$106(), _tmpl$107()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Vertical Distribute End'
 };
 const alignVerticalDistributeStart = {
   path: () => [_tmpl$104(), _tmpl$105(), _tmpl$108(), _tmpl$109()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Vertical Distribute Start'
 };
 const alignVerticalJustifyCenter = {
   path: () => [_tmpl$110(), _tmpl$111(), _tmpl$44()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Vertical Justify Center'
 };
 const alignVerticalJustifyEnd = {
   path: () => [_tmpl$112(), _tmpl$111(), _tmpl$113()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Vertical Justify End'
 };
 const alignVerticalJustifyStart = {
   path: () => [_tmpl$110(), _tmpl$114(), _tmpl$115()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Vertical Justify Start'
 };
 const alignVerticalSpaceAround = {
   path: () => [_tmpl$116(), _tmpl$117(), _tmpl$118()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Vertical Space Around'
 };
 const alignVerticalSpaceBetween = {
   path: () => [_tmpl$119(), _tmpl$120(), _tmpl$121(), _tmpl$122()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Align Vertical Space Between'
 };
 const ambulance = {
   path: () => [_tmpl$123(), _tmpl$124(), _tmpl$125(), _tmpl$126(), _tmpl$127(), _tmpl$128(), _tmpl$129()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ambulance'
 };
 const ampersand = {
   path: () => [_tmpl$130(), _tmpl$131()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ampersand'
 };
 const ampersands = {
   path: () => [_tmpl$132(), _tmpl$133()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ampersands'
 };
 const anchor = {
   path: () => [_tmpl$134(), _tmpl$135(), _tmpl$136()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Anchor'
 };
 const angry = {
   path: () => [_tmpl$137(), _tmpl$138(), _tmpl$139(), _tmpl$140(), _tmpl$141(), _tmpl$142()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Angry'
 };
 const annoyed = {
   path: () => [_tmpl$137(), _tmpl$143(), _tmpl$144(), _tmpl$145()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Annoyed'
 };
 const antenna = {
   path: () => [_tmpl$146(), _tmpl$147(), _tmpl$148(), _tmpl$149(), _tmpl$150(), _tmpl$151()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Antenna'
 };
 const anvil = {
   path: () => [_tmpl$152(), _tmpl$153(), _tmpl$154(), _tmpl$155(), _tmpl$156()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Anvil'
 };
 const aperture = {
   path: () => [_tmpl$137(), _tmpl$157(), _tmpl$158(), _tmpl$159(), _tmpl$160(), _tmpl$161(), _tmpl$162()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Aperture'
 };
 const appWindowMac = {
   path: () => [_tmpl$163(), _tmpl$164(), _tmpl$165(), _tmpl$166()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'App Window Mac'
 };
 const appWindow = {
   path: () => [_tmpl$167(), _tmpl$168(), _tmpl$169(), _tmpl$170()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'App Window'
 };
 const apple = {
   path: () => [_tmpl$171(), _tmpl$172()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Apple'
 };
 const archiveRestore = {
   path: () => [_tmpl$173(), _tmpl$174(), _tmpl$175(), _tmpl$176(), _tmpl$177()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Archive Restore'
 };
 const archiveX = {
   path: () => [_tmpl$173(), _tmpl$178(), _tmpl$179(), _tmpl$180()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Archive X'
 };
 const archive = {
   path: () => [_tmpl$173(), _tmpl$178(), _tmpl$181()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Archive'
 };
 const areaChart = {
   path: () => [_tmpl$182(), _tmpl$183()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Area Chart'
 };
 const armchair = {
   path: () => [_tmpl$184(), _tmpl$185(), _tmpl$186(), _tmpl$187()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Armchair'
 };
 const arrowBigDownDash = {
   path: () => [_tmpl$188(), _tmpl$189()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Big Down Dash'
 };
 const arrowBigDown = {
   path: () => _tmpl$190(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Big Down'
 };
 const arrowBigLeftDash = {
   path: () => [_tmpl$191(), _tmpl$192()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Big Left Dash'
 };
 const arrowBigLeft = {
   path: () => _tmpl$193(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Big Left'
 };
 const arrowBigRightDash = {
   path: () => [_tmpl$194(), _tmpl$195()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Big Right Dash'
 };
 const arrowBigRight = {
   path: () => _tmpl$196(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Big Right'
 };
 const arrowBigUpDash = {
   path: () => [_tmpl$197(), _tmpl$198()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Big Up Dash'
 };
 const arrowBigUp = {
   path: () => _tmpl$199(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Big Up'
 };
 const arrowDown_0_1 = {
   path: () => [_tmpl$200(), _tmpl$201(), _tmpl$202(), _tmpl$203(), _tmpl$204()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down 0 1'
 };
 const arrowDown_1_0 = {
   path: () => [_tmpl$200(), _tmpl$201(), _tmpl$205(), _tmpl$206(), _tmpl$207()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down 1 0'
 };
 const arrowDownAZ = {
   path: () => [_tmpl$200(), _tmpl$201(), _tmpl$208(), _tmpl$209(), _tmpl$210()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down A Z'
 };
 const arrowDownFromLine = {
   path: () => [_tmpl$211(), _tmpl$212(), _tmpl$213()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down From Line'
 };
 const arrowDownLeft = {
   path: () => [_tmpl$214(), _tmpl$215()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down Left'
 };
 const arrowDownNarrowWide = {
   path: () => [_tmpl$200(), _tmpl$201(), _tmpl$216(), _tmpl$217(), _tmpl$218()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down Narrow Wide'
 };
 const arrowDownRight = {
   path: () => [_tmpl$219(), _tmpl$220()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down Right'
 };
 const arrowDownToDot = {
   path: () => [_tmpl$221(), _tmpl$222(), _tmpl$223()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down To Dot'
 };
 const arrowDownToLine = {
   path: () => [_tmpl$224(), _tmpl$225(), _tmpl$226()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down To Line'
 };
 const arrowDownUp = {
   path: () => [_tmpl$200(), _tmpl$201(), _tmpl$227(), _tmpl$228()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down Up'
 };
 const arrowDownWideNarrow = {
   path: () => [_tmpl$200(), _tmpl$201(), _tmpl$229(), _tmpl$217(), _tmpl$230()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down Wide Narrow'
 };
 const arrowDownZA = {
   path: () => [_tmpl$200(), _tmpl$231(), _tmpl$232(), _tmpl$233(), _tmpl$234()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down Z A'
 };
 const arrowDown = {
   path: () => [_tmpl$235(), _tmpl$236()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Down'
 };
 const arrowLeftFromLine = {
   path: () => [_tmpl$237(), _tmpl$238(), _tmpl$239()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Left From Line'
 };
 const arrowLeftRight = {
   path: () => [_tmpl$240(), _tmpl$241(), _tmpl$242(), _tmpl$243()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Left Right'
 };
 const arrowLeftToLine = {
   path: () => [_tmpl$244(), _tmpl$245(), _tmpl$246()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Left To Line'
 };
 const arrowLeft = {
   path: () => [_tmpl$247(), _tmpl$248()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Left'
 };
 const arrowRightFromLine = {
   path: () => [_tmpl$249(), _tmpl$250(), _tmpl$251()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Right From Line'
 };
 const arrowRightLeft = {
   path: () => [_tmpl$252(), _tmpl$253(), _tmpl$254(), _tmpl$255()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Right Left'
 };
 const arrowRightToLine = {
   path: () => [_tmpl$256(), _tmpl$257(), _tmpl$258()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Right To Line'
 };
 const arrowRight = {
   path: () => [_tmpl$259(), _tmpl$260()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Right'
 };
 const arrowUp_0_1 = {
   path: () => [_tmpl$261(), _tmpl$231(), _tmpl$202(), _tmpl$203(), _tmpl$204()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up 0 1'
 };
 const arrowUp_1_0 = {
   path: () => [_tmpl$261(), _tmpl$231(), _tmpl$205(), _tmpl$206(), _tmpl$207()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up 1 0'
 };
 const arrowUpAZ = {
   path: () => [_tmpl$261(), _tmpl$231(), _tmpl$208(), _tmpl$209(), _tmpl$210()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up A Z'
 };
 const arrowUpDown = {
   path: () => [_tmpl$262(), _tmpl$263(), _tmpl$261(), _tmpl$231()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up Down'
 };
 const arrowUpFromDot = {
   path: () => [_tmpl$264(), _tmpl$265(), _tmpl$223()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up From Dot'
 };
 const arrowUpFromLine = {
   path: () => [_tmpl$266(), _tmpl$267(), _tmpl$268()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up From Line'
 };
 const arrowUpLeft = {
   path: () => [_tmpl$269(), _tmpl$270()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up Left'
 };
 const arrowUpNarrowWide = {
   path: () => [_tmpl$261(), _tmpl$231(), _tmpl$230(), _tmpl$271(), _tmpl$272()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up Narrow Wide'
 };
 const arrowUpRight = {
   path: () => [_tmpl$273(), _tmpl$274()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up Right'
 };
 const arrowUpToLine = {
   path: () => [_tmpl$275(), _tmpl$276(), _tmpl$277()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up To Line'
 };
 const arrowUpWideNarrow = {
   path: () => [_tmpl$261(), _tmpl$231(), _tmpl$218(), _tmpl$271(), _tmpl$278()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up Wide Narrow'
 };
 const arrowUpZA = {
   path: () => [_tmpl$261(), _tmpl$231(), _tmpl$232(), _tmpl$233(), _tmpl$234()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up Z A'
 };
 const arrowUp = {
   path: () => [_tmpl$279(), _tmpl$280()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrow Up'
 };
 const arrowsUpFromLine = {
   path: () => [_tmpl$281(), _tmpl$282(), _tmpl$283(), _tmpl$284(), _tmpl$285()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Arrows Up From Line'
 };
 const asterisk = {
   path: () => [_tmpl$286(), _tmpl$287(), _tmpl$288()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Asterisk'
 };
 const atSign = {
   path: () => [_tmpl$289(), _tmpl$290()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'At Sign'
 };
 const atom = {
   path: () => [_tmpl$291(), _tmpl$292(), _tmpl$293()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Atom'
 };
 const audioLines = {
   path: () => [_tmpl$294(), _tmpl$295(), _tmpl$296(), _tmpl$297(), _tmpl$298(), _tmpl$299()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Audio Lines'
 };
 const audioWaveform = {
   path: () => _tmpl$300(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Audio Waveform'
 };
 const award = {
   path: () => [_tmpl$301(), _tmpl$302()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Award'
 };
 const axe = {
   path: () => [_tmpl$303(), _tmpl$304()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Axe'
 };
 const axis_3d = {
   path: () => [_tmpl$305(), _tmpl$306()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Axis 3d'
 };
 const baby = {
   path: () => [_tmpl$307(), _tmpl$308(), _tmpl$309(), _tmpl$310()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Baby'
 };
 const backpack = {
   path: () => [_tmpl$311(), _tmpl$312(), _tmpl$313(), _tmpl$314(), _tmpl$315()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Backpack'
 };
 const badgeAlert = {
   path: () => [_tmpl$316(), _tmpl$317(), _tmpl$318()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Alert'
 };
 const badgeCent = {
   path: () => [_tmpl$316(), _tmpl$319(), _tmpl$320()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Cent'
 };
 const badgeCheck = {
   path: () => [_tmpl$316(), _tmpl$321()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Check'
 };
 const badgeDollarSign = {
   path: () => [_tmpl$316(), _tmpl$322(), _tmpl$323()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Dollar Sign'
 };
 const badgeEuro = {
   path: () => [_tmpl$316(), _tmpl$324(), _tmpl$325()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Euro'
 };
 const badgeHelp = {
   path: () => [_tmpl$316(), _tmpl$326(), _tmpl$327()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Help'
 };
 const badgeIndianRupee = {
   path: () => [_tmpl$316(), _tmpl$328(), _tmpl$329(), _tmpl$330()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Indian Rupee'
 };
 const badgeInfo = {
   path: () => [_tmpl$316(), _tmpl$331(), _tmpl$332()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Info'
 };
 const badgeJapaneseYen = {
   path: () => [_tmpl$316(), _tmpl$333(), _tmpl$334(), _tmpl$335(), _tmpl$336()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Japanese Yen'
 };
 const badgeMinus = {
   path: () => [_tmpl$316(), _tmpl$337()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Minus'
 };
 const badgePercent = {
   path: () => [_tmpl$316(), _tmpl$338(), _tmpl$339(), _tmpl$340()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Percent'
 };
 const badgePlus = {
   path: () => [_tmpl$316(), _tmpl$341(), _tmpl$337()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Plus'
 };
 const badgePoundSterling = {
   path: () => [_tmpl$316(), _tmpl$342(), _tmpl$343(), _tmpl$344()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Pound Sterling'
 };
 const badgeRussianRuble = {
   path: () => [_tmpl$316(), _tmpl$345(), _tmpl$346()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Russian Ruble'
 };
 const badgeSwissFranc = {
   path: () => [_tmpl$316(), _tmpl$347(), _tmpl$348(), _tmpl$349()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge Swiss Franc'
 };
 const badgeX = {
   path: () => [_tmpl$316(), _tmpl$350(), _tmpl$351()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge X'
 };
 const badge = {
   path: () => _tmpl$316(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Badge'
 };
 const baggageClaim = {
   path: () => [_tmpl$352(), _tmpl$353(), _tmpl$354(), _tmpl$355(), _tmpl$356()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Baggage Claim'
 };
 const ban = {
   path: () => [_tmpl$137(), _tmpl$357()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ban'
 };
 const banana = {
   path: () => [_tmpl$358(), _tmpl$359()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Banana'
 };
 const banknote = {
   path: () => [_tmpl$360(), _tmpl$361(), _tmpl$362()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Banknote'
 };
 const barChart_2 = {
   path: () => [_tmpl$363(), _tmpl$364(), _tmpl$365()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bar Chart 2'
 };
 const barChart_3 = {
   path: () => [_tmpl$182(), _tmpl$366(), _tmpl$367(), _tmpl$368()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bar Chart 3'
 };
 const barChart_4 = {
   path: () => [_tmpl$182(), _tmpl$369(), _tmpl$370(), _tmpl$368()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bar Chart 4'
 };
 const barChartBig = {
   path: () => [_tmpl$182(), _tmpl$371(), _tmpl$372()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bar Chart Big'
 };
 const barChartHorizontalBig = {
   path: () => [_tmpl$182(), _tmpl$373(), _tmpl$374()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bar Chart Horizontal Big'
 };
 const barChartHorizontal = {
   path: () => [_tmpl$182(), _tmpl$375(), _tmpl$376(), _tmpl$377()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bar Chart Horizontal'
 };
 const barChart = {
   path: () => [_tmpl$378(), _tmpl$379(), _tmpl$380()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bar Chart'
 };
 const barcode = {
   path: () => [_tmpl$249(), _tmpl$381(), _tmpl$235(), _tmpl$382(), _tmpl$258()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Barcode'
 };
 const baseline = {
   path: () => [_tmpl$383(), _tmpl$384(), _tmpl$329()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Baseline'
 };
 const bath = {
   path: () => [_tmpl$385(), _tmpl$386(), _tmpl$387(), _tmpl$388(), _tmpl$389()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bath'
 };
 const batteryCharging = {
   path: () => [_tmpl$390(), _tmpl$391(), _tmpl$392(), _tmpl$393()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Battery Charging'
 };
 const batteryFull = {
   path: () => [_tmpl$394(), _tmpl$393(), _tmpl$395(), _tmpl$396(), _tmpl$397()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Battery Full'
 };
 const batteryLow = {
   path: () => [_tmpl$394(), _tmpl$393(), _tmpl$395()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Battery Low'
 };
 const batteryMedium = {
   path: () => [_tmpl$394(), _tmpl$393(), _tmpl$395(), _tmpl$396()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Battery Medium'
 };
 const batteryWarning = {
   path: () => [_tmpl$398(), _tmpl$399(), _tmpl$393(), _tmpl$400(), _tmpl$401()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Battery Warning'
 };
 const battery = {
   path: () => [_tmpl$394(), _tmpl$393()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Battery'
 };
 const beaker = {
   path: () => [_tmpl$402(), _tmpl$403(), _tmpl$404()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Beaker'
 };
 const beanOff = {
   path: () => [_tmpl$405(), _tmpl$406(), _tmpl$407(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bean Off'
 };
 const bean = {
   path: () => [_tmpl$409(), _tmpl$410()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bean'
 };
 const bedDouble = {
   path: () => [_tmpl$411(), _tmpl$412(), _tmpl$413(), _tmpl$414()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bed Double'
 };
 const bedSingle = {
   path: () => [_tmpl$415(), _tmpl$416(), _tmpl$417()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bed Single'
 };
 const bed = {
   path: () => [_tmpl$418(), _tmpl$419(), _tmpl$420(), _tmpl$421()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bed'
 };
 const beef = {
   path: () => [_tmpl$422(), _tmpl$423(), _tmpl$424()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Beef'
 };
 const beerOff = {
   path: () => [_tmpl$425(), _tmpl$426(), _tmpl$427(), _tmpl$33(), _tmpl$428(), _tmpl$429(), _tmpl$430(), _tmpl$431()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Beer Off'
 };
 const beer = {
   path: () => [_tmpl$432(), _tmpl$433(), _tmpl$434(), _tmpl$435(), _tmpl$436()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Beer'
 };
 const bellDot = {
   path: () => [_tmpl$437(), _tmpl$438(), _tmpl$439()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bell Dot'
 };
 const bellElectric = {
   path: () => [_tmpl$440(), _tmpl$339(), _tmpl$441(), _tmpl$442(), _tmpl$443(), _tmpl$444()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bell Electric'
 };
 const bellMinus = {
   path: () => [_tmpl$445(), _tmpl$438(), _tmpl$446()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bell Minus'
 };
 const bellOff = {
   path: () => [_tmpl$447(), _tmpl$448(), _tmpl$438(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bell Off'
 };
 const bellPlus = {
   path: () => [_tmpl$449(), _tmpl$438(), _tmpl$446(), _tmpl$450()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bell Plus'
 };
 const bellRing = {
   path: () => [_tmpl$451(), _tmpl$438(), _tmpl$452(), _tmpl$453()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bell Ring'
 };
 const bell = {
   path: () => [_tmpl$451(), _tmpl$438()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bell'
 };
 const betweenHorizontalEnd = {
   path: () => [_tmpl$454(), _tmpl$455(), _tmpl$456()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Between Horizontal End'
 };
 const betweenHorizontalStart = {
   path: () => [_tmpl$457(), _tmpl$458(), _tmpl$459()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Between Horizontal Start'
 };
 const betweenVerticalEnd = {
   path: () => [_tmpl$460(), _tmpl$461(), _tmpl$462()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Between Vertical End'
 };
 const betweenVerticalStart = {
   path: () => [_tmpl$463(), _tmpl$464(), _tmpl$465()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Between Vertical Start'
 };
 const bike = {
   path: () => [_tmpl$466(), _tmpl$467(), _tmpl$468(), _tmpl$469()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bike'
 };
 const binary = {
   path: () => [_tmpl$470(), _tmpl$471(), _tmpl$472(), _tmpl$473(), _tmpl$474(), _tmpl$475()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Binary'
 };
 const biohazard = {
   path: () => [_tmpl$476(), _tmpl$477(), _tmpl$478(), _tmpl$479(), _tmpl$480(), _tmpl$481(), _tmpl$482(), _tmpl$483(), _tmpl$484(), _tmpl$485()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Biohazard'
 };
 const bird = {
   path: () => [_tmpl$486(), _tmpl$487(), _tmpl$488(), _tmpl$489(), _tmpl$490(), _tmpl$491()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bird'
 };
 const bitcoin = {
   path: () => _tmpl$492(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bitcoin'
 };
 const blend = {
   path: () => [_tmpl$441(), _tmpl$493()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Blend'
 };
 const blinds = {
   path: () => [_tmpl$494(), _tmpl$495(), _tmpl$496(), _tmpl$497(), _tmpl$498(), _tmpl$499(), _tmpl$500()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Blinds'
 };
 const blocks = {
   path: () => [_tmpl$501(), _tmpl$502()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Blocks'
 };
 const bluetoothConnected = {
   path: () => [_tmpl$503(), _tmpl$504(), _tmpl$505()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bluetooth Connected'
 };
 const bluetoothOff = {
   path: () => [_tmpl$506(), _tmpl$33(), _tmpl$507()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bluetooth Off'
 };
 const bluetoothSearching = {
   path: () => [_tmpl$503(), _tmpl$508(), _tmpl$509()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bluetooth Searching'
 };
 const bluetooth = {
   path: () => _tmpl$503(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bluetooth'
 };
 const bold = {
   path: () => _tmpl$510(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bold'
 };
 const bolt = {
   path: () => [_tmpl$511(), _tmpl$289()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bolt'
 };
 const bomb = {
   path: () => [_tmpl$512(), _tmpl$513(), _tmpl$514()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bomb'
 };
 const bone = {
   path: () => _tmpl$515(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bone'
 };
 const bookA = {
   path: () => [_tmpl$516(), _tmpl$517(), _tmpl$518()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book A'
 };
 const bookAudio = {
   path: () => [_tmpl$516(), _tmpl$519(), _tmpl$520(), _tmpl$521()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Audio'
 };
 const bookCheck = {
   path: () => [_tmpl$516(), _tmpl$522()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Check'
 };
 const bookCopy = {
   path: () => [_tmpl$523(), _tmpl$524(), _tmpl$525()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Copy'
 };
 const bookDashed = {
   path: () => [_tmpl$526(), _tmpl$527(), _tmpl$528(), _tmpl$529(), _tmpl$530(), _tmpl$531(), _tmpl$532(), _tmpl$533(), _tmpl$534(), _tmpl$535(), _tmpl$536()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Dashed'
 };
 const bookDown = {
   path: () => [_tmpl$516(), _tmpl$537(), _tmpl$538()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Down'
 };
 const bookHeadphones = {
   path: () => [_tmpl$516(), _tmpl$539(), _tmpl$540(), _tmpl$541()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Headphones'
 };
 const bookHeart = {
   path: () => [_tmpl$516(), _tmpl$542()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Heart'
 };
 const bookImage = {
   path: () => [_tmpl$516(), _tmpl$543(), _tmpl$544()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Image'
 };
 const bookKey = {
   path: () => [_tmpl$545(), _tmpl$546(), _tmpl$547(), _tmpl$548(), _tmpl$549()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Key'
 };
 const bookLock = {
   path: () => [_tmpl$550(), _tmpl$551(), _tmpl$552(), _tmpl$553()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Lock'
 };
 const bookMarked = {
   path: () => [_tmpl$516(), _tmpl$554()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Marked'
 };
 const bookMinus = {
   path: () => [_tmpl$516(), _tmpl$555()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Minus'
 };
 const bookOpenCheck = {
   path: () => [_tmpl$556(), _tmpl$557(), _tmpl$558()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Open Check'
 };
 const bookOpenText = {
   path: () => [_tmpl$559(), _tmpl$560(), _tmpl$561(), _tmpl$562(), _tmpl$563(), _tmpl$564()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Open Text'
 };
 const bookOpen = {
   path: () => [_tmpl$559(), _tmpl$560()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Open'
 };
 const bookPlus = {
   path: () => [_tmpl$516(), _tmpl$555(), _tmpl$565()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Plus'
 };
 const bookText = {
   path: () => [_tmpl$516(), _tmpl$566(), _tmpl$567()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Text'
 };
 const bookType = {
   path: () => [_tmpl$516(), _tmpl$568(), _tmpl$520(), _tmpl$569()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Type'
 };
 const bookUp_2 = {
   path: () => [_tmpl$570(), _tmpl$571(), _tmpl$537(), _tmpl$572(), _tmpl$573()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Up 2'
 };
 const bookUp = {
   path: () => [_tmpl$516(), _tmpl$537(), _tmpl$572()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book Up'
 };
 const bookUser = {
   path: () => [_tmpl$516(), _tmpl$574(), _tmpl$575()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book User'
 };
 const bookX = {
   path: () => [_tmpl$516(), _tmpl$576(), _tmpl$577()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book X'
 };
 const book = {
   path: () => _tmpl$516(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Book'
 };
 const bookmarkCheck = {
   path: () => [_tmpl$578(), _tmpl$579()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bookmark Check'
 };
 const bookmarkMinus = {
   path: () => [_tmpl$580(), _tmpl$581()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bookmark Minus'
 };
 const bookmarkPlus = {
   path: () => [_tmpl$580(), _tmpl$582(), _tmpl$581()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bookmark Plus'
 };
 const bookmarkX = {
   path: () => [_tmpl$578(), _tmpl$583(), _tmpl$584()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bookmark X'
 };
 const bookmark = {
   path: () => _tmpl$580(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bookmark'
 };
 const boomBox = {
   path: () => [_tmpl$585(), _tmpl$586(), _tmpl$587(), _tmpl$588(), _tmpl$589(), _tmpl$590(), _tmpl$591()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Boom Box'
 };
 const botMessageSquare = {
   path: () => [_tmpl$592(), _tmpl$593(), _tmpl$594(), _tmpl$595(), _tmpl$596(), _tmpl$597()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bot Message Square'
 };
 const botOff = {
   path: () => [_tmpl$598(), _tmpl$599(), _tmpl$600(), _tmpl$601(), _tmpl$602(), _tmpl$603(), _tmpl$604()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bot Off'
 };
 const bot = {
   path: () => [_tmpl$605(), _tmpl$606(), _tmpl$599(), _tmpl$600(), _tmpl$607(), _tmpl$603()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bot'
 };
 const boxSelect = {
   path: () => [_tmpl$608(), _tmpl$609(), _tmpl$610(), _tmpl$611(), _tmpl$612(), _tmpl$613(), _tmpl$614(), _tmpl$615(), _tmpl$616(), _tmpl$617(), _tmpl$618(), _tmpl$619()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Box Select'
 };
 const box = {
   path: () => [_tmpl$620(), _tmpl$621(), _tmpl$622()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Box'
 };
 const boxes = {
   path: () => [_tmpl$623(), _tmpl$624(), _tmpl$625(), _tmpl$626(), _tmpl$627(), _tmpl$628(), _tmpl$629(), _tmpl$630(), _tmpl$631(), _tmpl$632(), _tmpl$633(), _tmpl$634()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Boxes'
 };
 const braces = {
   path: () => [_tmpl$635(), _tmpl$636()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Braces'
 };
 const brackets = {
   path: () => [_tmpl$637(), _tmpl$638()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Brackets'
 };
 const brainCircuit = {
   path: () => [_tmpl$639(), _tmpl$640(), _tmpl$641(), _tmpl$642(), _tmpl$643(), _tmpl$644(), _tmpl$645(), _tmpl$646(), _tmpl$647(), _tmpl$648(), _tmpl$649(), _tmpl$650(), _tmpl$651()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Brain Circuit'
 };
 const brainCog = {
   path: () => [_tmpl$652(), _tmpl$653(), _tmpl$641(), _tmpl$642(), _tmpl$654(), _tmpl$643(), _tmpl$655(), _tmpl$656(), _tmpl$657(), _tmpl$658(), _tmpl$659(), _tmpl$660(), _tmpl$661(), _tmpl$662(), _tmpl$663(), _tmpl$664()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Brain Cog'
 };
 const brain = {
   path: () => [_tmpl$639(), _tmpl$665(), _tmpl$666(), _tmpl$653(), _tmpl$641(), _tmpl$642(), _tmpl$654(), _tmpl$643(), _tmpl$655()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Brain'
 };
 const brickWall = {
   path: () => [_tmpl$667(), _tmpl$668(), _tmpl$669(), _tmpl$670(), _tmpl$671(), _tmpl$672(), _tmpl$673(), _tmpl$674()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Brick Wall'
 };
 const briefcaseBusiness = {
   path: () => [_tmpl$675(), _tmpl$676(), _tmpl$677(), _tmpl$678()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Briefcase Business'
 };
 const briefcaseMedical = {
   path: () => [_tmpl$679(), _tmpl$680(), _tmpl$676(), _tmpl$681(), _tmpl$682(), _tmpl$678()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Briefcase Medical'
 };
 const briefcase = {
   path: () => [_tmpl$683(), _tmpl$678()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Briefcase'
 };
 const bringToFront = {
   path: () => [_tmpl$684(), _tmpl$685(), _tmpl$686()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bring To Front'
 };
 const brush = {
   path: () => [_tmpl$687(), _tmpl$688()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Brush'
 };
 const bugOff = {
   path: () => [_tmpl$689(), _tmpl$690(), _tmpl$691(), _tmpl$692(), _tmpl$33(), _tmpl$693(), _tmpl$694(), _tmpl$695(), _tmpl$696()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bug Off'
 };
 const bugPlay = {
   path: () => [_tmpl$697(), _tmpl$690(), _tmpl$698(), _tmpl$692(), _tmpl$696(), _tmpl$695(), _tmpl$699(), _tmpl$700(), _tmpl$701()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bug Play'
 };
 const bug = {
   path: () => [_tmpl$700(), _tmpl$690(), _tmpl$701(), _tmpl$702(), _tmpl$703(), _tmpl$699(), _tmpl$695(), _tmpl$696(), _tmpl$692(), _tmpl$704(), _tmpl$705()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bug'
 };
 const building_2 = {
   path: () => [_tmpl$706(), _tmpl$707(), _tmpl$708(), _tmpl$709(), _tmpl$710(), _tmpl$711(), _tmpl$712()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Building 2'
 };
 const building = {
   path: () => [_tmpl$713(), _tmpl$714(), _tmpl$715(), _tmpl$716(), _tmpl$717(), _tmpl$718(), _tmpl$719(), _tmpl$720(), _tmpl$721(), _tmpl$722(), _tmpl$723()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Building'
 };
 const busFront = {
   path: () => [_tmpl$724(), _tmpl$709(), _tmpl$725(), _tmpl$726(), _tmpl$727(), _tmpl$728(), _tmpl$729(), _tmpl$730(), _tmpl$731()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bus Front'
 };
 const bus = {
   path: () => [_tmpl$732(), _tmpl$733(), _tmpl$734(), _tmpl$735(), _tmpl$129(), _tmpl$736(), _tmpl$737()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Bus'
 };
 const cableCar = {
   path: () => [_tmpl$738(), _tmpl$739(), _tmpl$740(), _tmpl$741(), _tmpl$742(), _tmpl$154(), _tmpl$155(), _tmpl$255()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cable Car'
 };
 const cable = {
   path: () => [_tmpl$743(), _tmpl$744(), _tmpl$745(), _tmpl$746(), _tmpl$747()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cable'
 };
 const cakeSlice = {
   path: () => [_tmpl$748(), _tmpl$749(), _tmpl$750(), _tmpl$751()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cake Slice'
 };
 const cake = {
   path: () => [_tmpl$752(), _tmpl$753(), _tmpl$121(), _tmpl$754(), _tmpl$755(), _tmpl$756(), _tmpl$757(), _tmpl$758(), _tmpl$759()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cake'
 };
 const calculator = {
   path: () => [_tmpl$760(), _tmpl$761(), _tmpl$762(), _tmpl$720(), _tmpl$718(), _tmpl$722(), _tmpl$719(), _tmpl$723(), _tmpl$763(), _tmpl$764()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calculator'
 };
 const calendarCheck_2 = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$767(), _tmpl$768(), _tmpl$769()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Check 2'
 };
 const calendarCheck = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$770(), _tmpl$768(), _tmpl$771()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Check'
 };
 const calendarClock = {
   path: () => [_tmpl$772(), _tmpl$766(), _tmpl$765(), _tmpl$773(), _tmpl$774(), _tmpl$775()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Clock'
 };
 const calendarDays = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$770(), _tmpl$768(), _tmpl$723(), _tmpl$719(), _tmpl$721(), _tmpl$764(), _tmpl$763(), _tmpl$776()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Days'
 };
 const calendarFold = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$777(), _tmpl$768(), _tmpl$778()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Fold'
 };
 const calendarHeart = {
   path: () => [_tmpl$779(), _tmpl$765(), _tmpl$766(), _tmpl$780()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Heart'
 };
 const calendarMinus_2 = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$770(), _tmpl$768(), _tmpl$781()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Minus 2'
 };
 const calendarMinus = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$782(), _tmpl$768(), _tmpl$783()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Minus'
 };
 const calendarOff = {
   path: () => [_tmpl$784(), _tmpl$785(), _tmpl$766(), _tmpl$786(), _tmpl$787(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Off'
 };
 const calendarPlus_2 = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$770(), _tmpl$768(), _tmpl$781(), _tmpl$788()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Plus 2'
 };
 const calendarPlus = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$782(), _tmpl$768(), _tmpl$783(), _tmpl$789()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Plus'
 };
 const calendarRange = {
   path: () => [_tmpl$770(), _tmpl$766(), _tmpl$768(), _tmpl$765(), _tmpl$790(), _tmpl$791(), _tmpl$792(), _tmpl$793()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Range'
 };
 const calendarSearch = {
   path: () => [_tmpl$794(), _tmpl$766(), _tmpl$765(), _tmpl$768(), _tmpl$795(), _tmpl$796()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar Search'
 };
 const calendarX_2 = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$782(), _tmpl$768(), _tmpl$797(), _tmpl$798()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar X 2'
 };
 const calendarX = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$770(), _tmpl$768(), _tmpl$799(), _tmpl$800()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar X'
 };
 const calendar = {
   path: () => [_tmpl$765(), _tmpl$766(), _tmpl$770(), _tmpl$768()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Calendar'
 };
 const cameraOff = {
   path: () => [_tmpl$408(), _tmpl$801(), _tmpl$802(), _tmpl$803()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Camera Off'
 };
 const camera = {
   path: () => [_tmpl$804(), _tmpl$805()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Camera'
 };
 const candlestickChart = {
   path: () => [_tmpl$806(), _tmpl$807(), _tmpl$808(), _tmpl$809(), _tmpl$810(), _tmpl$811(), _tmpl$182()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Candlestick Chart'
 };
 const candyCane = {
   path: () => [_tmpl$812(), _tmpl$813(), _tmpl$814(), _tmpl$815(), _tmpl$816()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Candy Cane'
 };
 const candyOff = {
   path: () => [_tmpl$817(), _tmpl$818(), _tmpl$819(), _tmpl$820(), _tmpl$821(), _tmpl$822(), _tmpl$823(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Candy Off'
 };
 const candy = {
   path: () => [_tmpl$824(), _tmpl$825(), _tmpl$826(), _tmpl$827(), _tmpl$828()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Candy'
 };
 const cannabis = {
   path: () => [_tmpl$829(), _tmpl$830()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cannabis'
 };
 const captionsOff = {
   path: () => [_tmpl$831(), _tmpl$832(), _tmpl$833(), _tmpl$33(), _tmpl$834(), _tmpl$835()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Captions Off'
 };
 const captions = {
   path: () => [_tmpl$836(), _tmpl$837()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Captions'
 };
 const carFront = {
   path: () => [_tmpl$838(), _tmpl$792(), _tmpl$839(), _tmpl$840(), _tmpl$186(), _tmpl$187()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Car Front'
 };
 const carTaxiFront = {
   path: () => [_tmpl$841(), _tmpl$838(), _tmpl$792(), _tmpl$839(), _tmpl$840(), _tmpl$186(), _tmpl$187()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Car Taxi Front'
 };
 const car = {
   path: () => [_tmpl$842(), _tmpl$843(), _tmpl$844(), _tmpl$845()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Car'
 };
 const caravan = {
   path: () => [_tmpl$846(), _tmpl$847(), _tmpl$848(), _tmpl$849(), _tmpl$850()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Caravan'
 };
 const carrot = {
   path: () => [_tmpl$851(), _tmpl$852(), _tmpl$853()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Carrot'
 };
 const caseLower = {
   path: () => [_tmpl$854(), _tmpl$855(), _tmpl$856(), _tmpl$857()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Case Lower'
 };
 const caseSensitive = {
   path: () => [_tmpl$858(), _tmpl$859(), _tmpl$860(), _tmpl$861()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Case Sensitive'
 };
 const caseUpper = {
   path: () => [_tmpl$858(), _tmpl$859(), _tmpl$862()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Case Upper'
 };
 const cassetteTape = {
   path: () => [_tmpl$163(), _tmpl$863(), _tmpl$329(), _tmpl$864(), _tmpl$865()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cassette Tape'
 };
 const cast = {
   path: () => [_tmpl$866(), _tmpl$867(), _tmpl$868(), _tmpl$869()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cast'
 };
 const castle = {
   path: () => [_tmpl$870(), _tmpl$871(), _tmpl$872(), _tmpl$873(), _tmpl$874(), _tmpl$875(), _tmpl$876(), _tmpl$877(), _tmpl$878()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Castle'
 };
 const cat = {
   path: () => [_tmpl$879(), _tmpl$880(), _tmpl$881(), _tmpl$882()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cat'
 };
 const cctv = {
   path: () => [_tmpl$883(), _tmpl$884(), _tmpl$885(), _tmpl$886(), _tmpl$887()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cctv'
 };
 const checkCheck = {
   path: () => [_tmpl$888(), _tmpl$889()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Check Check'
 };
 const check = {
   path: () => _tmpl$890(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Check'
 };
 const chefHat = {
   path: () => [_tmpl$891(), _tmpl$892()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chef Hat'
 };
 const cherry = {
   path: () => [_tmpl$893(), _tmpl$894(), _tmpl$895(), _tmpl$896()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cherry'
 };
 const chevronDown = {
   path: () => _tmpl$897(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevron Down'
 };
 const chevronFirst = {
   path: () => [_tmpl$898(), _tmpl$899()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevron First'
 };
 const chevronLast = {
   path: () => [_tmpl$900(), _tmpl$901()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevron Last'
 };
 const chevronLeft = {
   path: () => _tmpl$902(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevron Left'
 };
 const chevronRight = {
   path: () => _tmpl$903(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevron Right'
 };
 const chevronUp = {
   path: () => _tmpl$904(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevron Up'
 };
 const chevronsDownUp = {
   path: () => [_tmpl$905(), _tmpl$906()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevrons Down Up'
 };
 const chevronsDown = {
   path: () => [_tmpl$907(), _tmpl$908()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevrons Down'
 };
 const chevronsLeftRight = {
   path: () => [_tmpl$909(), _tmpl$910()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevrons Left Right'
 };
 const chevronsLeft = {
   path: () => [_tmpl$911(), _tmpl$912()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevrons Left'
 };
 const chevronsRightLeft = {
   path: () => [_tmpl$913(), _tmpl$914()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevrons Right Left'
 };
 const chevronsRight = {
   path: () => [_tmpl$915(), _tmpl$916()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevrons Right'
 };
 const chevronsUpDown = {
   path: () => [_tmpl$917(), _tmpl$918()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevrons Up Down'
 };
 const chevronsUp = {
   path: () => [_tmpl$919(), _tmpl$920()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chevrons Up'
 };
 const chrome = {
   path: () => [_tmpl$137(), _tmpl$289(), _tmpl$921(), _tmpl$922(), _tmpl$923()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Chrome'
 };
 const church = {
   path: () => [_tmpl$924(), _tmpl$925(), _tmpl$926(), _tmpl$927(), _tmpl$928()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Church'
 };
 const cigaretteOff = {
   path: () => [_tmpl$408(), _tmpl$929(), _tmpl$930(), _tmpl$931(), _tmpl$932(), _tmpl$933(), _tmpl$934()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cigarette Off'
 };
 const cigarette = {
   path: () => [_tmpl$935(), _tmpl$930(), _tmpl$932(), _tmpl$933(), _tmpl$934()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cigarette'
 };
 const circleAlert = {
   path: () => [_tmpl$137(), _tmpl$317(), _tmpl$318()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Alert'
 };
 const circleArrowDown = {
   path: () => [_tmpl$137(), _tmpl$936(), _tmpl$937()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Arrow Down'
 };
 const circleArrowLeft = {
   path: () => [_tmpl$137(), _tmpl$938(), _tmpl$939()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Arrow Left'
 };
 const circleArrowOutDownLeft = {
   path: () => [_tmpl$940(), _tmpl$941(), _tmpl$942()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Arrow Out Down Left'
 };
 const circleArrowOutDownRight = {
   path: () => [_tmpl$943(), _tmpl$944(), _tmpl$945()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Arrow Out Down Right'
 };
 const circleArrowOutUpLeft = {
   path: () => [_tmpl$946(), _tmpl$947(), _tmpl$948()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Arrow Out Up Left'
 };
 const circleArrowOutUpRight = {
   path: () => [_tmpl$949(), _tmpl$950(), _tmpl$951()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Arrow Out Up Right'
 };
 const circleArrowRight = {
   path: () => [_tmpl$137(), _tmpl$329(), _tmpl$952()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Arrow Right'
 };
 const circleArrowUp = {
   path: () => [_tmpl$137(), _tmpl$953(), _tmpl$954()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Arrow Up'
 };
 const circleCheckBig = {
   path: () => [_tmpl$955(), _tmpl$956()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Check Big'
 };
 const circleCheck = {
   path: () => [_tmpl$137(), _tmpl$321()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Check'
 };
 const circleChevronDown = {
   path: () => [_tmpl$137(), _tmpl$957()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Chevron Down'
 };
 const circleChevronLeft = {
   path: () => [_tmpl$137(), _tmpl$958()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Chevron Left'
 };
 const circleChevronRight = {
   path: () => [_tmpl$137(), _tmpl$959()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Chevron Right'
 };
 const circleChevronUp = {
   path: () => [_tmpl$137(), _tmpl$960()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Chevron Up'
 };
 const circleDashed = {
   path: () => [_tmpl$961(), _tmpl$962(), _tmpl$963(), _tmpl$964(), _tmpl$965(), _tmpl$966(), _tmpl$967(), _tmpl$968()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Dashed'
 };
 const circleDivide = {
   path: () => [_tmpl$337(), _tmpl$969(), _tmpl$970(), _tmpl$137()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Divide'
 };
 const circleDollarSign = {
   path: () => [_tmpl$137(), _tmpl$322(), _tmpl$323()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Dollar Sign'
 };
 const circleDotDashed = {
   path: () => [_tmpl$971(), _tmpl$972(), _tmpl$973(), _tmpl$974(), _tmpl$975(), _tmpl$976(), _tmpl$977(), _tmpl$978(), _tmpl$291()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Dot Dashed'
 };
 const circleDot = {
   path: () => [_tmpl$137(), _tmpl$291()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Dot'
 };
 const circleEllipsis = {
   path: () => [_tmpl$137(), _tmpl$979(), _tmpl$675(), _tmpl$980()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Ellipsis'
 };
 const circleEqual = {
   path: () => [_tmpl$981(), _tmpl$982(), _tmpl$137()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Equal'
 };
 const circleFadingPlus = {
   path: () => [_tmpl$983(), _tmpl$936(), _tmpl$938(), _tmpl$984(), _tmpl$985(), _tmpl$986(), _tmpl$987()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Fading Plus'
 };
 const circleGauge = {
   path: () => [_tmpl$988(), _tmpl$361(), _tmpl$989()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Gauge'
 };
 const circleHelp = {
   path: () => [_tmpl$137(), _tmpl$326(), _tmpl$990()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Help'
 };
 const circleMinus = {
   path: () => [_tmpl$137(), _tmpl$329()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Minus'
 };
 const circleOff = {
   path: () => [_tmpl$33(), _tmpl$991(), _tmpl$992()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Off'
 };
 const circleParkingOff = {
   path: () => [_tmpl$137(), _tmpl$993(), _tmpl$994(), _tmpl$995()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Parking Off'
 };
 const circleParking = {
   path: () => [_tmpl$137(), _tmpl$996()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Parking'
 };
 const circlePause = {
   path: () => [_tmpl$137(), _tmpl$997(), _tmpl$998()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Pause'
 };
 const circlePercent = {
   path: () => [_tmpl$137(), _tmpl$338(), _tmpl$339(), _tmpl$340()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Percent'
 };
 const circlePlay = {
   path: () => [_tmpl$137(), _tmpl$999()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Play'
 };
 const circlePlus = {
   path: () => [_tmpl$137(), _tmpl$329(), _tmpl$936()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Plus'
 };
 const circlePower = {
   path: () => [_tmpl$137(), _tmpl$1000(), _tmpl$1001()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Power'
 };
 const circleSlash_2 = {
   path: () => [_tmpl$137(), _tmpl$1002()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Slash 2'
 };
 const circleSlash = {
   path: () => [_tmpl$1003(), _tmpl$137()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Slash'
 };
 const circleStop = {
   path: () => [_tmpl$137(), _tmpl$1004()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle Stop'
 };
 const circleUserRound = {
   path: () => [_tmpl$1005(), _tmpl$1006(), _tmpl$137()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle User Round'
 };
 const circleUser = {
   path: () => [_tmpl$137(), _tmpl$1007(), _tmpl$1008()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle User'
 };
 const circleX = {
   path: () => [_tmpl$137(), _tmpl$338(), _tmpl$1009()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle X'
 };
 const circle = {
   path: () => _tmpl$137(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circle'
 };
 const circuitBoard = {
   path: () => [_tmpl$667(), _tmpl$1010(), _tmpl$1011(), _tmpl$1012(), _tmpl$1013()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Circuit Board'
 };
 const citrus = {
   path: () => [_tmpl$1014(), _tmpl$1015(), _tmpl$1016(), _tmpl$1017()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Citrus'
 };
 const clapperboard = {
   path: () => [_tmpl$1018(), _tmpl$1019(), _tmpl$1020(), _tmpl$1021()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clapperboard'
 };
 const clipboardCheck = {
   path: () => [_tmpl$1022(), _tmpl$1023(), _tmpl$1024()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard Check'
 };
 const clipboardCopy = {
   path: () => [_tmpl$1022(), _tmpl$1025(), _tmpl$1026(), _tmpl$1027(), _tmpl$1028()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard Copy'
 };
 const clipboardList = {
   path: () => [_tmpl$1022(), _tmpl$1023(), _tmpl$1029(), _tmpl$1030(), _tmpl$1031(), _tmpl$1032()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard List'
 };
 const clipboardMinus = {
   path: () => [_tmpl$1022(), _tmpl$1023(), _tmpl$1033()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard Minus'
 };
 const clipboardPaste = {
   path: () => [_tmpl$1034(), _tmpl$1035(), _tmpl$1036()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard Paste'
 };
 const clipboardPenLine = {
   path: () => [_tmpl$1037(), _tmpl$1038(), _tmpl$1039(), _tmpl$1040(), _tmpl$1041()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard Pen Line'
 };
 const clipboardPen = {
   path: () => [_tmpl$1037(), _tmpl$1042(), _tmpl$1043(), _tmpl$1044()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard Pen'
 };
 const clipboardPlus = {
   path: () => [_tmpl$1022(), _tmpl$1023(), _tmpl$1033(), _tmpl$1045()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard Plus'
 };
 const clipboardType = {
   path: () => [_tmpl$1022(), _tmpl$1023(), _tmpl$1046(), _tmpl$1047(), _tmpl$1048()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard Type'
 };
 const clipboardX = {
   path: () => [_tmpl$1022(), _tmpl$1023(), _tmpl$1049(), _tmpl$1050()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard X'
 };
 const clipboard = {
   path: () => [_tmpl$1022(), _tmpl$1023()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clipboard'
 };
 const clock_1 = {
   path: () => [_tmpl$137(), _tmpl$1051()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 1'
 };
 const clock_10 = {
   path: () => [_tmpl$137(), _tmpl$1052()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 10'
 };
 const clock_11 = {
   path: () => [_tmpl$137(), _tmpl$1053()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 11'
 };
 const clock_12 = {
   path: () => [_tmpl$137(), _tmpl$1054()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 12'
 };
 const clock_2 = {
   path: () => [_tmpl$137(), _tmpl$1055()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 2'
 };
 const clock_3 = {
   path: () => [_tmpl$137(), _tmpl$1056()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 3'
 };
 const clock_4 = {
   path: () => [_tmpl$137(), _tmpl$1057()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 4'
 };
 const clock_5 = {
   path: () => [_tmpl$137(), _tmpl$1058()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 5'
 };
 const clock_6 = {
   path: () => [_tmpl$137(), _tmpl$1059()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 6'
 };
 const clock_7 = {
   path: () => [_tmpl$137(), _tmpl$1060()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 7'
 };
 const clock_8 = {
   path: () => [_tmpl$137(), _tmpl$1061()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 8'
 };
 const clock_9 = {
   path: () => [_tmpl$137(), _tmpl$1062()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock 9'
 };
 const clock = {
   path: () => [_tmpl$137(), _tmpl$1057()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clock'
 };
 const cloudCog = {
   path: () => [_tmpl$1063(), _tmpl$1064(), _tmpl$1065(), _tmpl$1066(), _tmpl$1067(), _tmpl$1068(), _tmpl$1069(), _tmpl$1070(), _tmpl$1071(), _tmpl$1072()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Cog'
 };
 const cloudDownload = {
   path: () => [_tmpl$1073(), _tmpl$177(), _tmpl$1074()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Download'
 };
 const cloudDrizzle = {
   path: () => [_tmpl$1073(), _tmpl$1075(), _tmpl$1076(), _tmpl$1077(), _tmpl$1078(), _tmpl$1079(), _tmpl$1080()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Drizzle'
 };
 const cloudFog = {
   path: () => [_tmpl$1073(), _tmpl$1081(), _tmpl$1082()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Fog'
 };
 const cloudHail = {
   path: () => [_tmpl$1073(), _tmpl$1083(), _tmpl$1084(), _tmpl$1085(), _tmpl$1086(), _tmpl$1087(), _tmpl$1088()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Hail'
 };
 const cloudLightning = {
   path: () => [_tmpl$1089(), _tmpl$1090()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Lightning'
 };
 const cloudMoonRain = {
   path: () => [_tmpl$1091(), _tmpl$1092(), _tmpl$1093(), _tmpl$1094()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Moon Rain'
 };
 const cloudMoon = {
   path: () => [_tmpl$1095(), _tmpl$1096()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Moon'
 };
 const cloudOff = {
   path: () => [_tmpl$33(), _tmpl$1097(), _tmpl$1098()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Off'
 };
 const cloudRainWind = {
   path: () => [_tmpl$1073(), _tmpl$1099(), _tmpl$1100(), _tmpl$1101()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Rain Wind'
 };
 const cloudRain = {
   path: () => [_tmpl$1073(), _tmpl$1102(), _tmpl$1103(), _tmpl$151()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Rain'
 };
 const cloudSnow = {
   path: () => [_tmpl$1073(), _tmpl$728(), _tmpl$1104(), _tmpl$990(), _tmpl$1105(), _tmpl$729(), _tmpl$1106()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Snow'
 };
 const cloudSunRain = {
   path: () => [_tmpl$1107(), _tmpl$1108(), _tmpl$597(), _tmpl$1109(), _tmpl$1110(), _tmpl$1092(), _tmpl$1093(), _tmpl$1094()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Sun Rain'
 };
 const cloudSun = {
   path: () => [_tmpl$1107(), _tmpl$1108(), _tmpl$597(), _tmpl$1109(), _tmpl$1110(), _tmpl$1111()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Sun'
 };
 const cloudUpload = {
   path: () => [_tmpl$1073(), _tmpl$177(), _tmpl$1112()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud Upload'
 };
 const cloud = {
   path: () => _tmpl$1113(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloud'
 };
 const cloudy = {
   path: () => [_tmpl$1114(), _tmpl$1115()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cloudy'
 };
 const clover = {
   path: () => [_tmpl$1116(), _tmpl$1117(), _tmpl$1118()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Clover'
 };
 const club = {
   path: () => [_tmpl$1119(), _tmpl$1120()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Club'
 };
 const codeXml = {
   path: () => [_tmpl$1121(), _tmpl$1122(), _tmpl$1123()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Code Xml'
 };
 const code = {
   path: () => [_tmpl$1124(), _tmpl$1125()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Code'
 };
 const codepen = {
   path: () => [_tmpl$1126(), _tmpl$1127(), _tmpl$1128(), _tmpl$1129(), _tmpl$1130()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Codepen'
 };
 const codesandbox = {
   path: () => [_tmpl$511(), _tmpl$1131(), _tmpl$1132(), _tmpl$1133(), _tmpl$1134(), _tmpl$1135()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Codesandbox'
 };
 const coffee = {
   path: () => [_tmpl$1136(), _tmpl$1137(), _tmpl$1138(), _tmpl$1139()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Coffee'
 };
 const cog = {
   path: () => [_tmpl$1140(), _tmpl$1141(), _tmpl$1107(), _tmpl$1142(), _tmpl$1143(), _tmpl$1144(), _tmpl$1145(), _tmpl$1146(), _tmpl$1147(), _tmpl$594(), _tmpl$1148(), _tmpl$1149(), _tmpl$1150(), _tmpl$1151()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cog'
 };
 const coins = {
   path: () => [_tmpl$1152(), _tmpl$1153(), _tmpl$1154(), _tmpl$1155()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Coins'
 };
 const columns_2 = {
   path: () => [_tmpl$667(), _tmpl$1156()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Columns 2'
 };
 const columns_3 = {
   path: () => [_tmpl$667(), _tmpl$1157(), _tmpl$1158()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Columns 3'
 };
 const columns_4 = {
   path: () => [_tmpl$667(), _tmpl$1159(), _tmpl$1156(), _tmpl$1160()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Columns 4'
 };
 const combine = {
   path: () => [_tmpl$1161(), _tmpl$1162(), _tmpl$1163(), _tmpl$1164(), _tmpl$1165(), _tmpl$1166()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Combine'
 };
 const command = {
   path: () => _tmpl$1167(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Command'
 };
 const compass = {
   path: () => [_tmpl$137(), _tmpl$1168()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Compass'
 };
 const component = {
   path: () => [_tmpl$1169(), _tmpl$1170(), _tmpl$1171(), _tmpl$1172()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Component'
 };
 const computer = {
   path: () => [_tmpl$1173(), _tmpl$1174(), _tmpl$1175(), _tmpl$1176()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Computer'
 };
 const conciergeBell = {
   path: () => [_tmpl$1177(), _tmpl$1178(), _tmpl$1179(), _tmpl$1180()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Concierge Bell'
 };
 const cone = {
   path: () => [_tmpl$1181(), _tmpl$1182()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cone'
 };
 const construction = {
   path: () => [_tmpl$1183(), _tmpl$1184(), _tmpl$1185(), _tmpl$1186(), _tmpl$1187(), _tmpl$1188(), _tmpl$1189(), _tmpl$1190()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Construction'
 };
 const contactRound = {
   path: () => [_tmpl$1191(), _tmpl$1192(), _tmpl$770(), _tmpl$1193(), _tmpl$1194()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Contact Round'
 };
 const contact = {
   path: () => [_tmpl$1195(), _tmpl$770(), _tmpl$1196(), _tmpl$1193(), _tmpl$1194()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Contact'
 };
 const container = {
   path: () => [_tmpl$1197(), _tmpl$1198(), _tmpl$1199(), _tmpl$1200(), _tmpl$1201()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Container'
 };
 const contrast = {
   path: () => [_tmpl$137(), _tmpl$1202()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Contrast'
 };
 const cookie = {
   path: () => [_tmpl$1203(), _tmpl$1204(), _tmpl$1205(), _tmpl$1206(), _tmpl$1207(), _tmpl$1208()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cookie'
 };
 const cookingPot = {
   path: () => [_tmpl$44(), _tmpl$1209(), _tmpl$1210(), _tmpl$1211()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cooking Pot'
 };
 const copyCheck = {
   path: () => [_tmpl$1212(), _tmpl$1213(), _tmpl$1214()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Copy Check'
 };
 const copyMinus = {
   path: () => [_tmpl$1215(), _tmpl$1213(), _tmpl$1214()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Copy Minus'
 };
 const copyPlus = {
   path: () => [_tmpl$1216(), _tmpl$1215(), _tmpl$1213(), _tmpl$1214()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Copy Plus'
 };
 const copySlash = {
   path: () => [_tmpl$1217(), _tmpl$1213(), _tmpl$1214()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Copy Slash'
 };
 const copyX = {
   path: () => [_tmpl$1218(), _tmpl$1217(), _tmpl$1213(), _tmpl$1214()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Copy X'
 };
 const copy = {
   path: () => [_tmpl$1213(), _tmpl$1214()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Copy'
 };
 const copyleft = {
   path: () => [_tmpl$137(), _tmpl$1219()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Copyleft'
 };
 const copyright = {
   path: () => [_tmpl$137(), _tmpl$1220()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Copyright'
 };
 const cornerDownLeft = {
   path: () => [_tmpl$1221(), _tmpl$1222()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Corner Down Left'
 };
 const cornerDownRight = {
   path: () => [_tmpl$1223(), _tmpl$1224()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Corner Down Right'
 };
 const cornerLeftDown = {
   path: () => [_tmpl$1225(), _tmpl$1226()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Corner Left Down'
 };
 const cornerLeftUp = {
   path: () => [_tmpl$1227(), _tmpl$1228()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Corner Left Up'
 };
 const cornerRightDown = {
   path: () => [_tmpl$1229(), _tmpl$1230()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Corner Right Down'
 };
 const cornerRightUp = {
   path: () => [_tmpl$1231(), _tmpl$1232()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Corner Right Up'
 };
 const cornerUpLeft = {
   path: () => [_tmpl$1233(), _tmpl$1234()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Corner Up Left'
 };
 const cornerUpRight = {
   path: () => [_tmpl$1235(), _tmpl$1236()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Corner Up Right'
 };
 const cpu = {
   path: () => [_tmpl$1237(), _tmpl$1238(), _tmpl$1239(), _tmpl$1240(), _tmpl$1241(), _tmpl$1242(), _tmpl$1243(), _tmpl$1244(), _tmpl$1245(), _tmpl$1246()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cpu'
 };
 const creativeCommons = {
   path: () => [_tmpl$137(), _tmpl$1247(), _tmpl$1248()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Creative Commons'
 };
 const creditCard = {
   path: () => [_tmpl$1249(), _tmpl$1250()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Credit Card'
 };
 const croissant = {
   path: () => [_tmpl$1251(), _tmpl$1252(), _tmpl$1253(), _tmpl$1254(), _tmpl$1255()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Croissant'
 };
 const crop = {
   path: () => [_tmpl$1256(), _tmpl$1257()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Crop'
 };
 const cross = {
   path: () => _tmpl$1258(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cross'
 };
 const crosshair = {
   path: () => [_tmpl$137(), _tmpl$1259(), _tmpl$1260(), _tmpl$1261(), _tmpl$1262()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Crosshair'
 };
 const crown = {
   path: () => [_tmpl$1263(), _tmpl$268()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Crown'
 };
 const cuboid = {
   path: () => [_tmpl$1264(), _tmpl$1265(), _tmpl$1266()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cuboid'
 };
 const cupSoda = {
   path: () => [_tmpl$1267(), _tmpl$1268(), _tmpl$1269(), _tmpl$1270()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cup Soda'
 };
 const currency = {
   path: () => [_tmpl$1271(), _tmpl$1272(), _tmpl$1273(), _tmpl$1274(), _tmpl$1275()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Currency'
 };
 const cylinder = {
   path: () => [_tmpl$1276(), _tmpl$1277()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Cylinder'
 };
 const databaseBackup = {
   path: () => [_tmpl$1276(), _tmpl$1278(), _tmpl$1279(), _tmpl$1280(), _tmpl$1281(), _tmpl$1282()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Database Backup'
 };
 const databaseZap = {
   path: () => [_tmpl$1276(), _tmpl$1283(), _tmpl$1284(), _tmpl$1285(), _tmpl$1286()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Database Zap'
 };
 const database = {
   path: () => [_tmpl$1276(), _tmpl$1287(), _tmpl$1288()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Database'
 };
 const deleteIcon = {
   path: () => [_tmpl$1289(), _tmpl$1290(), _tmpl$1291()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Delete'
 };
 const dessert = {
   path: () => [_tmpl$1292(), _tmpl$1293(), _tmpl$1294()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dessert'
 };
 const diameter = {
   path: () => [_tmpl$1295(), _tmpl$1296(), _tmpl$1297(), _tmpl$1298(), _tmpl$1299()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Diameter'
 };
 const diamondMinus = {
   path: () => [_tmpl$1300(), _tmpl$329()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Diamond Minus'
 };
 const diamondPercent = {
   path: () => [_tmpl$1301(), _tmpl$1302(), _tmpl$1303(), _tmpl$1304()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Diamond Percent'
 };
 const diamondPlus = {
   path: () => [_tmpl$936(), _tmpl$1300(), _tmpl$329()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Diamond Plus'
 };
 const diamond = {
   path: () => _tmpl$1305(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Diamond'
 };
 const dice_1 = {
   path: () => [_tmpl$42(), _tmpl$675()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dice 1'
 };
 const dice_2 = {
   path: () => [_tmpl$42(), _tmpl$1306(), _tmpl$1307()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dice 2'
 };
 const dice_3 = {
   path: () => [_tmpl$42(), _tmpl$1308(), _tmpl$675(), _tmpl$1032()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dice 3'
 };
 const dice_4 = {
   path: () => [_tmpl$42(), _tmpl$1308(), _tmpl$1309(), _tmpl$1032(), _tmpl$1310()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dice 4'
 };
 const dice_5 = {
   path: () => [_tmpl$42(), _tmpl$1308(), _tmpl$1309(), _tmpl$1032(), _tmpl$1310(), _tmpl$675()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dice 5'
 };
 const dice_6 = {
   path: () => [_tmpl$42(), _tmpl$1308(), _tmpl$1311(), _tmpl$1310(), _tmpl$1309(), _tmpl$1312(), _tmpl$1032()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dice 6'
 };
 const dices = {
   path: () => [_tmpl$1313(), _tmpl$1314(), _tmpl$1315(), _tmpl$1316(), _tmpl$1317(), _tmpl$1318()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dices'
 };
 const diff = {
   path: () => [_tmpl$267(), _tmpl$1319(), _tmpl$268()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Diff'
 };
 const disc_2 = {
   path: () => [_tmpl$137(), _tmpl$289(), _tmpl$675()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Disc 2'
 };
 const disc_3 = {
   path: () => [_tmpl$137(), _tmpl$1320(), _tmpl$361(), _tmpl$1321()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Disc 3'
 };
 const discAlbum = {
   path: () => [_tmpl$667(), _tmpl$1322(), _tmpl$675()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Disc Album'
 };
 const disc = {
   path: () => [_tmpl$137(), _tmpl$361()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Disc'
 };
 const divide = {
   path: () => [_tmpl$1323(), _tmpl$1324(), _tmpl$1325()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Divide'
 };
 const dnaOff = {
   path: () => [_tmpl$1326(), _tmpl$1327(), _tmpl$1328(), _tmpl$1329(), _tmpl$1330(), _tmpl$1331(), _tmpl$1332(), _tmpl$1333(), _tmpl$1334(), _tmpl$1335(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dna Off'
 };
 const dna = {
   path: () => [_tmpl$1336(), _tmpl$1337(), _tmpl$1338(), _tmpl$1328(), _tmpl$1339(), _tmpl$1330(), _tmpl$1331(), _tmpl$1332(), _tmpl$1333(), _tmpl$1334(), _tmpl$1335()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dna'
 };
 const dock = {
   path: () => [_tmpl$169(), _tmpl$163(), _tmpl$1340()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dock'
 };
 const dog = {
   path: () => [_tmpl$1341(), _tmpl$1342(), _tmpl$880(), _tmpl$881(), _tmpl$882(), _tmpl$1343()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dog'
 };
 const dollarSign = {
   path: () => [_tmpl$1344(), _tmpl$1345()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dollar Sign'
 };
 const donut = {
   path: () => [_tmpl$1346(), _tmpl$656()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Donut'
 };
 const doorClosed = {
   path: () => [_tmpl$1347(), _tmpl$106(), _tmpl$1348()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Door Closed'
 };
 const doorOpen = {
   path: () => [_tmpl$1349(), _tmpl$1350(), _tmpl$1351(), _tmpl$1352(), _tmpl$1353()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Door Open'
 };
 const dot = {
   path: () => _tmpl$1354(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dot'
 };
 const download = {
   path: () => [_tmpl$1355(), _tmpl$1356(), _tmpl$1357()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Download'
 };
 const draftingCompass = {
   path: () => [_tmpl$1358(), _tmpl$1359(), _tmpl$1360(), _tmpl$1361(), _tmpl$1362()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Drafting Compass'
 };
 const drama = {
   path: () => [_tmpl$1363(), _tmpl$1364(), _tmpl$1365(), _tmpl$1366(), _tmpl$1367(), _tmpl$1368(), _tmpl$1369(), _tmpl$1370()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Drama'
 };
 const dribbble = {
   path: () => [_tmpl$137(), _tmpl$1371(), _tmpl$1372(), _tmpl$1373()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dribbble'
 };
 const drill = {
   path: () => [_tmpl$1374(), _tmpl$1375(), _tmpl$1376(), _tmpl$1377(), _tmpl$1378(), _tmpl$1379(), _tmpl$1380()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Drill'
 };
 const droplet = {
   path: () => _tmpl$1381(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Droplet'
 };
 const droplets = {
   path: () => [_tmpl$1382(), _tmpl$1383()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Droplets'
 };
 const drum = {
   path: () => [_tmpl$1384(), _tmpl$1385(), _tmpl$1386(), _tmpl$1387(), _tmpl$1388(), _tmpl$1389(), _tmpl$1390()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Drum'
 };
 const drumstick = {
   path: () => [_tmpl$1391(), _tmpl$1392()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Drumstick'
 };
 const dumbbell = {
   path: () => [_tmpl$1393(), _tmpl$1394(), _tmpl$1395(), _tmpl$1396(), _tmpl$1397()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Dumbbell'
 };
 const earOff = {
   path: () => [_tmpl$1398(), _tmpl$1399(), _tmpl$1400(), _tmpl$1401(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ear Off'
 };
 const ear = {
   path: () => [_tmpl$1402(), _tmpl$1403()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ear'
 };
 const earthLock = {
   path: () => [_tmpl$1404(), _tmpl$1405(), _tmpl$1406(), _tmpl$1407(), _tmpl$1408(), _tmpl$1409()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Earth Lock'
 };
 const earth = {
   path: () => [_tmpl$1406(), _tmpl$1410(), _tmpl$1411(), _tmpl$137()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Earth'
 };
 const eclipse = {
   path: () => [_tmpl$137(), _tmpl$1412()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Eclipse'
 };
 const eggFried = {
   path: () => [_tmpl$1413(), _tmpl$1414()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Egg Fried'
 };
 const eggOff = {
   path: () => [_tmpl$1415(), _tmpl$1416(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Egg Off'
 };
 const egg = {
   path: () => _tmpl$1417(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Egg'
 };
 const ellipsisVertical = {
   path: () => [_tmpl$291(), _tmpl$1418(), _tmpl$1419()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ellipsis Vertical'
 };
 const ellipsis = {
   path: () => [_tmpl$291(), _tmpl$1420(), _tmpl$1421()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ellipsis'
 };
 const equalNot = {
   path: () => [_tmpl$1422(), _tmpl$1423(), _tmpl$1424()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Equal Not'
 };
 const equal = {
   path: () => [_tmpl$1422(), _tmpl$1423()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Equal'
 };
 const eraser = {
   path: () => [_tmpl$1425(), _tmpl$1426(), _tmpl$1427()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Eraser'
 };
 const euro = {
   path: () => [_tmpl$1428(), _tmpl$1429(), _tmpl$1430()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Euro'
 };
 const expand = {
   path: () => [_tmpl$1431(), _tmpl$1432(), _tmpl$1433(), _tmpl$1434()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Expand'
 };
 const externalLink = {
   path: () => [_tmpl$1435(), _tmpl$1436(), _tmpl$1437()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'External Link'
 };
 const eyeOff = {
   path: () => [_tmpl$1438(), _tmpl$1439(), _tmpl$1440(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Eye Off'
 };
 const eye = {
   path: () => [_tmpl$1441(), _tmpl$656()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Eye'
 };
 const facebook = {
   path: () => _tmpl$1442(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Facebook'
 };
 const factory = {
   path: () => [_tmpl$1443(), _tmpl$1444(), _tmpl$1445(), _tmpl$1446()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Factory'
 };
 const fan = {
   path: () => [_tmpl$1447(), _tmpl$1206()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fan'
 };
 const fastForward = {
   path: () => [_tmpl$1448(), _tmpl$1449()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fast Forward'
 };
 const feather = {
   path: () => [_tmpl$1450(), _tmpl$1451(), _tmpl$1452()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Feather'
 };
 const fence = {
   path: () => [_tmpl$1453(), _tmpl$1454(), _tmpl$1455(), _tmpl$1456(), _tmpl$1457(), _tmpl$1458(), _tmpl$1459()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fence'
 };
 const ferrisWheel = {
   path: () => [_tmpl$361(), _tmpl$1460(), _tmpl$1461(), _tmpl$1462(), _tmpl$1463(), _tmpl$1464(), _tmpl$1465(), _tmpl$1466(), _tmpl$1467()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ferris Wheel'
 };
 const figma = {
   path: () => [_tmpl$1468(), _tmpl$1469(), _tmpl$1470(), _tmpl$1471(), _tmpl$1472()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Figma'
 };
 const fileArchive = {
   path: () => [_tmpl$1473(), _tmpl$1474(), _tmpl$1475(), _tmpl$1476(), _tmpl$1477(), _tmpl$1478()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Archive'
 };
 const fileAudio_2 = {
   path: () => [_tmpl$1479(), _tmpl$1474(), _tmpl$1480(), _tmpl$1481(), _tmpl$1482()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Audio 2'
 };
 const fileAudio = {
   path: () => [_tmpl$1483(), _tmpl$1474(), _tmpl$1484()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Audio'
 };
 const fileAxis_3d = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1486(), _tmpl$1487()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Axis 3d'
 };
 const fileBadge_2 = {
   path: () => [_tmpl$1485(), _tmpl$1007(), _tmpl$1474(), _tmpl$1488()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Badge 2'
 };
 const fileBadge = {
   path: () => [_tmpl$1489(), _tmpl$1474(), _tmpl$1490(), _tmpl$1491()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Badge'
 };
 const fileBarChart_2 = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1492(), _tmpl$1493(), _tmpl$1494()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Bar Chart 2'
 };
 const fileBarChart = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1495(), _tmpl$1496(), _tmpl$1497()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Bar Chart'
 };
 const fileBox = {
   path: () => [_tmpl$1498(), _tmpl$1474(), _tmpl$1499(), _tmpl$1500(), _tmpl$1501()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Box'
 };
 const fileCheck_2 = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1503()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Check 2'
 };
 const fileCheck = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1504()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Check'
 };
 const fileClock = {
   path: () => [_tmpl$1505(), _tmpl$1474(), _tmpl$1506(), _tmpl$1507()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Clock'
 };
 const fileCode_2 = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1508(), _tmpl$1509()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Code 2'
 };
 const fileCode = {
   path: () => [_tmpl$1510(), _tmpl$1511(), _tmpl$1474(), _tmpl$1512()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Code'
 };
 const fileCog = {
   path: () => [_tmpl$1479(), _tmpl$1474(), _tmpl$1513(), _tmpl$1514(), _tmpl$1515(), _tmpl$1516(), _tmpl$1517(), _tmpl$1518(), _tmpl$1519(), _tmpl$1520(), _tmpl$1521()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Cog'
 };
 const fileDiff = {
   path: () => [_tmpl$1485(), _tmpl$555(), _tmpl$537(), _tmpl$844()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Diff'
 };
 const fileDigit = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1522(), _tmpl$1523(), _tmpl$712()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Digit'
 };
 const fileDown = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1493(), _tmpl$1524()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Down'
 };
 const fileHeart = {
   path: () => [_tmpl$1479(), _tmpl$1474(), _tmpl$1525()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Heart'
 };
 const fileImage = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1526(), _tmpl$1527()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Image'
 };
 const fileInput = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1528(), _tmpl$1509()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Input'
 };
 const fileJson_2 = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1529(), _tmpl$1530()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Json 2'
 };
 const fileJson = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1531(), _tmpl$1532()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Json'
 };
 const fileKey_2 = {
   path: () => [_tmpl$1533(), _tmpl$1474(), _tmpl$1534(), _tmpl$1535(), _tmpl$1536()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Key 2'
 };
 const fileKey = {
   path: () => [_tmpl$1485(), _tmpl$1537(), _tmpl$1538(), _tmpl$1539()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Key'
 };
 const fileLineChart = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1540()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Line Chart'
 };
 const fileLock_2 = {
   path: () => [_tmpl$1541(), _tmpl$1474(), _tmpl$1542(), _tmpl$1543()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Lock 2'
 };
 const fileLock = {
   path: () => [_tmpl$1485(), _tmpl$1544(), _tmpl$1545()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Lock'
 };
 const fileMinus_2 = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1546()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Minus 2'
 };
 const fileMinus = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1547()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Minus'
 };
 const fileMusic = {
   path: () => [_tmpl$1548(), _tmpl$1549(), _tmpl$1550(), _tmpl$1551()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Music'
 };
 const fileOutput = {
   path: () => [_tmpl$1474(), _tmpl$1552(), _tmpl$1553(), _tmpl$1554(), _tmpl$1555()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Output'
 };
 const filePenLine = {
   path: () => [_tmpl$1556(), _tmpl$1040(), _tmpl$1557()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Pen Line'
 };
 const filePen = {
   path: () => [_tmpl$1558(), _tmpl$1474(), _tmpl$1559()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Pen'
 };
 const filePieChart = {
   path: () => [_tmpl$1474(), _tmpl$1560(), _tmpl$1561(), _tmpl$1562()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Pie Chart'
 };
 const filePlus_2 = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1546(), _tmpl$1563()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Plus 2'
 };
 const filePlus = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1547(), _tmpl$1493()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Plus'
 };
 const fileQuestion = {
   path: () => [_tmpl$990(), _tmpl$1512(), _tmpl$1564()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Question'
 };
 const fileScan = {
   path: () => [_tmpl$1565(), _tmpl$1474(), _tmpl$1566(), _tmpl$1567(), _tmpl$1568(), _tmpl$1569()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Scan'
 };
 const fileSearch_2 = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1570(), _tmpl$1571()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Search 2'
 };
 const fileSearch = {
   path: () => [_tmpl$1474(), _tmpl$1572(), _tmpl$1573(), _tmpl$1574()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Search'
 };
 const fileSliders = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$329(), _tmpl$1575(), _tmpl$1576(), _tmpl$1577()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Sliders'
 };
 const fileSpreadsheet = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1578(), _tmpl$1579(), _tmpl$1580(), _tmpl$1581()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Spreadsheet'
 };
 const fileStack = {
   path: () => [_tmpl$1582(), _tmpl$1583(), _tmpl$1584(), _tmpl$1585()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Stack'
 };
 const fileSymlink = {
   path: () => [_tmpl$1586(), _tmpl$1474(), _tmpl$1587()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Symlink'
 };
 const fileTerminal = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1588(), _tmpl$1589()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Terminal'
 };
 const fileText = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1590(), _tmpl$1591(), _tmpl$1592()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Text'
 };
 const fileType_2 = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1593(), _tmpl$1594(), _tmpl$1595()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Type 2'
 };
 const fileType = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1596(), _tmpl$1597(), _tmpl$1598()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Type'
 };
 const fileUp = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1597(), _tmpl$1599()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Up'
 };
 const fileVideo_2 = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1600(), _tmpl$1601()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Video 2'
 };
 const fileVideo = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1602()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Video'
 };
 const fileVolume_2 = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$728(), _tmpl$1603(), _tmpl$1604()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Volume 2'
 };
 const fileVolume = {
   path: () => [_tmpl$1605(), _tmpl$1474(), _tmpl$1606(), _tmpl$1607()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Volume'
 };
 const fileWarning = {
   path: () => [_tmpl$1485(), _tmpl$1608(), _tmpl$990()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File Warning'
 };
 const fileX_2 = {
   path: () => [_tmpl$1502(), _tmpl$1474(), _tmpl$1609(), _tmpl$1610()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File X 2'
 };
 const fileX = {
   path: () => [_tmpl$1485(), _tmpl$1474(), _tmpl$1611(), _tmpl$1612()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File X'
 };
 const file = {
   path: () => [_tmpl$1485(), _tmpl$1474()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'File'
 };
 const files = {
   path: () => [_tmpl$1613(), _tmpl$1614(), _tmpl$1615()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Files'
 };
 const film = {
   path: () => [_tmpl$667(), _tmpl$1616(), _tmpl$1617(), _tmpl$1618(), _tmpl$1619(), _tmpl$1620(), _tmpl$1621(), _tmpl$1622()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Film'
 };
 const filterX = {
   path: () => [_tmpl$1623(), _tmpl$1624(), _tmpl$1625()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Filter X'
 };
 const filter = {
   path: () => _tmpl$1626(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Filter'
 };
 const fingerprint = {
   path: () => [_tmpl$1627(), _tmpl$1628(), _tmpl$1629(), _tmpl$1630(), _tmpl$1631(), _tmpl$1632(), _tmpl$1633(), _tmpl$1634(), _tmpl$1635()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fingerprint'
 };
 const fireExtinguisher = {
   path: () => [_tmpl$1636(), _tmpl$1637(), _tmpl$1638(), _tmpl$1639(), _tmpl$1640(), _tmpl$1641()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fire Extinguisher'
 };
 const fishOff = {
   path: () => [_tmpl$1642(), _tmpl$1643(), _tmpl$1644()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fish Off'
 };
 const fishSymbol = {
   path: () => _tmpl$1645(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fish Symbol'
 };
 const fish = {
   path: () => [_tmpl$1646(), _tmpl$1647(), _tmpl$1648(), _tmpl$1649(), _tmpl$1650(), _tmpl$1651()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fish'
 };
 const flagOff = {
   path: () => [_tmpl$1652(), _tmpl$1653(), _tmpl$1654(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flag Off'
 };
 const flagTriangleLeft = {
   path: () => _tmpl$1655(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flag Triangle Left'
 };
 const flagTriangleRight = {
   path: () => _tmpl$1656(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flag Triangle Right'
 };
 const flag = {
   path: () => [_tmpl$1657(), _tmpl$1658()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flag'
 };
 const flameKindling = {
   path: () => [_tmpl$1659(), _tmpl$1660(), _tmpl$1661()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flame Kindling'
 };
 const flame = {
   path: () => _tmpl$1662(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flame'
 };
 const flashlightOff = {
   path: () => [_tmpl$1663(), _tmpl$1664(), _tmpl$1665(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flashlight Off'
 };
 const flashlight = {
   path: () => [_tmpl$1666(), _tmpl$1667(), _tmpl$1668()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flashlight'
 };
 const flaskConicalOff = {
   path: () => [_tmpl$1669(), _tmpl$1670(), _tmpl$1671(), _tmpl$1672(), _tmpl$1673(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flask Conical Off'
 };
 const flaskConical = {
   path: () => [_tmpl$1674(), _tmpl$1672(), _tmpl$1675()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flask Conical'
 };
 const flaskRound = {
   path: () => [_tmpl$1676(), _tmpl$1677(), _tmpl$1672(), _tmpl$1678(), _tmpl$1679()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flask Round'
 };
 const flipHorizontal_2 = {
   path: () => [_tmpl$1680(), _tmpl$1681(), _tmpl$1682(), _tmpl$1683(), _tmpl$1684(), _tmpl$1107()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flip Horizontal 2'
 };
 const flipHorizontal = {
   path: () => [_tmpl$1685(), _tmpl$1686(), _tmpl$1682(), _tmpl$1683(), _tmpl$1684(), _tmpl$1107()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flip Horizontal'
 };
 const flipVertical_2 = {
   path: () => [_tmpl$1687(), _tmpl$1688(), _tmpl$1689(), _tmpl$1690(), _tmpl$1691(), _tmpl$1692()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flip Vertical 2'
 };
 const flipVertical = {
   path: () => [_tmpl$1693(), _tmpl$1694(), _tmpl$1689(), _tmpl$1690(), _tmpl$1691(), _tmpl$1692()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flip Vertical'
 };
 const flower_2 = {
   path: () => [_tmpl$1695(), _tmpl$574(), _tmpl$1696(), _tmpl$1697(), _tmpl$1698()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flower 2'
 };
 const flower = {
   path: () => [_tmpl$656(), _tmpl$1699(), _tmpl$1700(), _tmpl$1701(), _tmpl$1702(), _tmpl$1703(), _tmpl$1704(), _tmpl$1705(), _tmpl$1706(), _tmpl$1707()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Flower'
 };
 const focus = {
   path: () => [_tmpl$656(), _tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Focus'
 };
 const foldHorizontal = {
   path: () => [_tmpl$1712(), _tmpl$1713(), _tmpl$1107(), _tmpl$1684(), _tmpl$1683(), _tmpl$1682(), _tmpl$1714(), _tmpl$1715()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fold Horizontal'
 };
 const foldVertical = {
   path: () => [_tmpl$1716(), _tmpl$1717(), _tmpl$1689(), _tmpl$1690(), _tmpl$1691(), _tmpl$1692(), _tmpl$1718(), _tmpl$1719()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fold Vertical'
 };
 const folderArchive = {
   path: () => [_tmpl$1720(), _tmpl$1721(), _tmpl$1722(), _tmpl$1723()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Archive'
 };
 const folderCheck = {
   path: () => [_tmpl$1724(), _tmpl$28()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Check'
 };
 const folderClock = {
   path: () => [_tmpl$775(), _tmpl$1725(), _tmpl$1726()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Clock'
 };
 const folderClosed = {
   path: () => [_tmpl$1724(), _tmpl$107()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Closed'
 };
 const folderCog = {
   path: () => [_tmpl$795(), _tmpl$1727(), _tmpl$1728(), _tmpl$1729(), _tmpl$1730(), _tmpl$1731(), _tmpl$1732(), _tmpl$1733(), _tmpl$1734(), _tmpl$1735()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Cog'
 };
 const folderDot = {
   path: () => [_tmpl$1736(), _tmpl$1737()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Dot'
 };
 const folderDown = {
   path: () => [_tmpl$1724(), _tmpl$35(), _tmpl$1738()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Down'
 };
 const folderGit_2 = {
   path: () => [_tmpl$1739(), _tmpl$1740(), _tmpl$1741(), _tmpl$1742()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Git 2'
 };
 const folderGit = {
   path: () => [_tmpl$1743(), _tmpl$1724(), _tmpl$1744(), _tmpl$1745()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Git'
 };
 const folderHeart = {
   path: () => [_tmpl$1746(), _tmpl$1747()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Heart'
 };
 const folderInput = {
   path: () => [_tmpl$1748(), _tmpl$1749(), _tmpl$1750()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Input'
 };
 const folderKanban = {
   path: () => [_tmpl$1736(), _tmpl$1751(), _tmpl$1752(), _tmpl$1753()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Kanban'
 };
 const folderKey = {
   path: () => [_tmpl$1754(), _tmpl$1755(), _tmpl$1756(), _tmpl$1757()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Key'
 };
 const folderLock = {
   path: () => [_tmpl$1758(), _tmpl$1759(), _tmpl$1760()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Lock'
 };
 const folderMinus = {
   path: () => [_tmpl$29(), _tmpl$1724()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Minus'
 };
 const folderOpenDot = {
   path: () => [_tmpl$1761(), _tmpl$1762()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Open Dot'
 };
 const folderOpen = {
   path: () => _tmpl$1763(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Open'
 };
 const folderOutput = {
   path: () => [_tmpl$1764(), _tmpl$1749(), _tmpl$1765()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Output'
 };
 const folderPen = {
   path: () => [_tmpl$1766(), _tmpl$1767()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Pen'
 };
 const folderPlus = {
   path: () => [_tmpl$35(), _tmpl$29(), _tmpl$1724()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Plus'
 };
 const folderRoot = {
   path: () => [_tmpl$1736(), _tmpl$1743(), _tmpl$1768()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Root'
 };
 const folderSearch_2 = {
   path: () => [_tmpl$1769(), _tmpl$1724(), _tmpl$1770()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Search 2'
 };
 const folderSearch = {
   path: () => [_tmpl$1771(), _tmpl$1772(), _tmpl$1773()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Search'
 };
 const folderSymlink = {
   path: () => [_tmpl$1774(), _tmpl$1775()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Symlink'
 };
 const folderSync = {
   path: () => [_tmpl$1776(), _tmpl$1777(), _tmpl$1778(), _tmpl$1779(), _tmpl$1780()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Sync'
 };
 const folderTree = {
   path: () => [_tmpl$1781(), _tmpl$1782(), _tmpl$1783(), _tmpl$1784()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Tree'
 };
 const folderUp = {
   path: () => [_tmpl$1724(), _tmpl$35(), _tmpl$1785()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder Up'
 };
 const folderX = {
   path: () => [_tmpl$1724(), _tmpl$1786(), _tmpl$1787()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder X'
 };
 const folder = {
   path: () => _tmpl$1724(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folder'
 };
 const folders = {
   path: () => [_tmpl$1788(), _tmpl$1789()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Folders'
 };
 const footprints = {
   path: () => [_tmpl$1790(), _tmpl$1791(), _tmpl$1792(), _tmpl$1793()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Footprints'
 };
 const forklift = {
   path: () => [_tmpl$1794(), _tmpl$1795(), _tmpl$1796(), _tmpl$1797()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Forklift'
 };
 const forward = {
   path: () => [_tmpl$1798(), _tmpl$1799()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Forward'
 };
 const frame = {
   path: () => [_tmpl$1800(), _tmpl$1801(), _tmpl$1802(), _tmpl$1803()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Frame'
 };
 const framer = {
   path: () => _tmpl$1804(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Framer'
 };
 const frown = {
   path: () => [_tmpl$137(), _tmpl$138(), _tmpl$1805(), _tmpl$1806()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Frown'
 };
 const fuel = {
   path: () => [_tmpl$1807(), _tmpl$1808(), _tmpl$1809(), _tmpl$1810()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fuel'
 };
 const fullscreen = {
   path: () => [_tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711(), _tmpl$1811()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Fullscreen'
 };
 const galleryHorizontalEnd = {
   path: () => [_tmpl$1812(), _tmpl$1813(), _tmpl$1814()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gallery Horizontal End'
 };
 const galleryHorizontal = {
   path: () => [_tmpl$1815(), _tmpl$1816(), _tmpl$1817()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gallery Horizontal'
 };
 const galleryThumbnails = {
   path: () => [_tmpl$1818(), _tmpl$1819(), _tmpl$613(), _tmpl$615(), _tmpl$1820()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gallery Thumbnails'
 };
 const galleryVerticalEnd = {
   path: () => [_tmpl$1821(), _tmpl$1822(), _tmpl$1823()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gallery Vertical End'
 };
 const galleryVertical = {
   path: () => [_tmpl$1824(), _tmpl$1825(), _tmpl$1826()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gallery Vertical'
 };
 const gamepad_2 = {
   path: () => [_tmpl$1827(), _tmpl$1828(), _tmpl$1829(), _tmpl$1830(), _tmpl$1831()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gamepad 2'
 };
 const gamepad = {
   path: () => [_tmpl$1832(), _tmpl$1833(), _tmpl$1834(), _tmpl$1835(), _tmpl$360()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gamepad'
 };
 const ganttChart = {
   path: () => [_tmpl$1836(), _tmpl$1837(), _tmpl$1838()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gantt Chart'
 };
 const gauge = {
   path: () => [_tmpl$1839(), _tmpl$1840()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gauge'
 };
 const gavel = {
   path: () => [_tmpl$1841(), _tmpl$1842(), _tmpl$1843(), _tmpl$1844(), _tmpl$1845()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gavel'
 };
 const gem = {
   path: () => [_tmpl$1846(), _tmpl$1847(), _tmpl$1848()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gem'
 };
 const ghost = {
   path: () => [_tmpl$1849(), _tmpl$1850(), _tmpl$1851()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ghost'
 };
 const gift = {
   path: () => [_tmpl$1852(), _tmpl$1853(), _tmpl$1854(), _tmpl$1855()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gift'
 };
 const gitBranchPlus = {
   path: () => [_tmpl$1856(), _tmpl$1857(), _tmpl$1858(), _tmpl$1859(), _tmpl$1860(), _tmpl$1861()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Branch Plus'
 };
 const gitBranch = {
   path: () => [_tmpl$1862(), _tmpl$1863(), _tmpl$1864(), _tmpl$1865()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Branch'
 };
 const gitCommitHorizontal = {
   path: () => [_tmpl$656(), _tmpl$1866(), _tmpl$1867()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Commit Horizontal'
 };
 const gitCommitVertical = {
   path: () => [_tmpl$1868(), _tmpl$656(), _tmpl$1869()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Commit Vertical'
 };
 const gitCompareArrows = {
   path: () => [_tmpl$1870(), _tmpl$1871(), _tmpl$1872(), _tmpl$1873(), _tmpl$1874(), _tmpl$1875()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Compare Arrows'
 };
 const gitCompare = {
   path: () => [_tmpl$795(), _tmpl$1876(), _tmpl$1877(), _tmpl$1878()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Compare'
 };
 const gitFork = {
   path: () => [_tmpl$1879(), _tmpl$1876(), _tmpl$1863(), _tmpl$1880(), _tmpl$1881()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Fork'
 };
 const gitGraph = {
   path: () => [_tmpl$1870(), _tmpl$194(), _tmpl$1882(), _tmpl$1156(), _tmpl$1883(), _tmpl$1884()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Graph'
 };
 const gitMerge = {
   path: () => [_tmpl$795(), _tmpl$1876(), _tmpl$1885()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Merge'
 };
 const gitPullRequestArrow = {
   path: () => [_tmpl$1870(), _tmpl$1886(), _tmpl$1873(), _tmpl$1872(), _tmpl$1871()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Pull Request Arrow'
 };
 const gitPullRequestClosed = {
   path: () => [_tmpl$1876(), _tmpl$1887(), _tmpl$1888(), _tmpl$1889(), _tmpl$1890(), _tmpl$795()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Pull Request Closed'
 };
 const gitPullRequestCreateArrow = {
   path: () => [_tmpl$1870(), _tmpl$1886(), _tmpl$1872(), _tmpl$1891(), _tmpl$1892(), _tmpl$1893()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Pull Request Create Arrow'
 };
 const gitPullRequestCreate = {
   path: () => [_tmpl$1876(), _tmpl$1887(), _tmpl$1894(), _tmpl$1860(), _tmpl$1861()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Pull Request Create'
 };
 const gitPullRequestDraft = {
   path: () => [_tmpl$795(), _tmpl$1876(), _tmpl$1895(), _tmpl$1896(), _tmpl$1897()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Pull Request Draft'
 };
 const gitPullRequest = {
   path: () => [_tmpl$795(), _tmpl$1876(), _tmpl$1877(), _tmpl$1897()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Git Pull Request'
 };
 const github = {
   path: () => [_tmpl$1898(), _tmpl$1899()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Github'
 };
 const gitlab = {
   path: () => _tmpl$1900(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Gitlab'
 };
 const glassWater = {
   path: () => [_tmpl$1901(), _tmpl$1902()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Glass Water'
 };
 const glasses = {
   path: () => [_tmpl$1903(), _tmpl$1904(), _tmpl$1905(), _tmpl$1906(), _tmpl$1907()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Glasses'
 };
 const globeLock = {
   path: () => [_tmpl$1908(), _tmpl$1909(), _tmpl$1408(), _tmpl$1409()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Globe Lock'
 };
 const globe = {
   path: () => [_tmpl$137(), _tmpl$1910(), _tmpl$44()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Globe'
 };
 const goal = {
   path: () => [_tmpl$1911(), _tmpl$1912(), _tmpl$1913()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Goal'
 };
 const grab = {
   path: () => [_tmpl$1914(), _tmpl$1915(), _tmpl$1916(), _tmpl$1917(), _tmpl$1918()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grab'
 };
 const graduationCap = {
   path: () => [_tmpl$1919(), _tmpl$1920(), _tmpl$1921()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Graduation Cap'
 };
 const grape = {
   path: () => [_tmpl$1922(), _tmpl$1923(), _tmpl$1924(), _tmpl$1925(), _tmpl$1926(), _tmpl$1927(), _tmpl$1928(), _tmpl$1929(), _tmpl$1930()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grape'
 };
 const grid_2x2Check = {
   path: () => [_tmpl$1931(), _tmpl$1932()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grid 2x2 Check'
 };
 const grid_2x2X = {
   path: () => [_tmpl$1931(), _tmpl$1933(), _tmpl$1934()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grid 2x2 X'
 };
 const grid_2x2 = {
   path: () => [_tmpl$667(), _tmpl$1618(), _tmpl$1156()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grid 2x2'
 };
 const grid_3x3 = {
   path: () => [_tmpl$667(), _tmpl$672(), _tmpl$671(), _tmpl$1157(), _tmpl$1158()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grid 3x3'
 };
 const gripHorizontal = {
   path: () => [_tmpl$1935(), _tmpl$1936(), _tmpl$1937(), _tmpl$1938(), _tmpl$1939(), _tmpl$1940()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grip Horizontal'
 };
 const gripVertical = {
   path: () => [_tmpl$539(), _tmpl$1941(), _tmpl$1942(), _tmpl$541(), _tmpl$468(), _tmpl$1943()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grip Vertical'
 };
 const grip = {
   path: () => [_tmpl$1418(), _tmpl$1944(), _tmpl$1945(), _tmpl$291(), _tmpl$1420(), _tmpl$1421(), _tmpl$1419(), _tmpl$1946(), _tmpl$1947()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Grip'
 };
 const group = {
   path: () => [_tmpl$1948(), _tmpl$1949(), _tmpl$1950(), _tmpl$1951(), _tmpl$1952(), _tmpl$1953()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Group'
 };
 const guitar = {
   path: () => [_tmpl$1954(), _tmpl$1955(), _tmpl$1956(), _tmpl$1957(), _tmpl$1958()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Guitar'
 };
 const ham = {
   path: () => [_tmpl$1959(), _tmpl$1960(), _tmpl$1961(), _tmpl$1962()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ham'
 };
 const hammer = {
   path: () => [_tmpl$1963(), _tmpl$1964(), _tmpl$1965()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hammer'
 };
 const handCoins = {
   path: () => [_tmpl$1966(), _tmpl$1967(), _tmpl$1968(), _tmpl$1969(), _tmpl$1970()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hand Coins'
 };
 const handHeart = {
   path: () => [_tmpl$1971(), _tmpl$1972(), _tmpl$1973(), _tmpl$1974()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hand Heart'
 };
 const handHelping = {
   path: () => [_tmpl$1975(), _tmpl$1976(), _tmpl$1977()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hand Helping'
 };
 const handMetal = {
   path: () => [_tmpl$1978(), _tmpl$1979(), _tmpl$1980(), _tmpl$1981()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hand Metal'
 };
 const handPlatter = {
   path: () => [_tmpl$1982(), _tmpl$1983(), _tmpl$1984(), _tmpl$1985(), _tmpl$1986(), _tmpl$1987()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hand Platter'
 };
 const hand = {
   path: () => [_tmpl$1988(), _tmpl$1989(), _tmpl$1990(), _tmpl$1991()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hand'
 };
 const handshake = {
   path: () => [_tmpl$1992(), _tmpl$1993(), _tmpl$1994(), _tmpl$1995(), _tmpl$1996()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Handshake'
 };
 const hardDriveDownload = {
   path: () => [_tmpl$1997(), _tmpl$1998(), _tmpl$1174(), _tmpl$1315(), _tmpl$1999()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hard Drive Download'
 };
 const hardDriveUpload = {
   path: () => [_tmpl$2000(), _tmpl$1997(), _tmpl$1174(), _tmpl$1315(), _tmpl$1999()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hard Drive Upload'
 };
 const hardDrive = {
   path: () => [_tmpl$2001(), _tmpl$2002(), _tmpl$2003(), _tmpl$2004()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hard Drive'
 };
 const hardHat = {
   path: () => [_tmpl$2005(), _tmpl$2006(), _tmpl$2007(), _tmpl$2008()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hard Hat'
 };
 const hash = {
   path: () => [_tmpl$2009(), _tmpl$2010(), _tmpl$2011(), _tmpl$2012()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hash'
 };
 const haze = {
   path: () => [_tmpl$2013(), _tmpl$2014(), _tmpl$2015(), _tmpl$2016(), _tmpl$2017(), _tmpl$2018(), _tmpl$2019(), _tmpl$2020()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Haze'
 };
 const hdmiPort = {
   path: () => [_tmpl$2021(), _tmpl$2022()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hdmi Port'
 };
 const heading_1 = {
   path: () => [_tmpl$2023(), _tmpl$2024(), _tmpl$323(), _tmpl$2025()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heading 1'
 };
 const heading_2 = {
   path: () => [_tmpl$2023(), _tmpl$2024(), _tmpl$323(), _tmpl$2026()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heading 2'
 };
 const heading_3 = {
   path: () => [_tmpl$2023(), _tmpl$2024(), _tmpl$323(), _tmpl$2027(), _tmpl$2028()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heading 3'
 };
 const heading_4 = {
   path: () => [_tmpl$2023(), _tmpl$2024(), _tmpl$323(), _tmpl$2029(), _tmpl$2030()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heading 4'
 };
 const heading_5 = {
   path: () => [_tmpl$2023(), _tmpl$2024(), _tmpl$323(), _tmpl$2031(), _tmpl$2032()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heading 5'
 };
 const heading_6 = {
   path: () => [_tmpl$2023(), _tmpl$2024(), _tmpl$323(), _tmpl$2033(), _tmpl$2034()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heading 6'
 };
 const heading = {
   path: () => [_tmpl$2035(), _tmpl$2036(), _tmpl$2037()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heading'
 };
 const headphones = {
   path: () => _tmpl$2038(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Headphones'
 };
 const headset = {
   path: () => [_tmpl$2039(), _tmpl$2040()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Headset'
 };
 const heartCrack = {
   path: () => [_tmpl$2041(), _tmpl$2042()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heart Crack'
 };
 const heartHandshake = {
   path: () => [_tmpl$2041(), _tmpl$2043(), _tmpl$2044(), _tmpl$2045()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heart Handshake'
 };
 const heartOff = {
   path: () => [_tmpl$2046(), _tmpl$2047(), _tmpl$2048()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heart Off'
 };
 const heartPulse = {
   path: () => [_tmpl$2041(), _tmpl$2049()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heart Pulse'
 };
 const heart = {
   path: () => _tmpl$2041(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heart'
 };
 const heater = {
   path: () => [_tmpl$2050(), _tmpl$2051(), _tmpl$2052(), _tmpl$2053(), _tmpl$2054(), _tmpl$2055(), _tmpl$2056(), _tmpl$2057(), _tmpl$2058(), _tmpl$2059()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Heater'
 };
 const hexagon = {
   path: () => _tmpl$511(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hexagon'
 };
 const highlighter = {
   path: () => [_tmpl$2060(), _tmpl$2061()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Highlighter'
 };
 const history = {
   path: () => [_tmpl$2062(), _tmpl$2063(), _tmpl$2064()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'History'
 };
 const home = {
   path: () => [_tmpl$2065(), _tmpl$2066()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Home'
 };
 const hopOff = {
   path: () => [_tmpl$2067(), _tmpl$2068(), _tmpl$2069(), _tmpl$2070(), _tmpl$2071(), _tmpl$2072(), _tmpl$2073(), _tmpl$2074(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hop Off'
 };
 const hop = {
   path: () => [_tmpl$2075(), _tmpl$2076(), _tmpl$2077(), _tmpl$2078(), _tmpl$2079(), _tmpl$2080(), _tmpl$2081(), _tmpl$2082()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hop'
 };
 const hospital = {
   path: () => [_tmpl$2083(), _tmpl$2084(), _tmpl$2085(), _tmpl$2086(), _tmpl$2087(), _tmpl$2088()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hospital'
 };
 const hotel = {
   path: () => [_tmpl$2089(), _tmpl$2090(), _tmpl$2091(), _tmpl$2092(), _tmpl$2093(), _tmpl$2094(), _tmpl$486(), _tmpl$1031(), _tmpl$2095(), _tmpl$2096()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hotel'
 };
 const hourglass = {
   path: () => [_tmpl$2097(), _tmpl$2098(), _tmpl$2099(), _tmpl$2100()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Hourglass'
 };
 const iceCreamBowl = {
   path: () => [_tmpl$2101(), _tmpl$2102(), _tmpl$2103()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ice Cream Bowl'
 };
 const iceCreamCone = {
   path: () => [_tmpl$2104(), _tmpl$2105(), _tmpl$2106()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ice Cream Cone'
 };
 const imageDown = {
   path: () => [_tmpl$2107(), _tmpl$2108(), _tmpl$2109(), _tmpl$1011()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Image Down'
 };
 const imageMinus = {
   path: () => [_tmpl$2110(), _tmpl$2111(), _tmpl$1011(), _tmpl$2112()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Image Minus'
 };
 const imageOff = {
   path: () => [_tmpl$408(), _tmpl$2113(), _tmpl$2114(), _tmpl$2115(), _tmpl$2116(), _tmpl$2117()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Image Off'
 };
 const imagePlay = {
   path: () => [_tmpl$2118(), _tmpl$2119(), _tmpl$2120(), _tmpl$1011()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Image Play'
 };
 const imagePlus = {
   path: () => [_tmpl$2121(), _tmpl$2111(), _tmpl$2122(), _tmpl$1011(), _tmpl$2112()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Image Plus'
 };
 const imageUp = {
   path: () => [_tmpl$2107(), _tmpl$2123(), _tmpl$2124(), _tmpl$1011()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Image Up'
 };
 const image = {
   path: () => [_tmpl$42(), _tmpl$1011(), _tmpl$2112()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Image'
 };
 const images = {
   path: () => [_tmpl$2125(), _tmpl$2126(), _tmpl$574(), _tmpl$2127()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Images'
 };
 const importIcon = {
   path: () => [_tmpl$2128(), _tmpl$2129(), _tmpl$2130()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Import'
 };
 const inbox = {
   path: () => [_tmpl$2131(), _tmpl$2002()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Inbox'
 };
 const indentDecrease = {
   path: () => [_tmpl$2132(), _tmpl$2133(), _tmpl$2134(), _tmpl$2135()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Indent Decrease'
 };
 const indentIncrease = {
   path: () => [_tmpl$2136(), _tmpl$2133(), _tmpl$2134(), _tmpl$2135()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Indent Increase'
 };
 const indianRupee = {
   path: () => [_tmpl$2137(), _tmpl$18(), _tmpl$2138(), _tmpl$2139(), _tmpl$2140()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Indian Rupee'
 };
 const infinity = {
   path: () => _tmpl$2141(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Infinity'
 };
 const info = {
   path: () => [_tmpl$137(), _tmpl$2142(), _tmpl$2143()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Info'
 };
 const inspectionPanel = {
   path: () => [_tmpl$667(), _tmpl$2144(), _tmpl$2145(), _tmpl$2146(), _tmpl$2147()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Inspection Panel'
 };
 const instagram = {
   path: () => [_tmpl$2148(), _tmpl$2149(), _tmpl$2150()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Instagram'
 };
 const italic = {
   path: () => [_tmpl$2151(), _tmpl$2152(), _tmpl$2153()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Italic'
 };
 const iterationCcw = {
   path: () => [_tmpl$2154(), _tmpl$2155()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Iteration Ccw'
 };
 const iterationCw = {
   path: () => [_tmpl$2156(), _tmpl$2157()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Iteration Cw'
 };
 const japaneseYen = {
   path: () => [_tmpl$2158(), _tmpl$2159(), _tmpl$2160()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Japanese Yen'
 };
 const joystick = {
   path: () => [_tmpl$2161(), _tmpl$2162(), _tmpl$2163(), _tmpl$2164()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Joystick'
 };
 const kanban = {
   path: () => [_tmpl$2165(), _tmpl$2166(), _tmpl$2167()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Kanban'
 };
 const keyRound = {
   path: () => [_tmpl$2168(), _tmpl$2169()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Key Round'
 };
 const keySquare = {
   path: () => [_tmpl$2170(), _tmpl$2171(), _tmpl$2172()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Key Square'
 };
 const key = {
   path: () => [_tmpl$2173(), _tmpl$2174(), _tmpl$2175()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Key'
 };
 const keyboardMusic = {
   path: () => [_tmpl$163(), _tmpl$1454(), _tmpl$166(), _tmpl$2176(), _tmpl$44(), _tmpl$2177(), _tmpl$2178(), _tmpl$2179(), _tmpl$2180()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Keyboard Music'
 };
 const keyboardOff = {
   path: () => [_tmpl$2181(), _tmpl$2182(), _tmpl$2183(), _tmpl$2184(), _tmpl$166(), _tmpl$2176(), _tmpl$33(), _tmpl$2185(), _tmpl$164(), _tmpl$1312()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Keyboard Off'
 };
 const keyboard = {
   path: () => [_tmpl$165(), _tmpl$675(), _tmpl$166(), _tmpl$1311(), _tmpl$2176(), _tmpl$164(), _tmpl$1675(), _tmpl$1312(), _tmpl$163()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Keyboard'
 };
 const lampCeiling = {
   path: () => [_tmpl$2186(), _tmpl$2187(), _tmpl$2188()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lamp Ceiling'
 };
 const lampDesk = {
   path: () => [_tmpl$2189(), _tmpl$2190(), _tmpl$2191(), _tmpl$2192()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lamp Desk'
 };
 const lampFloor = {
   path: () => [_tmpl$2193(), _tmpl$2194(), _tmpl$2195()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lamp Floor'
 };
 const lampWallDown = {
   path: () => [_tmpl$2196(), _tmpl$2197(), _tmpl$2198()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lamp Wall Down'
 };
 const lampWallUp = {
   path: () => [_tmpl$2199(), _tmpl$2200(), _tmpl$2201()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lamp Wall Up'
 };
 const lamp = {
   path: () => [_tmpl$2202(), _tmpl$1597(), _tmpl$2203()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lamp'
 };
 const landPlot = {
   path: () => [_tmpl$2204(), _tmpl$2205(), _tmpl$2206(), _tmpl$2207()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Land Plot'
 };
 const landmark = {
   path: () => [_tmpl$2208(), _tmpl$2209(), _tmpl$2210(), _tmpl$2211(), _tmpl$2212(), _tmpl$2213()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Landmark'
 };
 const languages = {
   path: () => [_tmpl$2214(), _tmpl$2215(), _tmpl$2216(), _tmpl$2217(), _tmpl$2218(), _tmpl$2219()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Languages'
 };
 const laptopMinimal = {
   path: () => [_tmpl$2220(), _tmpl$2221()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Laptop Minimal'
 };
 const laptop = {
   path: () => _tmpl$2222(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Laptop'
 };
 const lassoSelect = {
   path: () => [_tmpl$2223(), _tmpl$2224(), _tmpl$2225(), _tmpl$2226(), _tmpl$2227()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lasso Select'
 };
 const lasso = {
   path: () => [_tmpl$2223(), _tmpl$2228(), _tmpl$2226()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lasso'
 };
 const laugh = {
   path: () => [_tmpl$137(), _tmpl$2229(), _tmpl$1805(), _tmpl$1806()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Laugh'
 };
 const layers_2 = {
   path: () => [_tmpl$2230(), _tmpl$2231()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layers 2'
 };
 const layers_3 = {
   path: () => [_tmpl$2232(), _tmpl$2233(), _tmpl$2234()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layers 3'
 };
 const layers = {
   path: () => [_tmpl$2232(), _tmpl$2235(), _tmpl$2236()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layers'
 };
 const layoutDashboard = {
   path: () => [_tmpl$2237(), _tmpl$2238(), _tmpl$2239(), _tmpl$2240()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layout Dashboard'
 };
 const layoutGrid = {
   path: () => [_tmpl$2241(), _tmpl$501(), _tmpl$2242(), _tmpl$2243()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layout Grid'
 };
 const layoutList = {
   path: () => [_tmpl$2241(), _tmpl$2243(), _tmpl$2244(), _tmpl$2245(), _tmpl$2246(), _tmpl$2247()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layout List'
 };
 const layoutPanelLeft = {
   path: () => [_tmpl$2248(), _tmpl$501(), _tmpl$2242()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layout Panel Left'
 };
 const layoutPanelTop = {
   path: () => [_tmpl$2249(), _tmpl$2243(), _tmpl$2242()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layout Panel Top'
 };
 const layoutTemplate = {
   path: () => [_tmpl$2249(), _tmpl$2250(), _tmpl$2251()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Layout Template'
 };
 const leaf = {
   path: () => [_tmpl$2252(), _tmpl$2253()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Leaf'
 };
 const leafyGreen = {
   path: () => [_tmpl$2254(), _tmpl$2255()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Leafy Green'
 };
 const libraryBig = {
   path: () => [_tmpl$2256(), _tmpl$1616(), _tmpl$2257()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Library Big'
 };
 const library = {
   path: () => [_tmpl$2258(), _tmpl$2259(), _tmpl$2260(), _tmpl$2261()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Library'
 };
 const lifeBuoy = {
   path: () => [_tmpl$137(), _tmpl$2262(), _tmpl$2263(), _tmpl$2264(), _tmpl$2265(), _tmpl$289()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Life Buoy'
 };
 const ligature = {
   path: () => [_tmpl$2266(), _tmpl$2267(), _tmpl$2268(), _tmpl$472(), _tmpl$2269()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ligature'
 };
 const lightbulbOff = {
   path: () => [_tmpl$2270(), _tmpl$33(), _tmpl$2271(), _tmpl$127(), _tmpl$2272()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lightbulb Off'
 };
 const lightbulb = {
   path: () => [_tmpl$2273(), _tmpl$127(), _tmpl$2272()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lightbulb'
 };
 const lineChart = {
   path: () => [_tmpl$182(), _tmpl$2274()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Line Chart'
 };
 const link_2Off = {
   path: () => [_tmpl$2275(), _tmpl$2276(), _tmpl$2277(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Link 2 Off'
 };
 const link_2 = {
   path: () => [_tmpl$2278(), _tmpl$2279(), _tmpl$337()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Link 2'
 };
 const link = {
   path: () => [_tmpl$2280(), _tmpl$2281()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Link'
 };
 const linkedin = {
   path: () => [_tmpl$2282(), _tmpl$2283(), _tmpl$2284()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Linkedin'
 };
 const listChecks = {
   path: () => [_tmpl$2285(), _tmpl$2286(), _tmpl$2287(), _tmpl$2288(), _tmpl$2289()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Checks'
 };
 const listCollapse = {
   path: () => [_tmpl$2290(), _tmpl$2291(), _tmpl$2292(), _tmpl$2293(), _tmpl$2294()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Collapse'
 };
 const listEnd = {
   path: () => [_tmpl$2295(), _tmpl$2296(), _tmpl$2297(), _tmpl$2298(), _tmpl$2299()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List End'
 };
 const listFilter = {
   path: () => [_tmpl$2300(), _tmpl$2301(), _tmpl$712()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Filter'
 };
 const listMinus = {
   path: () => [_tmpl$2302(), _tmpl$2296(), _tmpl$2303(), _tmpl$2304()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Minus'
 };
 const listMusic = {
   path: () => [_tmpl$2305(), _tmpl$2306(), _tmpl$2307(), _tmpl$2296(), _tmpl$2308()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Music'
 };
 const listOrdered = {
   path: () => [_tmpl$2309(), _tmpl$2310(), _tmpl$2311(), _tmpl$2312(), _tmpl$2313(), _tmpl$2314()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Ordered'
 };
 const listPlus = {
   path: () => [_tmpl$2302(), _tmpl$2296(), _tmpl$2303(), _tmpl$2315(), _tmpl$2304()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Plus'
 };
 const listRestart = {
   path: () => [_tmpl$2316(), _tmpl$2317(), _tmpl$2318(), _tmpl$2319(), _tmpl$2320()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Restart'
 };
 const listStart = {
   path: () => [_tmpl$2295(), _tmpl$2303(), _tmpl$2321(), _tmpl$2322(), _tmpl$2323()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Start'
 };
 const listTodo = {
   path: () => [_tmpl$2324(), _tmpl$2285(), _tmpl$2287(), _tmpl$2288(), _tmpl$2289()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Todo'
 };
 const listTree = {
   path: () => [_tmpl$2325(), _tmpl$2326(), _tmpl$2327(), _tmpl$2328(), _tmpl$2329()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Tree'
 };
 const listVideo = {
   path: () => [_tmpl$2307(), _tmpl$2296(), _tmpl$2308(), _tmpl$2330()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List Video'
 };
 const listX = {
   path: () => [_tmpl$2302(), _tmpl$2296(), _tmpl$2303(), _tmpl$2331(), _tmpl$2332()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List X'
 };
 const list = {
   path: () => [_tmpl$2333(), _tmpl$2334(), _tmpl$2335(), _tmpl$2336(), _tmpl$2337(), _tmpl$2338()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'List'
 };
 const loaderCircle = {
   path: () => _tmpl$2339(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Loader Circle'
 };
 const loaderPinwheel = {
   path: () => [_tmpl$2340(), _tmpl$2341(), _tmpl$2342(), _tmpl$137()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Loader Pinwheel'
 };
 const loader = {
   path: () => [_tmpl$1460(), _tmpl$2343(), _tmpl$2344(), _tmpl$2345(), _tmpl$2346(), _tmpl$2347(), _tmpl$2348(), _tmpl$2349()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Loader'
 };
 const locateFixed = {
   path: () => [_tmpl$2350(), _tmpl$2351(), _tmpl$2352(), _tmpl$2353(), _tmpl$2354(), _tmpl$656()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Locate Fixed'
 };
 const locateOff = {
   path: () => [_tmpl$2350(), _tmpl$2351(), _tmpl$2352(), _tmpl$2353(), _tmpl$2355(), _tmpl$2356(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Locate Off'
 };
 const locate = {
   path: () => [_tmpl$2350(), _tmpl$2351(), _tmpl$2352(), _tmpl$2353(), _tmpl$2354()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Locate'
 };
 const lockKeyholeOpen = {
   path: () => [_tmpl$2357(), _tmpl$1823(), _tmpl$2358()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lock Keyhole Open'
 };
 const lockKeyhole = {
   path: () => [_tmpl$2357(), _tmpl$2359(), _tmpl$2360()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lock Keyhole'
 };
 const lockOpen = {
   path: () => [_tmpl$2361(), _tmpl$2362()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lock Open'
 };
 const lock = {
   path: () => [_tmpl$2361(), _tmpl$2363()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lock'
 };
 const logIn = {
   path: () => [_tmpl$2364(), _tmpl$2365(), _tmpl$89()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Log In'
 };
 const logOut = {
   path: () => [_tmpl$2366(), _tmpl$2367(), _tmpl$91()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Log Out'
 };
 const lollipop = {
   path: () => [_tmpl$2368(), _tmpl$2369(), _tmpl$2370()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Lollipop'
 };
 const luggage = {
   path: () => [_tmpl$2371(), _tmpl$2372(), _tmpl$2373(), _tmpl$1754(), _tmpl$2374()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Luggage'
 };
 const magnet = {
   path: () => [_tmpl$2375(), _tmpl$2376(), _tmpl$2377()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Magnet'
 };
 const mailCheck = {
   path: () => [_tmpl$2378(), _tmpl$2379(), _tmpl$1932()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail Check'
 };
 const mailMinus = {
   path: () => [_tmpl$2380(), _tmpl$2379(), _tmpl$783()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail Minus'
 };
 const mailOpen = {
   path: () => [_tmpl$2381(), _tmpl$2382()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail Open'
 };
 const mailPlus = {
   path: () => [_tmpl$2378(), _tmpl$2379(), _tmpl$789(), _tmpl$783()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail Plus'
 };
 const mailQuestion = {
   path: () => [_tmpl$2383(), _tmpl$2379(), _tmpl$2384(), _tmpl$2385()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail Question'
 };
 const mailSearch = {
   path: () => [_tmpl$2386(), _tmpl$2379(), _tmpl$2387(), _tmpl$795(), _tmpl$796()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail Search'
 };
 const mailWarning = {
   path: () => [_tmpl$2383(), _tmpl$2379(), _tmpl$2388(), _tmpl$2385()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail Warning'
 };
 const mailX = {
   path: () => [_tmpl$2389(), _tmpl$2379(), _tmpl$2390(), _tmpl$2391()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail X'
 };
 const mail = {
   path: () => [_tmpl$163(), _tmpl$2379()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mail'
 };
 const mailbox = {
   path: () => [_tmpl$2392(), _tmpl$2393(), _tmpl$2394(), _tmpl$2395()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mailbox'
 };
 const mails = {
   path: () => [_tmpl$2396(), _tmpl$2397(), _tmpl$2398()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mails'
 };
 const mapPinOff = {
   path: () => [_tmpl$2399(), _tmpl$2400(), _tmpl$2401(), _tmpl$2402(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Map Pin Off'
 };
 const mapPin = {
   path: () => [_tmpl$2403(), _tmpl$1007()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Map Pin'
 };
 const mapPinned = {
   path: () => [_tmpl$2404(), _tmpl$574(), _tmpl$2405()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Map Pinned'
 };
 const map = {
   path: () => [_tmpl$2406(), _tmpl$2407(), _tmpl$2408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Map'
 };
 const martini = {
   path: () => [_tmpl$1466(), _tmpl$2409(), _tmpl$2410()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Martini'
 };
 const maximize_2 = {
   path: () => [_tmpl$2411(), _tmpl$2412(), _tmpl$2413(), _tmpl$2414()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Maximize 2'
 };
 const maximize = {
   path: () => [_tmpl$2415(), _tmpl$2416(), _tmpl$2417(), _tmpl$2418()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Maximize'
 };
 const medal = {
   path: () => [_tmpl$2419(), _tmpl$2420(), _tmpl$2421(), _tmpl$2422(), _tmpl$2423(), _tmpl$2424()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Medal'
 };
 const megaphoneOff = {
   path: () => [_tmpl$2425(), _tmpl$2426(), _tmpl$2427(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Megaphone Off'
 };
 const megaphone = {
   path: () => [_tmpl$2428(), _tmpl$2427()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Megaphone'
 };
 const meh = {
   path: () => [_tmpl$137(), _tmpl$2429(), _tmpl$1805(), _tmpl$1806()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Meh'
 };
 const memoryStick = {
   path: () => [_tmpl$2430(), _tmpl$2431(), _tmpl$2432(), _tmpl$2433(), _tmpl$2434(), _tmpl$2435(), _tmpl$2436(), _tmpl$2437(), _tmpl$2438()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Memory Stick'
 };
 const menu = {
   path: () => [_tmpl$2439(), _tmpl$2440(), _tmpl$2441()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Menu'
 };
 const merge = {
   path: () => [_tmpl$2442(), _tmpl$2443(), _tmpl$2444()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Merge'
 };
 const messageCircleCode = {
   path: () => [_tmpl$2445(), _tmpl$2446(), _tmpl$2447()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle Code'
 };
 const messageCircleDashed = {
   path: () => [_tmpl$2448(), _tmpl$2449(), _tmpl$2450(), _tmpl$2451(), _tmpl$2452(), _tmpl$2453(), _tmpl$2454(), _tmpl$2455()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle Dashed'
 };
 const messageCircleHeart = {
   path: () => [_tmpl$2456(), _tmpl$2457()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle Heart'
 };
 const messageCircleMore = {
   path: () => [_tmpl$2456(), _tmpl$1312(), _tmpl$675(), _tmpl$1311()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle More'
 };
 const messageCircleOff = {
   path: () => [_tmpl$2458(), _tmpl$33(), _tmpl$2459()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle Off'
 };
 const messageCirclePlus = {
   path: () => [_tmpl$2456(), _tmpl$329(), _tmpl$936()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle Plus'
 };
 const messageCircleQuestion = {
   path: () => [_tmpl$2456(), _tmpl$326(), _tmpl$990()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle Question'
 };
 const messageCircleReply = {
   path: () => [_tmpl$2456(), _tmpl$2460(), _tmpl$2461()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle Reply'
 };
 const messageCircleWarning = {
   path: () => [_tmpl$2456(), _tmpl$2462(), _tmpl$2463()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle Warning'
 };
 const messageCircleX = {
   path: () => [_tmpl$2456(), _tmpl$338(), _tmpl$1009()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle X'
 };
 const messageCircle = {
   path: () => _tmpl$2456(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Circle'
 };
 const messageSquareCode = {
   path: () => [_tmpl$2464(), _tmpl$2465(), _tmpl$2466()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Code'
 };
 const messageSquareDashed = {
   path: () => [_tmpl$2467(), _tmpl$2468(), _tmpl$2469(), _tmpl$2470(), _tmpl$2471(), _tmpl$2472(), _tmpl$2473(), _tmpl$2474()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Dashed'
 };
 const messageSquareDiff = {
   path: () => [_tmpl$2475(), _tmpl$555(), _tmpl$565(), _tmpl$844()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Diff'
 };
 const messageSquareDot = {
   path: () => [_tmpl$2476(), _tmpl$1863()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Dot'
 };
 const messageSquareHeart = {
   path: () => [_tmpl$2466(), _tmpl$2477()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Heart'
 };
 const messageSquareMore = {
   path: () => [_tmpl$2466(), _tmpl$722(), _tmpl$718(), _tmpl$720()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square More'
 };
 const messageSquareOff = {
   path: () => [_tmpl$2117(), _tmpl$33(), _tmpl$2478()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Off'
 };
 const messageSquarePlus = {
   path: () => [_tmpl$2466(), _tmpl$565(), _tmpl$555()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Plus'
 };
 const messageSquareQuote = {
   path: () => [_tmpl$2466(), _tmpl$2479(), _tmpl$2480()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Quote'
 };
 const messageSquareReply = {
   path: () => [_tmpl$2466(), _tmpl$2481(), _tmpl$2482()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Reply'
 };
 const messageSquareShare = {
   path: () => [_tmpl$2483(), _tmpl$2484(), _tmpl$2485()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Share'
 };
 const messageSquareText = {
   path: () => [_tmpl$2466(), _tmpl$2486(), _tmpl$2487()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Text'
 };
 const messageSquareWarning = {
   path: () => [_tmpl$2466(), _tmpl$2488(), _tmpl$2489()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square Warning'
 };
 const messageSquareX = {
   path: () => [_tmpl$2466(), _tmpl$583(), _tmpl$584()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square X'
 };
 const messageSquare = {
   path: () => _tmpl$2466(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Message Square'
 };
 const messagesSquare = {
   path: () => [_tmpl$2490(), _tmpl$2491()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Messages Square'
 };
 const micOff = {
   path: () => [_tmpl$408(), _tmpl$2492(), _tmpl$2493(), _tmpl$2494(), _tmpl$2495(), _tmpl$2353()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mic Off'
 };
 const micVocal = {
   path: () => [_tmpl$2496(), _tmpl$2497()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mic Vocal'
 };
 const mic = {
   path: () => [_tmpl$2498(), _tmpl$2499(), _tmpl$2353()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mic'
 };
 const microscope = {
   path: () => [_tmpl$2500(), _tmpl$1826(), _tmpl$2501(), _tmpl$2502(), _tmpl$2503(), _tmpl$2504()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Microscope'
 };
 const microwave = {
   path: () => [_tmpl$2505(), _tmpl$2506(), _tmpl$2507(), _tmpl$730(), _tmpl$2508()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Microwave'
 };
 const milestone = {
   path: () => [_tmpl$2509(), _tmpl$2510(), _tmpl$2511()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Milestone'
 };
 const milkOff = {
   path: () => [_tmpl$2512(), _tmpl$2513(), _tmpl$2514(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Milk Off'
 };
 const milk = {
   path: () => [_tmpl$2512(), _tmpl$2515(), _tmpl$2516()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Milk'
 };
 const minimize_2 = {
   path: () => [_tmpl$2517(), _tmpl$2518(), _tmpl$2519(), _tmpl$2414()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Minimize 2'
 };
 const minimize = {
   path: () => [_tmpl$2520(), _tmpl$2521(), _tmpl$2522(), _tmpl$2523()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Minimize'
 };
 const minus = {
   path: () => _tmpl$259(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Minus'
 };
 const monitorCheck = {
   path: () => [_tmpl$579(), _tmpl$2524(), _tmpl$2525(), _tmpl$2526()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Check'
 };
 const monitorDot = {
   path: () => [_tmpl$1883(), _tmpl$2527(), _tmpl$2525(), _tmpl$2526()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Dot'
 };
 const monitorDown = {
   path: () => [_tmpl$537(), _tmpl$2528(), _tmpl$2524(), _tmpl$2525(), _tmpl$2526()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Down'
 };
 const monitorOff = {
   path: () => [_tmpl$2529(), _tmpl$2530(), _tmpl$2526(), _tmpl$2525(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Off'
 };
 const monitorPause = {
   path: () => [_tmpl$2531(), _tmpl$2532(), _tmpl$2524(), _tmpl$2525(), _tmpl$2526()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Pause'
 };
 const monitorPlay = {
   path: () => [_tmpl$2533(), _tmpl$2525(), _tmpl$2526(), _tmpl$2534()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Play'
 };
 const monitorSmartphone = {
   path: () => [_tmpl$2535(), _tmpl$2536(), _tmpl$2537(), _tmpl$2538()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Smartphone'
 };
 const monitorSpeaker = {
   path: () => [_tmpl$2539(), _tmpl$2540(), _tmpl$2541(), _tmpl$2542(), _tmpl$2543()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Speaker'
 };
 const monitorStop = {
   path: () => [_tmpl$2525(), _tmpl$2526(), _tmpl$2534(), _tmpl$2544()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Stop'
 };
 const monitorUp = {
   path: () => [_tmpl$572(), _tmpl$537(), _tmpl$2524(), _tmpl$2525(), _tmpl$2526()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor Up'
 };
 const monitorX = {
   path: () => [_tmpl$2545(), _tmpl$2546(), _tmpl$2524(), _tmpl$2525(), _tmpl$2526()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor X'
 };
 const monitor = {
   path: () => [_tmpl$2524(), _tmpl$2547(), _tmpl$2548()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Monitor'
 };
 const moonStar = {
   path: () => [_tmpl$2549(), _tmpl$2550(), _tmpl$2551()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Moon Star'
 };
 const moon = {
   path: () => _tmpl$2552(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Moon'
 };
 const mountainSnow = {
   path: () => [_tmpl$2553(), _tmpl$2554()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mountain Snow'
 };
 const mountain = {
   path: () => _tmpl$2553(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mountain'
 };
 const mouseOff = {
   path: () => [_tmpl$2555(), _tmpl$2556(), _tmpl$2557(), _tmpl$601()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mouse Off'
 };
 const mousePointer_2 = {
   path: () => _tmpl$2558(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mouse Pointer 2'
 };
 const mousePointerBan = {
   path: () => [_tmpl$2559(), _tmpl$775(), _tmpl$2560()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mouse Pointer Ban'
 };
 const mousePointerClick = {
   path: () => [_tmpl$2561(), _tmpl$2562(), _tmpl$2563(), _tmpl$2564(), _tmpl$2565()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mouse Pointer Click'
 };
 const mousePointer = {
   path: () => [_tmpl$2566(), _tmpl$2567()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mouse Pointer'
 };
 const mouse = {
   path: () => [_tmpl$2568(), _tmpl$2083()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Mouse'
 };
 const move_3d = {
   path: () => [_tmpl$2569(), _tmpl$2570(), _tmpl$2571(), _tmpl$2572()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move 3d'
 };
 const moveDiagonal_2 = {
   path: () => [_tmpl$2573(), _tmpl$2574(), _tmpl$2575()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Diagonal 2'
 };
 const moveDiagonal = {
   path: () => [_tmpl$2576(), _tmpl$2577(), _tmpl$1424()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Diagonal'
 };
 const moveDownLeft = {
   path: () => [_tmpl$2578(), _tmpl$2579()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Down Left'
 };
 const moveDownRight = {
   path: () => [_tmpl$2580(), _tmpl$2581()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Down Right'
 };
 const moveDown = {
   path: () => [_tmpl$2582(), _tmpl$2583()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Down'
 };
 const moveHorizontal = {
   path: () => [_tmpl$2584(), _tmpl$2585(), _tmpl$387()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Horizontal'
 };
 const moveLeft = {
   path: () => [_tmpl$2586(), _tmpl$2587()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Left'
 };
 const moveRight = {
   path: () => [_tmpl$2588(), _tmpl$2587()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Right'
 };
 const moveUpLeft = {
   path: () => [_tmpl$2589(), _tmpl$2581()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Up Left'
 };
 const moveUpRight = {
   path: () => [_tmpl$2590(), _tmpl$2579()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Up Right'
 };
 const moveUp = {
   path: () => [_tmpl$2591(), _tmpl$2583()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Up'
 };
 const moveVertical = {
   path: () => [_tmpl$2592(), _tmpl$2593(), _tmpl$1344()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move Vertical'
 };
 const move = {
   path: () => [_tmpl$2594(), _tmpl$2595(), _tmpl$2596(), _tmpl$2597(), _tmpl$387(), _tmpl$1344()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Move'
 };
 const music_2 = {
   path: () => [_tmpl$2598(), _tmpl$2599()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Music 2'
 };
 const music_3 = {
   path: () => [_tmpl$2600(), _tmpl$2601()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Music 3'
 };
 const music_4 = {
   path: () => [_tmpl$2602(), _tmpl$2603(), _tmpl$1864(), _tmpl$2604()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Music 4'
 };
 const music = {
   path: () => [_tmpl$2602(), _tmpl$1864(), _tmpl$2604()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Music'
 };
 const navigation_2Off = {
   path: () => [_tmpl$2605(), _tmpl$2606(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Navigation 2 Off'
 };
 const navigation_2 = {
   path: () => _tmpl$2607(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Navigation 2'
 };
 const navigationOff = {
   path: () => [_tmpl$2608(), _tmpl$2609(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Navigation Off'
 };
 const navigation = {
   path: () => _tmpl$2610(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Navigation'
 };
 const network = {
   path: () => [_tmpl$2611(), _tmpl$2612(), _tmpl$2613(), _tmpl$2614(), _tmpl$2615()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Network'
 };
 const newspaper = {
   path: () => [_tmpl$2616(), _tmpl$2617(), _tmpl$2618(), _tmpl$2619()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Newspaper'
 };
 const nfc = {
   path: () => [_tmpl$2620(), _tmpl$2621(), _tmpl$2622(), _tmpl$2623()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Nfc'
 };
 const notebookPen = {
   path: () => [_tmpl$2624(), _tmpl$2625(), _tmpl$2626(), _tmpl$2627(), _tmpl$2628(), _tmpl$2629()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Notebook Pen'
 };
 const notebookTabs = {
   path: () => [_tmpl$2625(), _tmpl$2626(), _tmpl$2627(), _tmpl$2628(), _tmpl$760(), _tmpl$2630(), _tmpl$2631(), _tmpl$2632(), _tmpl$2633()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Notebook Tabs'
 };
 const notebookText = {
   path: () => [_tmpl$2625(), _tmpl$2626(), _tmpl$2627(), _tmpl$2628(), _tmpl$760(), _tmpl$2634(), _tmpl$2635(), _tmpl$2636()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Notebook Text'
 };
 const notebook = {
   path: () => [_tmpl$2625(), _tmpl$2626(), _tmpl$2627(), _tmpl$2628(), _tmpl$760(), _tmpl$2637()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Notebook'
 };
 const notepadTextDashed = {
   path: () => [_tmpl$765(), _tmpl$1460(), _tmpl$766(), _tmpl$2638(), _tmpl$2639(), _tmpl$2640(), _tmpl$2641(), _tmpl$2642(), _tmpl$2643(), _tmpl$2644(), _tmpl$2645(), _tmpl$2646(), _tmpl$2647()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Notepad Text Dashed'
 };
 const notepadText = {
   path: () => [_tmpl$765(), _tmpl$1460(), _tmpl$766(), _tmpl$2648(), _tmpl$2645(), _tmpl$2646(), _tmpl$2647()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Notepad Text'
 };
 const nutOff = {
   path: () => [_tmpl$2649(), _tmpl$2650(), _tmpl$2651(), _tmpl$2652(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Nut Off'
 };
 const nut = {
   path: () => [_tmpl$2649(), _tmpl$2653(), _tmpl$2654()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Nut'
 };
 const octagonAlert = {
   path: () => [_tmpl$2655(), _tmpl$317(), _tmpl$318()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Octagon Alert'
 };
 const octagonPause = {
   path: () => [_tmpl$2656(), _tmpl$2657(), _tmpl$2658()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Octagon Pause'
 };
 const octagonX = {
   path: () => [_tmpl$2655(), _tmpl$338(), _tmpl$1009()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Octagon X'
 };
 const octagon = {
   path: () => _tmpl$2655(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Octagon'
 };
 const option = {
   path: () => [_tmpl$2659(), _tmpl$2660()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Option'
 };
 const orbit = {
   path: () => [_tmpl$656(), _tmpl$2661(), _tmpl$1796(), _tmpl$2662(), _tmpl$2663()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Orbit'
 };
 const origami = {
   path: () => [_tmpl$2664(), _tmpl$2665(), _tmpl$2666()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Origami'
 };
 const package_2 = {
   path: () => [_tmpl$2667(), _tmpl$2668(), _tmpl$1868()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Package 2'
 };
 const packageCheck = {
   path: () => [_tmpl$2669(), _tmpl$2670(), _tmpl$2671(), _tmpl$2672(), _tmpl$2673()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Package Check'
 };
 const packageMinus = {
   path: () => [_tmpl$2674(), _tmpl$2670(), _tmpl$2671(), _tmpl$2672(), _tmpl$2673()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Package Minus'
 };
 const packageOpen = {
   path: () => [_tmpl$2675(), _tmpl$2676(), _tmpl$2677(), _tmpl$2678()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Package Open'
 };
 const packagePlus = {
   path: () => [_tmpl$2674(), _tmpl$2679(), _tmpl$2670(), _tmpl$2671(), _tmpl$2672(), _tmpl$2673()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Package Plus'
 };
 const packageSearch = {
   path: () => [_tmpl$2670(), _tmpl$2671(), _tmpl$2672(), _tmpl$2673(), _tmpl$2680(), _tmpl$2681()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Package Search'
 };
 const packageX = {
   path: () => [_tmpl$2670(), _tmpl$2671(), _tmpl$2672(), _tmpl$2673(), _tmpl$2682()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Package X'
 };
 const packageIcon = {
   path: () => [_tmpl$2671(), _tmpl$620(), _tmpl$621(), _tmpl$622()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Package'
 };
 const paintBucket = {
   path: () => [_tmpl$2683(), _tmpl$2684(), _tmpl$2685(), _tmpl$2686()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Paint Bucket'
 };
 const paintRoller = {
   path: () => [_tmpl$2687(), _tmpl$2688(), _tmpl$2689()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Paint Roller'
 };
 const paintbrush_2 = {
   path: () => [_tmpl$2690(), _tmpl$2691(), _tmpl$2692(), _tmpl$1136()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Paintbrush 2'
 };
 const paintbrush = {
   path: () => [_tmpl$2693(), _tmpl$2694(), _tmpl$2695()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Paintbrush'
 };
 const palette = {
   path: () => [_tmpl$2696(), _tmpl$2697(), _tmpl$2698(), _tmpl$2699(), _tmpl$2700()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Palette'
 };
 const panelBottomClose = {
   path: () => [_tmpl$667(), _tmpl$671(), _tmpl$2701()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Bottom Close'
 };
 const panelBottomDashed = {
   path: () => [_tmpl$667(), _tmpl$2702(), _tmpl$2703(), _tmpl$2704(), _tmpl$2705()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Bottom Dashed'
 };
 const panelBottomOpen = {
   path: () => [_tmpl$667(), _tmpl$671(), _tmpl$572()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Bottom Open'
 };
 const panelBottom = {
   path: () => [_tmpl$667(), _tmpl$671()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Bottom'
 };
 const panelLeftClose = {
   path: () => [_tmpl$667(), _tmpl$1157(), _tmpl$2706()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Left Close'
 };
 const panelLeftDashed = {
   path: () => [_tmpl$667(), _tmpl$2707(), _tmpl$2708(), _tmpl$2709(), _tmpl$2710()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Left Dashed'
 };
 const panelLeftOpen = {
   path: () => [_tmpl$667(), _tmpl$1157(), _tmpl$2711()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Left Open'
 };
 const panelLeft = {
   path: () => [_tmpl$667(), _tmpl$1157()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Left'
 };
 const panelRightClose = {
   path: () => [_tmpl$667(), _tmpl$1158(), _tmpl$2712()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Right Close'
 };
 const panelRightDashed = {
   path: () => [_tmpl$667(), _tmpl$2713(), _tmpl$2714(), _tmpl$2715(), _tmpl$2716()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Right Dashed'
 };
 const panelRightOpen = {
   path: () => [_tmpl$667(), _tmpl$1158(), _tmpl$2460()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Right Open'
 };
 const panelRight = {
   path: () => [_tmpl$667(), _tmpl$1158()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Right'
 };
 const panelTopClose = {
   path: () => [_tmpl$667(), _tmpl$672(), _tmpl$2717()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Top Close'
 };
 const panelTopDashed = {
   path: () => [_tmpl$667(), _tmpl$2718(), _tmpl$2719(), _tmpl$2720(), _tmpl$2721()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Top Dashed'
 };
 const panelTopOpen = {
   path: () => [_tmpl$667(), _tmpl$672(), _tmpl$2722()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Top Open'
 };
 const panelTop = {
   path: () => [_tmpl$667(), _tmpl$672()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panel Top'
 };
 const panelsLeftBottom = {
   path: () => [_tmpl$667(), _tmpl$1157(), _tmpl$2723()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panels Left Bottom'
 };
 const panelsRightBottom = {
   path: () => [_tmpl$667(), _tmpl$2724(), _tmpl$1158()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panels Right Bottom'
 };
 const panelsTopLeft = {
   path: () => [_tmpl$667(), _tmpl$672(), _tmpl$2725()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Panels Top Left'
 };
 const paperclip = {
   path: () => _tmpl$2726(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Paperclip'
 };
 const parentheses = {
   path: () => [_tmpl$2727(), _tmpl$2728()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Parentheses'
 };
 const parkingMeter = {
   path: () => [_tmpl$2729(), _tmpl$1881(), _tmpl$2730(), _tmpl$2731(), _tmpl$2732()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Parking Meter'
 };
 const partyPopper = {
   path: () => [_tmpl$2733(), _tmpl$2734(), _tmpl$2735(), _tmpl$2736(), _tmpl$2737(), _tmpl$2738(), _tmpl$2739(), _tmpl$2740(), _tmpl$2741()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Party Popper'
 };
 const pause = {
   path: () => [_tmpl$2742(), _tmpl$2743()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pause'
 };
 const pawPrint = {
   path: () => [_tmpl$2744(), _tmpl$2745(), _tmpl$444(), _tmpl$2746()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Paw Print'
 };
 const pcCase = {
   path: () => [_tmpl$2747(), _tmpl$2748(), _tmpl$2749(), _tmpl$555()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pc Case'
 };
 const penLine = {
   path: () => [_tmpl$2750(), _tmpl$2751()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pen Line'
 };
 const penTool = {
   path: () => [_tmpl$2752(), _tmpl$2753(), _tmpl$2754(), _tmpl$2755()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pen Tool'
 };
 const pen = {
   path: () => _tmpl$2756(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pen'
 };
 const pencilLine = {
   path: () => [_tmpl$2750(), _tmpl$2751(), _tmpl$2757()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pencil Line'
 };
 const pencilRuler = {
   path: () => [_tmpl$2758(), _tmpl$2759(), _tmpl$2760(), _tmpl$2761(), _tmpl$2762(), _tmpl$2763()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pencil Ruler'
 };
 const pencil = {
   path: () => [_tmpl$2756(), _tmpl$2758()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pencil'
 };
 const pentagon = {
   path: () => _tmpl$2764(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pentagon'
 };
 const percent = {
   path: () => [_tmpl$1424(), _tmpl$2765(), _tmpl$2766()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Percent'
 };
 const personStanding = {
   path: () => [_tmpl$1418(), _tmpl$2767(), _tmpl$2768(), _tmpl$2769()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Person Standing'
 };
 const phoneCall = {
   path: () => [_tmpl$2770(), _tmpl$2771(), _tmpl$2772()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Phone Call'
 };
 const phoneForwarded = {
   path: () => [_tmpl$2773(), _tmpl$2774(), _tmpl$2770()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Phone Forwarded'
 };
 const phoneIncoming = {
   path: () => [_tmpl$2775(), _tmpl$2776(), _tmpl$2770()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Phone Incoming'
 };
 const phoneMissed = {
   path: () => [_tmpl$2776(), _tmpl$2777(), _tmpl$2770()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Phone Missed'
 };
 const phoneOff = {
   path: () => [_tmpl$2778(), _tmpl$2779()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Phone Off'
 };
 const phoneOutgoing = {
   path: () => [_tmpl$2780(), _tmpl$2781(), _tmpl$2770()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Phone Outgoing'
 };
 const phone = {
   path: () => _tmpl$2770(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Phone'
 };
 const pi = {
   path: () => [_tmpl$2782(), _tmpl$2783(), _tmpl$2784()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pi'
 };
 const piano = {
   path: () => [_tmpl$2785(), _tmpl$108(), _tmpl$2786(), _tmpl$2787(), _tmpl$2788(), _tmpl$2789()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Piano'
 };
 const pickaxe = {
   path: () => [_tmpl$2790(), _tmpl$2791(), _tmpl$2792(), _tmpl$2793()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pickaxe'
 };
 const pictureInPicture_2 = {
   path: () => [_tmpl$2794(), _tmpl$2795()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Picture In Picture 2'
 };
 const pictureInPicture = {
   path: () => [_tmpl$2796(), _tmpl$2797()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Picture In Picture'
 };
 const pieChart = {
   path: () => [_tmpl$2798(), _tmpl$2799()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pie Chart'
 };
 const piggyBank = {
   path: () => [_tmpl$2800(), _tmpl$2801(), _tmpl$2802()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Piggy Bank'
 };
 const pilcrowLeft = {
   path: () => [_tmpl$2803(), _tmpl$2804(), _tmpl$2805(), _tmpl$2806(), _tmpl$2807()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pilcrow Left'
 };
 const pilcrowRight = {
   path: () => [_tmpl$2808(), _tmpl$2809(), _tmpl$2803(), _tmpl$2810(), _tmpl$2811()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pilcrow Right'
 };
 const pilcrow = {
   path: () => [_tmpl$2812(), _tmpl$228(), _tmpl$2813()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pilcrow'
 };
 const pill = {
   path: () => [_tmpl$2814(), _tmpl$2815()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pill'
 };
 const pinOff = {
   path: () => [_tmpl$408(), _tmpl$2816(), _tmpl$2817(), _tmpl$2818()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pin Off'
 };
 const pin = {
   path: () => [_tmpl$2816(), _tmpl$2819()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pin'
 };
 const pipette = {
   path: () => [_tmpl$2820(), _tmpl$2821(), _tmpl$2822()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pipette'
 };
 const pizza = {
   path: () => [_tmpl$2823(), _tmpl$2824(), _tmpl$1310(), _tmpl$2825(), _tmpl$2826()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pizza'
 };
 const planeLanding = {
   path: () => [_tmpl$113(), _tmpl$2827()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Plane Landing'
 };
 const planeTakeoff = {
   path: () => [_tmpl$113(), _tmpl$2828()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Plane Takeoff'
 };
 const plane = {
   path: () => _tmpl$2829(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Plane'
 };
 const play = {
   path: () => _tmpl$2830(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Play'
 };
 const plug_2 = {
   path: () => [_tmpl$2831(), _tmpl$2832(), _tmpl$2833(), _tmpl$1268(), _tmpl$2834()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Plug 2'
 };
 const plugZap_2 = {
   path: () => [_tmpl$2835(), _tmpl$2836(), _tmpl$2837(), _tmpl$2838(), _tmpl$2839()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Plug Zap 2'
 };
 const plugZap = {
   path: () => [_tmpl$2840(), _tmpl$2841(), _tmpl$2842(), _tmpl$2843(), _tmpl$2844()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Plug Zap'
 };
 const plug = {
   path: () => [_tmpl$2845(), _tmpl$2846(), _tmpl$2847(), _tmpl$2848()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Plug'
 };
 const plus = {
   path: () => [_tmpl$259(), _tmpl$235()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Plus'
 };
 const pocketKnife = {
   path: () => [_tmpl$2849(), _tmpl$1365(), _tmpl$1315(), _tmpl$2850(), _tmpl$2851()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pocket Knife'
 };
 const pocket = {
   path: () => [_tmpl$2852(), _tmpl$2853()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pocket'
 };
 const podcast = {
   path: () => [_tmpl$2854(), _tmpl$2855(), _tmpl$2856(), _tmpl$2857()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Podcast'
 };
 const pointerOff = {
   path: () => [_tmpl$2858(), _tmpl$2859(), _tmpl$2860(), _tmpl$2861(), _tmpl$2862(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pointer Off'
 };
 const pointer = {
   path: () => [_tmpl$2863(), _tmpl$2864(), _tmpl$2865(), _tmpl$2866(), _tmpl$2867()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pointer'
 };
 const popcorn = {
   path: () => [_tmpl$2868(), _tmpl$2869(), _tmpl$2870(), _tmpl$2871()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Popcorn'
 };
 const popsicle = {
   path: () => [_tmpl$2872(), _tmpl$2873()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Popsicle'
 };
 const poundSterling = {
   path: () => [_tmpl$2874(), _tmpl$2875(), _tmpl$2876(), _tmpl$2877()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pound Sterling'
 };
 const powerOff = {
   path: () => [_tmpl$2878(), _tmpl$2879(), _tmpl$1460(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Power Off'
 };
 const power = {
   path: () => [_tmpl$2880(), _tmpl$2881()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Power'
 };
 const presentation = {
   path: () => [_tmpl$122(), _tmpl$2882(), _tmpl$2883()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Presentation'
 };
 const printer = {
   path: () => [_tmpl$2884(), _tmpl$2885(), _tmpl$2886()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Printer'
 };
 const projector = {
   path: () => [_tmpl$2887(), _tmpl$2888(), _tmpl$2889(), _tmpl$2890(), _tmpl$2891(), _tmpl$2892()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Projector'
 };
 const proportions = {
   path: () => [_tmpl$163(), _tmpl$2893(), _tmpl$2894()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Proportions'
 };
 const puzzle = {
   path: () => _tmpl$2895(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Puzzle'
 };
 const pyramid = {
   path: () => [_tmpl$2896(), _tmpl$49()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Pyramid'
 };
 const qrCode = {
   path: () => [_tmpl$2897(), _tmpl$2898(), _tmpl$2899(), _tmpl$2900(), _tmpl$2901(), _tmpl$2902(), _tmpl$2903(), _tmpl$2904(), _tmpl$2905(), _tmpl$2906(), _tmpl$2907(), _tmpl$2908()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Qr Code'
 };
 const quote = {
   path: () => [_tmpl$2909(), _tmpl$2910()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Quote'
 };
 const rabbit = {
   path: () => [_tmpl$2911(), _tmpl$509(), _tmpl$2912(), _tmpl$2913(), _tmpl$2914()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rabbit'
 };
 const radar = {
   path: () => [_tmpl$2915(), _tmpl$2916(), _tmpl$2917(), _tmpl$2918(), _tmpl$763(), _tmpl$2919(), _tmpl$361(), _tmpl$2920()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Radar'
 };
 const radiation = {
   path: () => [_tmpl$2921(), _tmpl$2922(), _tmpl$2923(), _tmpl$2924()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Radiation'
 };
 const radical = {
   path: () => _tmpl$2925(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Radical'
 };
 const radioReceiver = {
   path: () => [_tmpl$2926(), _tmpl$2927(), _tmpl$2928(), _tmpl$2929()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Radio Receiver'
 };
 const radioTower = {
   path: () => [_tmpl$2930(), _tmpl$2931(), _tmpl$2932(), _tmpl$2933(), _tmpl$2934(), _tmpl$2935(), _tmpl$2936()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Radio Tower'
 };
 const radio = {
   path: () => [_tmpl$2937(), _tmpl$2938(), _tmpl$361(), _tmpl$2939(), _tmpl$2940()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Radio'
 };
 const radius = {
   path: () => [_tmpl$2941(), _tmpl$1295(), _tmpl$2942(), _tmpl$361()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Radius'
 };
 const railSymbol = {
   path: () => [_tmpl$2943(), _tmpl$2944(), _tmpl$2945()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rail Symbol'
 };
 const rainbow = {
   path: () => [_tmpl$2946(), _tmpl$2947(), _tmpl$2948()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rainbow'
 };
 const rat = {
   path: () => [_tmpl$2949(), _tmpl$2950(), _tmpl$2951(), _tmpl$2952(), _tmpl$2953()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rat'
 };
 const ratio = {
   path: () => [_tmpl$2954(), _tmpl$360()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ratio'
 };
 const receiptCent = {
   path: () => [_tmpl$2955(), _tmpl$2956(), _tmpl$325()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt Cent'
 };
 const receiptEuro = {
   path: () => [_tmpl$2955(), _tmpl$2957(), _tmpl$2958()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt Euro'
 };
 const receiptIndianRupee = {
   path: () => [_tmpl$2955(), _tmpl$2422(), _tmpl$2959(), _tmpl$567()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt Indian Rupee'
 };
 const receiptJapaneseYen = {
   path: () => [_tmpl$2955(), _tmpl$2960(), _tmpl$2961(), _tmpl$2962(), _tmpl$1547()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt Japanese Yen'
 };
 const receiptPoundSterling = {
   path: () => [_tmpl$2955(), _tmpl$2963(), _tmpl$2964(), _tmpl$2965()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt Pound Sterling'
 };
 const receiptRussianRuble = {
   path: () => [_tmpl$2955(), _tmpl$2966(), _tmpl$2967()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt Russian Ruble'
 };
 const receiptSwissFranc = {
   path: () => [_tmpl$2955(), _tmpl$2968(), _tmpl$2969(), _tmpl$2966()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt Swiss Franc'
 };
 const receiptText = {
   path: () => [_tmpl$2955(), _tmpl$2970(), _tmpl$938(), _tmpl$2971()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt Text'
 };
 const receipt = {
   path: () => [_tmpl$2955(), _tmpl$322(), _tmpl$2972()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Receipt'
 };
 const rectangleEllipsis = {
   path: () => [_tmpl$360(), _tmpl$675(), _tmpl$979(), _tmpl$980()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rectangle Ellipsis'
 };
 const rectangleHorizontal = {
   path: () => _tmpl$360(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rectangle Horizontal'
 };
 const rectangleVertical = {
   path: () => _tmpl$2954(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rectangle Vertical'
 };
 const recycle = {
   path: () => [_tmpl$2973(), _tmpl$2974(), _tmpl$2975(), _tmpl$2976(), _tmpl$2977(), _tmpl$2978()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Recycle'
 };
 const redo_2 = {
   path: () => [_tmpl$2979(), _tmpl$2980()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Redo 2'
 };
 const redoDot = {
   path: () => [_tmpl$2981(), _tmpl$2982(), _tmpl$2983()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Redo Dot'
 };
 const redo = {
   path: () => [_tmpl$2982(), _tmpl$2983()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Redo'
 };
 const refreshCcwDot = {
   path: () => [_tmpl$2984(), _tmpl$2985(), _tmpl$2986(), _tmpl$2987(), _tmpl$291()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Refresh Ccw Dot'
 };
 const refreshCcw = {
   path: () => [_tmpl$2988(), _tmpl$2063(), _tmpl$2989(), _tmpl$2990()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Refresh Ccw'
 };
 const refreshCwOff = {
   path: () => [_tmpl$2991(), _tmpl$2992(), _tmpl$2993(), _tmpl$2994(), _tmpl$2995(), _tmpl$2996(), _tmpl$601()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Refresh Cw Off'
 };
 const refreshCw = {
   path: () => [_tmpl$2997(), _tmpl$2996(), _tmpl$2998(), _tmpl$2992()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Refresh Cw'
 };
 const refrigerator = {
   path: () => [_tmpl$2999(), _tmpl$1319(), _tmpl$3000()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Refrigerator'
 };
 const regex = {
   path: () => [_tmpl$3001(), _tmpl$3002(), _tmpl$3003(), _tmpl$3004()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Regex'
 };
 const removeFormatting = {
   path: () => [_tmpl$3005(), _tmpl$3006(), _tmpl$3007(), _tmpl$3008(), _tmpl$3009()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Remove Formatting'
 };
 const repeat_1 = {
   path: () => [_tmpl$3010(), _tmpl$3011(), _tmpl$3012(), _tmpl$3013(), _tmpl$3014()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Repeat 1'
 };
 const repeat_2 = {
   path: () => [_tmpl$3015(), _tmpl$3016(), _tmpl$3017(), _tmpl$3018()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Repeat 2'
 };
 const repeat = {
   path: () => [_tmpl$3010(), _tmpl$3011(), _tmpl$3012(), _tmpl$3013()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Repeat'
 };
 const replaceAll = {
   path: () => [_tmpl$3019(), _tmpl$3020(), _tmpl$3021(), _tmpl$3022(), _tmpl$3023(), _tmpl$3024(), _tmpl$3025(), _tmpl$3026(), _tmpl$3027()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Replace All'
 };
 const replace = {
   path: () => [_tmpl$3019(), _tmpl$3020(), _tmpl$3021(), _tmpl$3022(), _tmpl$3023(), _tmpl$3024(), _tmpl$3025()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Replace'
 };
 const replyAll = {
   path: () => [_tmpl$3028(), _tmpl$3029(), _tmpl$3030()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Reply All'
 };
 const reply = {
   path: () => [_tmpl$3031(), _tmpl$3032()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Reply'
 };
 const rewind = {
   path: () => [_tmpl$3033(), _tmpl$3034()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rewind'
 };
 const ribbon = {
   path: () => [_tmpl$3035(), _tmpl$3036(), _tmpl$3037(), _tmpl$3038(), _tmpl$3039()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ribbon'
 };
 const rocket = {
   path: () => [_tmpl$3040(), _tmpl$3041(), _tmpl$3042(), _tmpl$3043()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rocket'
 };
 const rockingChair = {
   path: () => [_tmpl$3044(), _tmpl$3045(), _tmpl$3046(), _tmpl$3047()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rocking Chair'
 };
 const rollerCoaster = {
   path: () => [_tmpl$3048(), _tmpl$3049(), _tmpl$3050(), _tmpl$3051(), _tmpl$3052(), _tmpl$3053(), _tmpl$3054()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Roller Coaster'
 };
 const rotate_3d = {
   path: () => [_tmpl$3055(), _tmpl$3056(), _tmpl$3057()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rotate 3d'
 };
 const rotateCcwSquare = {
   path: () => [_tmpl$3058(), _tmpl$3059(), _tmpl$3060()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rotate Ccw Square'
 };
 const rotateCcw = {
   path: () => [_tmpl$2062(), _tmpl$2063()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rotate Ccw'
 };
 const rotateCwSquare = {
   path: () => [_tmpl$3061(), _tmpl$3062(), _tmpl$3063()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rotate Cw Square'
 };
 const rotateCw = {
   path: () => [_tmpl$3064(), _tmpl$2996()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rotate Cw'
 };
 const routeOff = {
   path: () => [_tmpl$3065(), _tmpl$3066(), _tmpl$3067(), _tmpl$33(), _tmpl$3068(), _tmpl$3069(), _tmpl$3070()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Route Off'
 };
 const route = {
   path: () => [_tmpl$3065(), _tmpl$3071(), _tmpl$3070()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Route'
 };
 const router = {
   path: () => [_tmpl$1174(), _tmpl$3072(), _tmpl$3073(), _tmpl$3074(), _tmpl$3075(), _tmpl$3076()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Router'
 };
 const rows_2 = {
   path: () => [_tmpl$667(), _tmpl$1618()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rows 2'
 };
 const rows_3 = {
   path: () => [_tmpl$667(), _tmpl$3077(), _tmpl$3078()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rows 3'
 };
 const rows_4 = {
   path: () => [_tmpl$667(), _tmpl$3079(), _tmpl$3080(), _tmpl$3081()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rows 4'
 };
 const rss = {
   path: () => [_tmpl$3082(), _tmpl$3083(), _tmpl$1947()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Rss'
 };
 const ruler = {
   path: () => [_tmpl$3084(), _tmpl$3085(), _tmpl$3086(), _tmpl$3087(), _tmpl$3088()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ruler'
 };
 const russianRuble = {
   path: () => [_tmpl$3089(), _tmpl$3090()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Russian Ruble'
 };
 const sailboat = {
   path: () => [_tmpl$3091(), _tmpl$3092(), _tmpl$3093()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sailboat'
 };
 const salad = {
   path: () => [_tmpl$3094(), _tmpl$3095(), _tmpl$3096(), _tmpl$3097(), _tmpl$3098()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Salad'
 };
 const sandwich = {
   path: () => [_tmpl$3099(), _tmpl$3100(), _tmpl$3101(), _tmpl$3102()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sandwich'
 };
 const satelliteDish = {
   path: () => [_tmpl$3103(), _tmpl$3104(), _tmpl$3105(), _tmpl$3106()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Satellite Dish'
 };
 const satellite = {
   path: () => [_tmpl$3107(), _tmpl$3108(), _tmpl$3109(), _tmpl$3110(), _tmpl$3111()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Satellite'
 };
 const saveAll = {
   path: () => [_tmpl$3112(), _tmpl$3113(), _tmpl$2125(), _tmpl$3114()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Save All'
 };
 const save = {
   path: () => [_tmpl$3115(), _tmpl$3116(), _tmpl$3117()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Save'
 };
 const scale_3d = {
   path: () => [_tmpl$1295(), _tmpl$1296(), _tmpl$3118(), _tmpl$2570()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scale 3d'
 };
 const scale = {
   path: () => [_tmpl$3119(), _tmpl$3120(), _tmpl$3094(), _tmpl$1156(), _tmpl$3121()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scale'
 };
 const scaling = {
   path: () => [_tmpl$3122(), _tmpl$3123(), _tmpl$2484(), _tmpl$3124()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scaling'
 };
 const scanBarcode = {
   path: () => [_tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711(), _tmpl$3125(), _tmpl$319(), _tmpl$3126()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scan Barcode'
 };
 const scanEye = {
   path: () => [_tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711(), _tmpl$291(), _tmpl$3127()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scan Eye'
 };
 const scanFace = {
   path: () => [_tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711(), _tmpl$3128(), _tmpl$339(), _tmpl$1306()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scan Face'
 };
 const scanLine = {
   path: () => [_tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711(), _tmpl$2301()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scan Line'
 };
 const scanSearch = {
   path: () => [_tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711(), _tmpl$656(), _tmpl$3129()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scan Search'
 };
 const scanText = {
   path: () => [_tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711(), _tmpl$3130(), _tmpl$2301(), _tmpl$3131()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scan Text'
 };
 const scan = {
   path: () => [_tmpl$1708(), _tmpl$1709(), _tmpl$1710(), _tmpl$1711()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scan'
 };
 const scatterChart = {
   path: () => [_tmpl$3132(), _tmpl$3133(), _tmpl$3134(), _tmpl$3135(), _tmpl$3136(), _tmpl$182()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scatter Chart'
 };
 const school = {
   path: () => [_tmpl$3137(), _tmpl$3138(), _tmpl$3139(), _tmpl$3140(), _tmpl$3141(), _tmpl$2932()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'School'
 };
 const scissorsLineDashed = {
   path: () => [_tmpl$3142(), _tmpl$3143(), _tmpl$3144(), _tmpl$1534(), _tmpl$3145(), _tmpl$1691(), _tmpl$1692()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scissors Line Dashed'
 };
 const scissors = {
   path: () => [_tmpl$1876(), _tmpl$3146(), _tmpl$3147(), _tmpl$1864(), _tmpl$3148()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scissors'
 };
 const screenShareOff = {
   path: () => [_tmpl$3149(), _tmpl$2526(), _tmpl$2525(), _tmpl$1624(), _tmpl$1625()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Screen Share Off'
 };
 const screenShare = {
   path: () => [_tmpl$3149(), _tmpl$2526(), _tmpl$2525(), _tmpl$3150(), _tmpl$3151()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Screen Share'
 };
 const scrollText = {
   path: () => [_tmpl$3152(), _tmpl$3153(), _tmpl$3154(), _tmpl$3155()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scroll Text'
 };
 const scroll = {
   path: () => [_tmpl$3154(), _tmpl$3155()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Scroll'
 };
 const searchCheck = {
   path: () => [_tmpl$3156(), _tmpl$2368(), _tmpl$2369()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Search Check'
 };
 const searchCode = {
   path: () => [_tmpl$3157(), _tmpl$2369(), _tmpl$3158(), _tmpl$2368()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Search Code'
 };
 const searchSlash = {
   path: () => [_tmpl$3159(), _tmpl$2368(), _tmpl$2369()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Search Slash'
 };
 const searchX = {
   path: () => [_tmpl$3159(), _tmpl$3160(), _tmpl$2368(), _tmpl$2369()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Search X'
 };
 const search = {
   path: () => [_tmpl$2368(), _tmpl$2369()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Search'
 };
 const sendHorizontal = {
   path: () => [_tmpl$3161(), _tmpl$3162()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Send Horizontal'
 };
 const sendToBack = {
   path: () => [_tmpl$3163(), _tmpl$3164(), _tmpl$3165(), _tmpl$3166()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Send To Back'
 };
 const send = {
   path: () => [_tmpl$3167(), _tmpl$3168()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Send'
 };
 const separatorHorizontal = {
   path: () => [_tmpl$87(), _tmpl$3169(), _tmpl$3170()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Separator Horizontal'
 };
 const separatorVertical = {
   path: () => [_tmpl$3171(), _tmpl$3172(), _tmpl$3173()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Separator Vertical'
 };
 const serverCog = {
   path: () => [_tmpl$656(), _tmpl$3174(), _tmpl$3175(), _tmpl$3176(), _tmpl$1315(), _tmpl$3177(), _tmpl$3178(), _tmpl$3179(), _tmpl$3180(), _tmpl$3181(), _tmpl$3182(), _tmpl$3183(), _tmpl$3184()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Server Cog'
 };
 const serverCrash = {
   path: () => [_tmpl$3185(), _tmpl$3186(), _tmpl$3176(), _tmpl$1315(), _tmpl$3187()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Server Crash'
 };
 const serverOff = {
   path: () => [_tmpl$3188(), _tmpl$3189(), _tmpl$3190(), _tmpl$3191(), _tmpl$1315(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Server Off'
 };
 const server = {
   path: () => [_tmpl$3192(), _tmpl$3193(), _tmpl$3194(), _tmpl$3195()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Server'
 };
 const settings_2 = {
   path: () => [_tmpl$3196(), _tmpl$3197(), _tmpl$1771(), _tmpl$3198()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Settings 2'
 };
 const settings = {
   path: () => [_tmpl$3199(), _tmpl$656()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Settings'
 };
 const shapes = {
   path: () => [_tmpl$3200(), _tmpl$3201(), _tmpl$3202()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shapes'
 };
 const share_2 = {
   path: () => [_tmpl$3070(), _tmpl$3203(), _tmpl$3204(), _tmpl$3205(), _tmpl$3206()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Share 2'
 };
 const share = {
   path: () => [_tmpl$3207(), _tmpl$3208(), _tmpl$3209()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Share'
 };
 const sheet = {
   path: () => [_tmpl$42(), _tmpl$3210(), _tmpl$3211(), _tmpl$3212(), _tmpl$3213()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sheet'
 };
 const shell = {
   path: () => _tmpl$3214(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shell'
 };
 const shieldAlert = {
   path: () => [_tmpl$3215(), _tmpl$2462(), _tmpl$2463()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Alert'
 };
 const shieldBan = {
   path: () => [_tmpl$3215(), _tmpl$3216()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Ban'
 };
 const shieldCheck = {
   path: () => [_tmpl$3215(), _tmpl$321()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Check'
 };
 const shieldEllipsis = {
   path: () => [_tmpl$3215(), _tmpl$1312(), _tmpl$675(), _tmpl$1311()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Ellipsis'
 };
 const shieldHalf = {
   path: () => [_tmpl$3215(), _tmpl$3217()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Half'
 };
 const shieldMinus = {
   path: () => [_tmpl$3215(), _tmpl$335()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Minus'
 };
 const shieldOff = {
   path: () => [_tmpl$33(), _tmpl$3218(), _tmpl$3219()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Off'
 };
 const shieldPlus = {
   path: () => [_tmpl$3215(), _tmpl$335(), _tmpl$668()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Plus'
 };
 const shieldQuestion = {
   path: () => [_tmpl$3215(), _tmpl$1564(), _tmpl$990()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield Question'
 };
 const shieldX = {
   path: () => [_tmpl$3215(), _tmpl$1303(), _tmpl$3220()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield X'
 };
 const shield = {
   path: () => _tmpl$3215(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shield'
 };
 const shipWheel = {
   path: () => [_tmpl$1271(), _tmpl$3221(), _tmpl$3222(), _tmpl$3223(), _tmpl$3224(), _tmpl$3225(), _tmpl$3226(), _tmpl$3227(), _tmpl$3228(), _tmpl$3229()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ship Wheel'
 };
 const ship = {
   path: () => [_tmpl$3230(), _tmpl$3231(), _tmpl$3232(), _tmpl$2769(), _tmpl$3233()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ship'
 };
 const shirt = {
   path: () => _tmpl$3234(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shirt'
 };
 const shoppingBag = {
   path: () => [_tmpl$3235(), _tmpl$2300(), _tmpl$3236()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shopping Bag'
 };
 const shoppingBasket = {
   path: () => [_tmpl$3237(), _tmpl$3238(), _tmpl$3239(), _tmpl$3240(), _tmpl$3241(), _tmpl$3242(), _tmpl$3243()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shopping Basket'
 };
 const shoppingCart = {
   path: () => [_tmpl$3244(), _tmpl$3245(), _tmpl$3246()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shopping Cart'
 };
 const shovel = {
   path: () => [_tmpl$3247(), _tmpl$3248(), _tmpl$3249()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shovel'
 };
 const showerHead = {
   path: () => [_tmpl$3250(), _tmpl$3251(), _tmpl$3252(), _tmpl$3253(), _tmpl$3254(), _tmpl$3255(), _tmpl$3256(), _tmpl$3257(), _tmpl$3258(), _tmpl$3259()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shower Head'
 };
 const shrink = {
   path: () => [_tmpl$3260(), _tmpl$3261(), _tmpl$3262(), _tmpl$3263()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shrink'
 };
 const shrub = {
   path: () => [_tmpl$3264(), _tmpl$3265(), _tmpl$3266()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shrub'
 };
 const shuffle = {
   path: () => [_tmpl$3267(), _tmpl$3268(), _tmpl$3269(), _tmpl$3270(), _tmpl$3271()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Shuffle'
 };
 const sigma = {
   path: () => _tmpl$3272(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sigma'
 };
 const signalHigh = {
   path: () => [_tmpl$3273(), _tmpl$3274(), _tmpl$694(), _tmpl$3275()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Signal High'
 };
 const signalLow = {
   path: () => [_tmpl$3273(), _tmpl$3274()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Signal Low'
 };
 const signalMedium = {
   path: () => [_tmpl$3273(), _tmpl$3274(), _tmpl$694()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Signal Medium'
 };
 const signalZero = {
   path: () => _tmpl$3273(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Signal Zero'
 };
 const signal = {
   path: () => [_tmpl$3273(), _tmpl$3274(), _tmpl$694(), _tmpl$3275(), _tmpl$3276()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Signal'
 };
 const signpostBig = {
   path: () => [_tmpl$3277(), _tmpl$3278(), _tmpl$3279(), _tmpl$1466()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Signpost Big'
 };
 const signpost = {
   path: () => [_tmpl$2511(), _tmpl$3280(), _tmpl$2510()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Signpost'
 };
 const siren = {
   path: () => [_tmpl$3281(), _tmpl$3282(), _tmpl$3283(), _tmpl$3284(), _tmpl$3285(), _tmpl$3286(), _tmpl$3287(), _tmpl$1597()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Siren'
 };
 const skipBack = {
   path: () => [_tmpl$3288(), _tmpl$3289()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Skip Back'
 };
 const skipForward = {
   path: () => [_tmpl$3290(), _tmpl$3291()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Skip Forward'
 };
 const skull = {
   path: () => [_tmpl$539(), _tmpl$541(), _tmpl$3292(), _tmpl$3293(), _tmpl$3294()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Skull'
 };
 const slack = {
   path: () => [_tmpl$3295(), _tmpl$3296(), _tmpl$3297(), _tmpl$3298(), _tmpl$3299(), _tmpl$3300(), _tmpl$3301(), _tmpl$3302()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Slack'
 };
 const slash = {
   path: () => _tmpl$1002(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Slash'
 };
 const slice = {
   path: () => [_tmpl$3303(), _tmpl$3304()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Slice'
 };
 const slidersHorizontal = {
   path: () => [_tmpl$3305(), _tmpl$3306(), _tmpl$3307(), _tmpl$3308(), _tmpl$3309(), _tmpl$3310(), _tmpl$3311(), _tmpl$1833(), _tmpl$3312()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sliders Horizontal'
 };
 const slidersVertical = {
   path: () => [_tmpl$3313(), _tmpl$3314(), _tmpl$3315(), _tmpl$3316(), _tmpl$3317(), _tmpl$3318(), _tmpl$3319(), _tmpl$3320(), _tmpl$3321()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sliders Vertical'
 };
 const smartphoneCharging = {
   path: () => [_tmpl$3322(), _tmpl$3323()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Smartphone Charging'
 };
 const smartphoneNfc = {
   path: () => [_tmpl$3324(), _tmpl$3325(), _tmpl$3326(), _tmpl$3327()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Smartphone Nfc'
 };
 const smartphone = {
   path: () => [_tmpl$3322(), _tmpl$763()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Smartphone'
 };
 const smilePlus = {
   path: () => [_tmpl$3328(), _tmpl$3128(), _tmpl$1805(), _tmpl$1806(), _tmpl$3329(), _tmpl$3330()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Smile Plus'
 };
 const smile = {
   path: () => [_tmpl$137(), _tmpl$3128(), _tmpl$1805(), _tmpl$1806()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Smile'
 };
 const snail = {
   path: () => [_tmpl$3331(), _tmpl$3332(), _tmpl$3333(), _tmpl$3334(), _tmpl$3335()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Snail'
 };
 const snowflake = {
   path: () => [_tmpl$387(), _tmpl$1344(), _tmpl$3336(), _tmpl$3337(), _tmpl$3338(), _tmpl$3339()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Snowflake'
 };
 const sofa = {
   path: () => [_tmpl$3340(), _tmpl$3341(), _tmpl$3342(), _tmpl$3343(), _tmpl$3344()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sofa'
 };
 const soup = {
   path: () => [_tmpl$3095(), _tmpl$3094(), _tmpl$3345(), _tmpl$3346(), _tmpl$3347(), _tmpl$3348()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Soup'
 };
 const space = {
   path: () => _tmpl$3349(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Space'
 };
 const spade = {
   path: () => [_tmpl$3350(), _tmpl$2346()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Spade'
 };
 const sparkle = {
   path: () => _tmpl$3351(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sparkle'
 };
 const sparkles = {
   path: () => [_tmpl$3351(), _tmpl$2550(), _tmpl$2551(), _tmpl$3352(), _tmpl$3353()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sparkles'
 };
 const speaker = {
   path: () => [_tmpl$760(), _tmpl$717(), _tmpl$3354(), _tmpl$719()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Speaker'
 };
 const speech = {
   path: () => [_tmpl$3355(), _tmpl$3356(), _tmpl$3357()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Speech'
 };
 const spellCheck_2 = {
   path: () => [_tmpl$384(), _tmpl$329(), _tmpl$3358()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Spell Check 2'
 };
 const spellCheck = {
   path: () => [_tmpl$384(), _tmpl$329(), _tmpl$769()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Spell Check'
 };
 const spline = {
   path: () => [_tmpl$2661(), _tmpl$1796(), _tmpl$3359()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Spline'
 };
 const split = {
   path: () => [_tmpl$2484(), _tmpl$3360(), _tmpl$3361(), _tmpl$3362()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Split'
 };
 const sprayCan = {
   path: () => [_tmpl$3363(), _tmpl$3364(), _tmpl$3365(), _tmpl$3366(), _tmpl$887(), _tmpl$3367(), _tmpl$3368(), _tmpl$3369(), _tmpl$3370(), _tmpl$3371()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Spray Can'
 };
 const sprout = {
   path: () => [_tmpl$3372(), _tmpl$3373(), _tmpl$3374(), _tmpl$3375()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sprout'
 };
 const squareActivity = {
   path: () => [_tmpl$667(), _tmpl$3376()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Activity'
 };
 const squareArrowDownLeft = {
   path: () => [_tmpl$667(), _tmpl$3377(), _tmpl$3378()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Down Left'
 };
 const squareArrowDownRight = {
   path: () => [_tmpl$667(), _tmpl$3379(), _tmpl$3380()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Down Right'
 };
 const squareArrowDown = {
   path: () => [_tmpl$667(), _tmpl$936(), _tmpl$937()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Down'
 };
 const squareArrowLeft = {
   path: () => [_tmpl$667(), _tmpl$939(), _tmpl$938()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Left'
 };
 const squareArrowOutDownLeft = {
   path: () => [_tmpl$3381(), _tmpl$3382(), _tmpl$3383()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Out Down Left'
 };
 const squareArrowOutDownRight = {
   path: () => [_tmpl$3384(), _tmpl$3385(), _tmpl$3386()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Out Down Right'
 };
 const squareArrowOutUpLeft = {
   path: () => [_tmpl$3387(), _tmpl$3388(), _tmpl$3389()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Out Up Left'
 };
 const squareArrowOutUpRight = {
   path: () => [_tmpl$3390(), _tmpl$3391(), _tmpl$1435()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Out Up Right'
 };
 const squareArrowRight = {
   path: () => [_tmpl$667(), _tmpl$329(), _tmpl$952()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Right'
 };
 const squareArrowUpLeft = {
   path: () => [_tmpl$667(), _tmpl$3392(), _tmpl$3393()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Up Left'
 };
 const squareArrowUpRight = {
   path: () => [_tmpl$667(), _tmpl$3394(), _tmpl$3395()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Up Right'
 };
 const squareArrowUp = {
   path: () => [_tmpl$667(), _tmpl$953(), _tmpl$954()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Arrow Up'
 };
 const squareAsterisk = {
   path: () => [_tmpl$667(), _tmpl$936(), _tmpl$3396(), _tmpl$3397()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Asterisk'
 };
 const squareBottomDashedScissors = {
   path: () => [_tmpl$3398(), _tmpl$3399(), _tmpl$3400(), _tmpl$3401(), _tmpl$3402(), _tmpl$3403(), _tmpl$3404(), _tmpl$3405()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Bottom Dashed Scissors'
 };
 const squareCheckBig = {
   path: () => [_tmpl$956(), _tmpl$3406()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Check Big'
 };
 const squareCheck = {
   path: () => [_tmpl$667(), _tmpl$321()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Check'
 };
 const squareChevronDown = {
   path: () => [_tmpl$667(), _tmpl$957()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Chevron Down'
 };
 const squareChevronLeft = {
   path: () => [_tmpl$667(), _tmpl$958()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Chevron Left'
 };
 const squareChevronRight = {
   path: () => [_tmpl$667(), _tmpl$959()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Chevron Right'
 };
 const squareChevronUp = {
   path: () => [_tmpl$667(), _tmpl$960()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Chevron Up'
 };
 const squareCode = {
   path: () => [_tmpl$2445(), _tmpl$2446(), _tmpl$667()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Code'
 };
 const squareDashedBottomCode = {
   path: () => [_tmpl$2445(), _tmpl$615(), _tmpl$2446(), _tmpl$3407(), _tmpl$613()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Dashed Bottom Code'
 };
 const squareDashedBottom = {
   path: () => [_tmpl$3407(), _tmpl$613(), _tmpl$615()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Dashed Bottom'
 };
 const squareDashedKanban = {
   path: () => [_tmpl$3408(), _tmpl$3409(), _tmpl$3410(), _tmpl$608(), _tmpl$612(), _tmpl$614(), _tmpl$609(), _tmpl$617(), _tmpl$619(), _tmpl$610(), _tmpl$615(), _tmpl$613(), _tmpl$611(), _tmpl$618(), _tmpl$616()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Dashed Kanban'
 };
 const squareDashedMousePointer = {
   path: () => [_tmpl$608(), _tmpl$609(), _tmpl$3411(), _tmpl$611(), _tmpl$612(), _tmpl$3412(), _tmpl$614(), _tmpl$616(), _tmpl$2470(), _tmpl$618()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Dashed Mouse Pointer'
 };
 const squareDivide = {
   path: () => [_tmpl$42(), _tmpl$337(), _tmpl$969(), _tmpl$970()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Divide'
 };
 const squareDot = {
   path: () => [_tmpl$667(), _tmpl$291()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Dot'
 };
 const squareEqual = {
   path: () => [_tmpl$667(), _tmpl$981(), _tmpl$982()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Equal'
 };
 const squareFunction = {
   path: () => [_tmpl$42(), _tmpl$3413(), _tmpl$3414()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Function'
 };
 const squareGanttChart = {
   path: () => [_tmpl$667(), _tmpl$3415(), _tmpl$3416(), _tmpl$3417()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Gantt Chart'
 };
 const squareKanban = {
   path: () => [_tmpl$667(), _tmpl$3408(), _tmpl$3409(), _tmpl$3410()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Kanban'
 };
 const squareLibrary = {
   path: () => [_tmpl$667(), _tmpl$3418(), _tmpl$3419(), _tmpl$3420()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Library'
 };
 const squareM = {
   path: () => [_tmpl$667(), _tmpl$3421()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square M'
 };
 const squareMenu = {
   path: () => [_tmpl$667(), _tmpl$3422(), _tmpl$2301(), _tmpl$1675()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Menu'
 };
 const squareMinus = {
   path: () => [_tmpl$667(), _tmpl$329()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Minus'
 };
 const squareMousePointer = {
   path: () => [_tmpl$3384(), _tmpl$3411()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Mouse Pointer'
 };
 const squareParkingOff = {
   path: () => [_tmpl$3423(), _tmpl$3424(), _tmpl$33(), _tmpl$994(), _tmpl$3425()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Parking Off'
 };
 const squareParking = {
   path: () => [_tmpl$667(), _tmpl$996()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Parking'
 };
 const squarePen = {
   path: () => [_tmpl$3122(), _tmpl$3426()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Pen'
 };
 const squarePercent = {
   path: () => [_tmpl$667(), _tmpl$338(), _tmpl$339(), _tmpl$340()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Percent'
 };
 const squarePi = {
   path: () => [_tmpl$667(), _tmpl$3427(), _tmpl$3428(), _tmpl$3429()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Pi'
 };
 const squarePilcrow = {
   path: () => [_tmpl$667(), _tmpl$3430(), _tmpl$319(), _tmpl$3431()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Pilcrow'
 };
 const squarePlay = {
   path: () => [_tmpl$667(), _tmpl$3432()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Play'
 };
 const squarePlus = {
   path: () => [_tmpl$667(), _tmpl$329(), _tmpl$936()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Plus'
 };
 const squarePower = {
   path: () => [_tmpl$667(), _tmpl$927(), _tmpl$3433()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Power'
 };
 const squareRadical = {
   path: () => [_tmpl$3434(), _tmpl$3435()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Radical'
 };
 const squareScissors = {
   path: () => [_tmpl$3436(), _tmpl$3401(), _tmpl$3402(), _tmpl$3403(), _tmpl$3404(), _tmpl$3405()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Scissors'
 };
 const squareSigma = {
   path: () => [_tmpl$667(), _tmpl$3437()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Sigma'
 };
 const squareSlash = {
   path: () => [_tmpl$667(), _tmpl$1003()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Slash'
 };
 const squareSplitHorizontal = {
   path: () => [_tmpl$3438(), _tmpl$3439(), _tmpl$3440()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Split Horizontal'
 };
 const squareSplitVertical = {
   path: () => [_tmpl$3441(), _tmpl$3442(), _tmpl$2439()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Split Vertical'
 };
 const squareStack = {
   path: () => [_tmpl$3443(), _tmpl$3444(), _tmpl$1166()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Stack'
 };
 const squareTerminal = {
   path: () => [_tmpl$3445(), _tmpl$3446(), _tmpl$42()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square Terminal'
 };
 const squareUserRound = {
   path: () => [_tmpl$3447(), _tmpl$3448(), _tmpl$667()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square User Round'
 };
 const squareUser = {
   path: () => [_tmpl$667(), _tmpl$1007(), _tmpl$3449()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square User'
 };
 const squareX = {
   path: () => [_tmpl$42(), _tmpl$338(), _tmpl$1009()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square X'
 };
 const square = {
   path: () => _tmpl$667(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Square'
 };
 const squircle = {
   path: () => _tmpl$3450(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Squircle'
 };
 const squirrel = {
   path: () => [_tmpl$3451(), _tmpl$3452(), _tmpl$3453(), _tmpl$3454()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Squirrel'
 };
 const stamp = {
   path: () => [_tmpl$2097(), _tmpl$3455(), _tmpl$3456()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Stamp'
 };
 const starHalf = {
   path: () => _tmpl$3457(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Star Half'
 };
 const starOff = {
   path: () => [_tmpl$3458(), _tmpl$3459(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Star Off'
 };
 const star = {
   path: () => _tmpl$3460(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Star'
 };
 const stepBack = {
   path: () => [_tmpl$379(), _tmpl$3461()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Step Back'
 };
 const stepForward = {
   path: () => [_tmpl$3462(), _tmpl$3463()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Step Forward'
 };
 const stethoscope = {
   path: () => [_tmpl$3464(), _tmpl$3465(), _tmpl$3466()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Stethoscope'
 };
 const sticker = {
   path: () => [_tmpl$3467(), _tmpl$3468(), _tmpl$3469(), _tmpl$3470(), _tmpl$3471()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sticker'
 };
 const stickyNote = {
   path: () => [_tmpl$3472(), _tmpl$3473()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sticky Note'
 };
 const store = {
   path: () => [_tmpl$3474(), _tmpl$3207(), _tmpl$3475(), _tmpl$3476(), _tmpl$3477()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Store'
 };
 const stretchHorizontal = {
   path: () => [_tmpl$3478(), _tmpl$3479()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Stretch Horizontal'
 };
 const stretchVertical = {
   path: () => [_tmpl$3480(), _tmpl$3481()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Stretch Vertical'
 };
 const strikethrough = {
   path: () => [_tmpl$3482(), _tmpl$3483(), _tmpl$2439()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Strikethrough'
 };
 const subscript = {
   path: () => [_tmpl$3484(), _tmpl$3485(), _tmpl$3486()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Subscript'
 };
 const sunDim = {
   path: () => [_tmpl$289(), _tmpl$3487(), _tmpl$3488(), _tmpl$3489(), _tmpl$3490(), _tmpl$3491(), _tmpl$3492(), _tmpl$3493(), _tmpl$3494()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sun Dim'
 };
 const sunMedium = {
   path: () => [_tmpl$289(), _tmpl$3495(), _tmpl$3496(), _tmpl$3497(), _tmpl$3498(), _tmpl$3499(), _tmpl$3500(), _tmpl$3501(), _tmpl$3502()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sun Medium'
 };
 const sunMoon = {
   path: () => [_tmpl$3503(), _tmpl$1107(), _tmpl$1682(), _tmpl$3504(), _tmpl$3505(), _tmpl$594(), _tmpl$597(), _tmpl$3506(), _tmpl$3507()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sun Moon'
 };
 const sunSnow = {
   path: () => [_tmpl$3508(), _tmpl$3285(), _tmpl$3509(), _tmpl$3510(), _tmpl$3511(), _tmpl$3512(), _tmpl$3513(), _tmpl$1147(), _tmpl$3514(), _tmpl$3515(), _tmpl$3516()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sun Snow'
 };
 const sun = {
   path: () => [_tmpl$289(), _tmpl$1107(), _tmpl$1682(), _tmpl$1108(), _tmpl$3517(), _tmpl$594(), _tmpl$597(), _tmpl$3518(), _tmpl$1109()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sun'
 };
 const sunrise = {
   path: () => [_tmpl$1997(), _tmpl$3519(), _tmpl$3520(), _tmpl$3521(), _tmpl$3522(), _tmpl$59(), _tmpl$2442(), _tmpl$1191()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sunrise'
 };
 const sunset = {
   path: () => [_tmpl$3523(), _tmpl$3519(), _tmpl$3520(), _tmpl$3521(), _tmpl$3522(), _tmpl$59(), _tmpl$1998(), _tmpl$1191()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sunset'
 };
 const superscript = {
   path: () => [_tmpl$3524(), _tmpl$3525(), _tmpl$3526()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Superscript'
 };
 const swatchBook = {
   path: () => [_tmpl$3527(), _tmpl$3528(), _tmpl$3529(), _tmpl$3530()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Swatch Book'
 };
 const swissFranc = {
   path: () => [_tmpl$3531(), _tmpl$3532(), _tmpl$3533()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Swiss Franc'
 };
 const switchCamera = {
   path: () => [_tmpl$3534(), _tmpl$3535(), _tmpl$656(), _tmpl$3536(), _tmpl$3537()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Switch Camera'
 };
 const sword = {
   path: () => [_tmpl$3538(), _tmpl$3539(), _tmpl$3540(), _tmpl$3541()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Sword'
 };
 const swords = {
   path: () => [_tmpl$3538(), _tmpl$3539(), _tmpl$3540(), _tmpl$3541(), _tmpl$3542(), _tmpl$3543(), _tmpl$3544(), _tmpl$3545()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Swords'
 };
 const syringe = {
   path: () => [_tmpl$3546(), _tmpl$3547(), _tmpl$3548(), _tmpl$3549(), _tmpl$3550(), _tmpl$3551()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Syringe'
 };
 const table_2 = {
   path: () => _tmpl$3552(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Table 2'
 };
 const tableCellsMerge = {
   path: () => [_tmpl$3553(), _tmpl$3554(), _tmpl$671(), _tmpl$672(), _tmpl$667()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Table Cells Merge'
 };
 const tableCellsSplit = {
   path: () => [_tmpl$2163(), _tmpl$671(), _tmpl$672(), _tmpl$667()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Table Cells Split'
 };
 const tableColumnsSplit = {
   path: () => [_tmpl$3555(), _tmpl$3556(), _tmpl$1137(), _tmpl$3557(), _tmpl$3558(), _tmpl$3559(), _tmpl$3560(), _tmpl$3561(), _tmpl$3562(), _tmpl$3563(), _tmpl$3564()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Table Columns Split'
 };
 const tableProperties = {
   path: () => [_tmpl$1158(), _tmpl$667(), _tmpl$3077(), _tmpl$3078()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Table Properties'
 };
 const tableRowsSplit = {
   path: () => [_tmpl$3565(), _tmpl$3566(), _tmpl$3567(), _tmpl$3568(), _tmpl$3569(), _tmpl$3570(), _tmpl$3571(), _tmpl$3572(), _tmpl$3573(), _tmpl$3574(), _tmpl$3575()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Table Rows Split'
 };
 const table = {
   path: () => [_tmpl$1156(), _tmpl$667(), _tmpl$672(), _tmpl$671()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Table'
 };
 const tabletSmartphone = {
   path: () => [_tmpl$3576(), _tmpl$3577(), _tmpl$764()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tablet Smartphone'
 };
 const tablet = {
   path: () => [_tmpl$713(), _tmpl$3578()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tablet'
 };
 const tablets = {
   path: () => [_tmpl$3579(), _tmpl$3580(), _tmpl$3581(), _tmpl$3582()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tablets'
 };
 const tag = {
   path: () => [_tmpl$3583(), _tmpl$3132()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tag'
 };
 const tags = {
   path: () => [_tmpl$3584(), _tmpl$3585(), _tmpl$3586()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tags'
 };
 const tally_1 = {
   path: () => _tmpl$2261(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tally 1'
 };
 const tally_2 = {
   path: () => [_tmpl$2261(), _tmpl$3587()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tally 2'
 };
 const tally_3 = {
   path: () => [_tmpl$2261(), _tmpl$3587(), _tmpl$3588()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tally 3'
 };
 const tally_4 = {
   path: () => [_tmpl$2261(), _tmpl$3587(), _tmpl$3588(), _tmpl$3589()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tally 4'
 };
 const tally_5 = {
   path: () => [_tmpl$2261(), _tmpl$3587(), _tmpl$3588(), _tmpl$3589(), _tmpl$3590()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tally 5'
 };
 const tangent = {
   path: () => [_tmpl$3591(), _tmpl$3592(), _tmpl$3593(), _tmpl$3594()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tangent'
 };
 const target = {
   path: () => [_tmpl$137(), _tmpl$3595(), _tmpl$361()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Target'
 };
 const telescope = {
   path: () => [_tmpl$3596(), _tmpl$3597(), _tmpl$3598(), _tmpl$3599(), _tmpl$3600(), _tmpl$3601(), _tmpl$1743()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Telescope'
 };
 const tentTree = {
   path: () => [_tmpl$2284(), _tmpl$3602(), _tmpl$3603(), _tmpl$3604(), _tmpl$3605(), _tmpl$3606(), _tmpl$3607()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tent Tree'
 };
 const tent = {
   path: () => [_tmpl$3608(), _tmpl$3609(), _tmpl$3610(), _tmpl$121()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tent'
 };
 const terminal = {
   path: () => [_tmpl$3611(), _tmpl$3612()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Terminal'
 };
 const testTubeDiagonal = {
   path: () => [_tmpl$3613(), _tmpl$3614(), _tmpl$3615()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Test Tube Diagonal'
 };
 const testTube = {
   path: () => [_tmpl$3616(), _tmpl$1672(), _tmpl$3617()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Test Tube'
 };
 const testTubes = {
   path: () => [_tmpl$3618(), _tmpl$3619(), _tmpl$3620(), _tmpl$3621(), _tmpl$3622(), _tmpl$3623()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Test Tubes'
 };
 const textCursorInput = {
   path: () => [_tmpl$3624(), _tmpl$3625(), _tmpl$3626(), _tmpl$3627(), _tmpl$3628()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Text Cursor Input'
 };
 const textCursor = {
   path: () => [_tmpl$3629(), _tmpl$3630(), _tmpl$3631()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Text Cursor'
 };
 const textQuote = {
   path: () => [_tmpl$3632(), _tmpl$3633(), _tmpl$3634(), _tmpl$3635()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Text Quote'
 };
 const textSearch = {
   path: () => [_tmpl$2316(), _tmpl$3636(), _tmpl$2297(), _tmpl$3637(), _tmpl$3638()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Text Search'
 };
 const textSelect = {
   path: () => [_tmpl$608(), _tmpl$609(), _tmpl$610(), _tmpl$611(), _tmpl$612(), _tmpl$613(), _tmpl$614(), _tmpl$615(), _tmpl$616(), _tmpl$617(), _tmpl$618(), _tmpl$619(), _tmpl$3639(), _tmpl$3640(), _tmpl$3641()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Text Select'
 };
 const text = {
   path: () => [_tmpl$3642(), _tmpl$3643(), _tmpl$3644()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Text'
 };
 const theater = {
   path: () => [_tmpl$3645(), _tmpl$3646(), _tmpl$3647(), _tmpl$3648(), _tmpl$3649(), _tmpl$3650(), _tmpl$143(), _tmpl$3651(), _tmpl$3652()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Theater'
 };
 const thermometerSnowflake = {
   path: () => [_tmpl$3653(), _tmpl$3587(), _tmpl$3654(), _tmpl$3655(), _tmpl$3656(), _tmpl$3657()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Thermometer Snowflake'
 };
 const thermometerSun = {
   path: () => [_tmpl$3658(), _tmpl$3659(), _tmpl$3660(), _tmpl$3657(), _tmpl$3661(), _tmpl$3662()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Thermometer Sun'
 };
 const thermometer = {
   path: () => _tmpl$3663(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Thermometer'
 };
 const thumbsDown = {
   path: () => [_tmpl$3604(), _tmpl$3664()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Thumbs Down'
 };
 const thumbsUp = {
   path: () => [_tmpl$3665(), _tmpl$3666()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Thumbs Up'
 };
 const ticketCheck = {
   path: () => [_tmpl$3667(), _tmpl$321()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ticket Check'
 };
 const ticketMinus = {
   path: () => [_tmpl$3667(), _tmpl$335()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ticket Minus'
 };
 const ticketPercent = {
   path: () => [_tmpl$3668(), _tmpl$339(), _tmpl$338(), _tmpl$340()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ticket Percent'
 };
 const ticketPlus = {
   path: () => [_tmpl$3667(), _tmpl$335(), _tmpl$668()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ticket Plus'
 };
 const ticketSlash = {
   path: () => [_tmpl$3667(), _tmpl$3669()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ticket Slash'
 };
 const ticketX = {
   path: () => [_tmpl$3667(), _tmpl$3669(), _tmpl$3220()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ticket X'
 };
 const ticket = {
   path: () => [_tmpl$3667(), _tmpl$3670(), _tmpl$3671(), _tmpl$3672()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ticket'
 };
 const timerOff = {
   path: () => [_tmpl$841(), _tmpl$3673(), _tmpl$3674(), _tmpl$33(), _tmpl$3675()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Timer Off'
 };
 const timerReset = {
   path: () => [_tmpl$841(), _tmpl$3676(), _tmpl$3677(), _tmpl$3678()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Timer Reset'
 };
 const timer = {
   path: () => [_tmpl$3679(), _tmpl$3680(), _tmpl$3681()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Timer'
 };
 const toggleLeft = {
   path: () => [_tmpl$3682(), _tmpl$3683()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Toggle Left'
 };
 const toggleRight = {
   path: () => [_tmpl$3682(), _tmpl$3684()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Toggle Right'
 };
 const tornado = {
   path: () => [_tmpl$3685(), _tmpl$3686(), _tmpl$3687(), _tmpl$3688(), _tmpl$3689()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tornado'
 };
 const torus = {
   path: () => [_tmpl$3690(), _tmpl$3691()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Torus'
 };
 const touchpadOff = {
   path: () => [_tmpl$3692(), _tmpl$3693(), _tmpl$3694(), _tmpl$3695(), _tmpl$33(), _tmpl$3696()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Touchpad Off'
 };
 const touchpad = {
   path: () => [_tmpl$163(), _tmpl$108(), _tmpl$3695()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Touchpad'
 };
 const towerControl = {
   path: () => [_tmpl$3697(), _tmpl$3698(), _tmpl$3699(), _tmpl$3700(), _tmpl$3701(), _tmpl$3702(), _tmpl$3703()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tower Control'
 };
 const toyBrick = {
   path: () => [_tmpl$3704(), _tmpl$3705(), _tmpl$3706()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Toy Brick'
 };
 const tractor = {
   path: () => [_tmpl$3707(), _tmpl$3708(), _tmpl$3709(), _tmpl$3710(), _tmpl$3711(), _tmpl$3712(), _tmpl$3713(), _tmpl$3714(), _tmpl$3715()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tractor'
 };
 const trafficCone = {
   path: () => [_tmpl$3716(), _tmpl$3717(), _tmpl$3718(), _tmpl$3719()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Traffic Cone'
 };
 const trainFrontTunnel = {
   path: () => [_tmpl$3720(), _tmpl$3721(), _tmpl$3722(), _tmpl$3723(), _tmpl$3724(), _tmpl$3725(), _tmpl$3726()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Train Front Tunnel'
 };
 const trainFront = {
   path: () => [_tmpl$3727(), _tmpl$3728(), _tmpl$3729(), _tmpl$3730(), _tmpl$3731(), _tmpl$3732()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Train Front'
 };
 const trainTrack = {
   path: () => [_tmpl$3733(), _tmpl$3734(), _tmpl$3735(), _tmpl$3379(), _tmpl$3736(), _tmpl$3737(), _tmpl$3738()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Train Track'
 };
 const tramFront = {
   path: () => [_tmpl$726(), _tmpl$727(), _tmpl$3739(), _tmpl$3731(), _tmpl$3740(), _tmpl$728(), _tmpl$729()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tram Front'
 };
 const trash_2 = {
   path: () => [_tmpl$2300(), _tmpl$3741(), _tmpl$3742(), _tmpl$3743(), _tmpl$3744()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Trash 2'
 };
 const trash = {
   path: () => [_tmpl$2300(), _tmpl$3741(), _tmpl$3742()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Trash'
 };
 const treeDeciduous = {
   path: () => [_tmpl$3745(), _tmpl$2732()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tree Deciduous'
 };
 const treePalm = {
   path: () => [_tmpl$3746(), _tmpl$3747(), _tmpl$3748(), _tmpl$3749()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tree Palm'
 };
 const treePine = {
   path: () => [_tmpl$3750(), _tmpl$2839()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tree Pine'
 };
 const trees = {
   path: () => [_tmpl$3751(), _tmpl$3752(), _tmpl$3753(), _tmpl$3754()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Trees'
 };
 const trello = {
   path: () => [_tmpl$42(), _tmpl$3755(), _tmpl$3756()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Trello'
 };
 const trendingDown = {
   path: () => [_tmpl$3757(), _tmpl$3758()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Trending Down'
 };
 const trendingUp = {
   path: () => [_tmpl$3759(), _tmpl$3760()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Trending Up'
 };
 const triangleAlert = {
   path: () => [_tmpl$3761(), _tmpl$1608(), _tmpl$990()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Triangle Alert'
 };
 const triangleRight = {
   path: () => _tmpl$3762(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Triangle Right'
 };
 const triangle = {
   path: () => _tmpl$3763(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Triangle'
 };
 const trophy = {
   path: () => [_tmpl$3764(), _tmpl$3765(), _tmpl$3766(), _tmpl$3767(), _tmpl$3768(), _tmpl$3769()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Trophy'
 };
 const truck = {
   path: () => [_tmpl$124(), _tmpl$3770(), _tmpl$3771(), _tmpl$128(), _tmpl$129()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Truck'
 };
 const turtle = {
   path: () => [_tmpl$3772(), _tmpl$3773(), _tmpl$3774(), _tmpl$3775()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Turtle'
 };
 const tv_2 = {
   path: () => [_tmpl$3094(), _tmpl$2524()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tv 2'
 };
 const tv = {
   path: () => [_tmpl$3776(), _tmpl$3777()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Tv'
 };
 const twitch = {
   path: () => _tmpl$3778(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Twitch'
 };
 const twitter = {
   path: () => _tmpl$3779(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Twitter'
 };
 const type = {
   path: () => [_tmpl$3780(), _tmpl$3781(), _tmpl$3440()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Type'
 };
 const umbrellaOff = {
   path: () => [_tmpl$3286(), _tmpl$3782(), _tmpl$3783(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Umbrella Off'
 };
 const umbrella = {
   path: () => [_tmpl$3784(), _tmpl$3785(), _tmpl$3286()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Umbrella'
 };
 const underline = {
   path: () => [_tmpl$3786(), _tmpl$3787()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Underline'
 };
 const undo_2 = {
   path: () => [_tmpl$3788(), _tmpl$3789()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Undo 2'
 };
 const undoDot = {
   path: () => [_tmpl$2981(), _tmpl$3790(), _tmpl$3791()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Undo Dot'
 };
 const undo = {
   path: () => [_tmpl$3790(), _tmpl$3791()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Undo'
 };
 const unfoldHorizontal = {
   path: () => [_tmpl$3792(), _tmpl$3793(), _tmpl$1107(), _tmpl$1684(), _tmpl$1683(), _tmpl$1682(), _tmpl$3794(), _tmpl$3795()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Unfold Horizontal'
 };
 const unfoldVertical = {
   path: () => [_tmpl$1716(), _tmpl$1717(), _tmpl$1689(), _tmpl$1690(), _tmpl$1691(), _tmpl$1692(), _tmpl$3796(), _tmpl$3797()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Unfold Vertical'
 };
 const ungroup = {
   path: () => [_tmpl$3798(), _tmpl$3799()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Ungroup'
 };
 const university = {
   path: () => [_tmpl$3800(), _tmpl$3801(), _tmpl$3802(), _tmpl$3803(), _tmpl$3804(), _tmpl$3805(), _tmpl$3806()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'University'
 };
 const unlink_2 = {
   path: () => _tmpl$3807(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Unlink 2'
 };
 const unlink = {
   path: () => [_tmpl$3808(), _tmpl$3809(), _tmpl$3810(), _tmpl$3811(), _tmpl$3812(), _tmpl$3813()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Unlink'
 };
 const unplug = {
   path: () => [_tmpl$3814(), _tmpl$2841(), _tmpl$2840(), _tmpl$2842(), _tmpl$2843(), _tmpl$3815()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Unplug'
 };
 const upload = {
   path: () => [_tmpl$1355(), _tmpl$3816(), _tmpl$3817()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Upload'
 };
 const usb = {
   path: () => [_tmpl$3818(), _tmpl$3819(), _tmpl$3820(), _tmpl$3821(), _tmpl$3822(), _tmpl$3823(), _tmpl$3824()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Usb'
 };
 const userCheck = {
   path: () => [_tmpl$3825(), _tmpl$3826(), _tmpl$3827()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Check'
 };
 const userCog = {
   path: () => [_tmpl$3828(), _tmpl$3826(), _tmpl$3829(), _tmpl$3830(), _tmpl$3831(), _tmpl$3832(), _tmpl$3833(), _tmpl$3834(), _tmpl$3835(), _tmpl$3836(), _tmpl$3837()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Cog'
 };
 const userMinus = {
   path: () => [_tmpl$3825(), _tmpl$3826(), _tmpl$3838()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Minus'
 };
 const userPlus = {
   path: () => [_tmpl$3825(), _tmpl$3826(), _tmpl$3839(), _tmpl$3838()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Plus'
 };
 const userRoundCheck = {
   path: () => [_tmpl$3840(), _tmpl$3841(), _tmpl$1932()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Round Check'
 };
 const userRoundCog = {
   path: () => [_tmpl$3842(), _tmpl$3841(), _tmpl$795(), _tmpl$3843(), _tmpl$3844(), _tmpl$3845(), _tmpl$3846(), _tmpl$3847(), _tmpl$3848(), _tmpl$3849(), _tmpl$3850()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Round Cog'
 };
 const userRoundMinus = {
   path: () => [_tmpl$3840(), _tmpl$3841(), _tmpl$3851()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Round Minus'
 };
 const userRoundPlus = {
   path: () => [_tmpl$3840(), _tmpl$3841(), _tmpl$789(), _tmpl$3851()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Round Plus'
 };
 const userRoundSearch = {
   path: () => [_tmpl$3841(), _tmpl$3842(), _tmpl$795(), _tmpl$3852()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Round Search'
 };
 const userRoundX = {
   path: () => [_tmpl$3853(), _tmpl$3841(), _tmpl$798(), _tmpl$3854()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Round X'
 };
 const userRound = {
   path: () => [_tmpl$3855(), _tmpl$3856()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Round'
 };
 const userSearch = {
   path: () => [_tmpl$3857(), _tmpl$3858(), _tmpl$1771(), _tmpl$3859()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User Search'
 };
 const userX = {
   path: () => [_tmpl$3825(), _tmpl$3826(), _tmpl$3860(), _tmpl$3861()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User X'
 };
 const user = {
   path: () => [_tmpl$3862(), _tmpl$3863()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'User'
 };
 const usersRound = {
   path: () => [_tmpl$3864(), _tmpl$3841(), _tmpl$3865()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Users Round'
 };
 const users = {
   path: () => [_tmpl$3825(), _tmpl$3826(), _tmpl$3866(), _tmpl$3867()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Users'
 };
 const utensilsCrossed = {
   path: () => [_tmpl$3868(), _tmpl$3869(), _tmpl$3870(), _tmpl$3871()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Utensils Crossed'
 };
 const utensils = {
   path: () => [_tmpl$3872(), _tmpl$3873(), _tmpl$3874()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Utensils'
 };
 const utilityPole = {
   path: () => [_tmpl$49(), _tmpl$3875(), _tmpl$3876(), _tmpl$3877(), _tmpl$809(), _tmpl$3878(), _tmpl$3879()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Utility Pole'
 };
 const variable = {
   path: () => [_tmpl$2727(), _tmpl$2728(), _tmpl$350(), _tmpl$351()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Variable'
 };
 const vault = {
   path: () => [_tmpl$667(), _tmpl$3132(), _tmpl$3880(), _tmpl$2169(), _tmpl$3881(), _tmpl$3135(), _tmpl$3882(), _tmpl$3883(), _tmpl$3884(), _tmpl$361()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Vault'
 };
 const vegan = {
   path: () => [_tmpl$3885(), _tmpl$3886(), _tmpl$3887()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Vegan'
 };
 const venetianMask = {
   path: () => [_tmpl$3888(), _tmpl$3889(), _tmpl$3890()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Venetian Mask'
 };
 const vibrateOff = {
   path: () => [_tmpl$3891(), _tmpl$3892(), _tmpl$3893(), _tmpl$3894(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Vibrate Off'
 };
 const vibrate = {
   path: () => [_tmpl$3891(), _tmpl$3892(), _tmpl$3895()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Vibrate'
 };
 const videoOff = {
   path: () => [_tmpl$3896(), _tmpl$3897(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Video Off'
 };
 const video = {
   path: () => [_tmpl$3898(), _tmpl$3899()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Video'
 };
 const videotape = {
   path: () => [_tmpl$163(), _tmpl$169(), _tmpl$3900(), _tmpl$329(), _tmpl$3901()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Videotape'
 };
 const view = {
   path: () => [_tmpl$3902(), _tmpl$3903(), _tmpl$3904(), _tmpl$3905()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'View'
 };
 const voicemail = {
   path: () => [_tmpl$3906(), _tmpl$3907(), _tmpl$3908()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Voicemail'
 };
 const volume_1 = {
   path: () => [_tmpl$3909(), _tmpl$3910()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Volume 1'
 };
 const volume_2 = {
   path: () => [_tmpl$3909(), _tmpl$3910(), _tmpl$3911()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Volume 2'
 };
 const volumeX = {
   path: () => [_tmpl$3909(), _tmpl$3912(), _tmpl$3913()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Volume X'
 };
 const volume = {
   path: () => _tmpl$3909(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Volume'
 };
 const vote = {
   path: () => [_tmpl$321(), _tmpl$3914(), _tmpl$3915()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Vote'
 };
 const walletCards = {
   path: () => [_tmpl$667(), _tmpl$3916(), _tmpl$3917()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wallet Cards'
 };
 const walletMinimal = {
   path: () => [_tmpl$839(), _tmpl$3918()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wallet Minimal'
 };
 const wallet = {
   path: () => [_tmpl$3919(), _tmpl$3920()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wallet'
 };
 const wallpaper = {
   path: () => [_tmpl$3921(), _tmpl$3922(), _tmpl$2526(), _tmpl$2525()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wallpaper'
 };
 const wandSparkles = {
   path: () => [_tmpl$3923(), _tmpl$2171(), _tmpl$3924(), _tmpl$3925(), _tmpl$1136(), _tmpl$3926(), _tmpl$3927(), _tmpl$3928()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wand Sparkles'
 };
 const wand = {
   path: () => [_tmpl$3929(), _tmpl$3930(), _tmpl$144(), _tmpl$1244(), _tmpl$3931(), _tmpl$3932(), _tmpl$3933(), _tmpl$3382(), _tmpl$3934()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wand'
 };
 const warehouse = {
   path: () => [_tmpl$3935(), _tmpl$3936(), _tmpl$404(), _tmpl$3937()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Warehouse'
 };
 const washingMachine = {
   path: () => [_tmpl$3938(), _tmpl$3939(), _tmpl$3940(), _tmpl$3941(), _tmpl$3942()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Washing Machine'
 };
 const watch = {
   path: () => [_tmpl$3595(), _tmpl$3943(), _tmpl$3944(), _tmpl$3945()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Watch'
 };
 const waves = {
   path: () => [_tmpl$3946(), _tmpl$3947(), _tmpl$3948()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Waves'
 };
 const waypoints = {
   path: () => [_tmpl$3949(), _tmpl$3950(), _tmpl$3951(), _tmpl$2301(), _tmpl$3952(), _tmpl$3953(), _tmpl$3954()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Waypoints'
 };
 const webcam = {
   path: () => [_tmpl$3955(), _tmpl$1007(), _tmpl$3956(), _tmpl$829()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Webcam'
 };
 const webhookOff = {
   path: () => [_tmpl$3957(), _tmpl$3958(), _tmpl$3959(), _tmpl$3960(), _tmpl$3961(), _tmpl$3962(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Webhook Off'
 };
 const webhook = {
   path: () => [_tmpl$3963(), _tmpl$3964(), _tmpl$3965()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Webhook'
 };
 const weight = {
   path: () => [_tmpl$136(), _tmpl$3966()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Weight'
 };
 const wheatOff = {
   path: () => [_tmpl$941(), _tmpl$3967(), _tmpl$3968(), _tmpl$3969(), _tmpl$3970(), _tmpl$3971(), _tmpl$3972(), _tmpl$3973(), _tmpl$3974(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wheat Off'
 };
 const wheat = {
   path: () => [_tmpl$3975(), _tmpl$3968(), _tmpl$3976(), _tmpl$3977(), _tmpl$3971(), _tmpl$3972(), _tmpl$3978(), _tmpl$3979()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wheat'
 };
 const wholeWord = {
   path: () => [_tmpl$854(), _tmpl$855(), _tmpl$856(), _tmpl$857(), _tmpl$3349()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Whole Word'
 };
 const wifiOff = {
   path: () => [_tmpl$3489(), _tmpl$3980(), _tmpl$3981(), _tmpl$3982(), _tmpl$3983(), _tmpl$3984(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wifi Off'
 };
 const wifi = {
   path: () => [_tmpl$3489(), _tmpl$3985(), _tmpl$3986(), _tmpl$3980()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wifi'
 };
 const wind = {
   path: () => [_tmpl$3987(), _tmpl$3988(), _tmpl$3989()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wind'
 };
 const wineOff = {
   path: () => [_tmpl$1466(), _tmpl$3990(), _tmpl$3991(), _tmpl$3992(), _tmpl$408()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wine Off'
 };
 const wine = {
   path: () => [_tmpl$1466(), _tmpl$981(), _tmpl$3991(), _tmpl$3993()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wine'
 };
 const workflow = {
   path: () => [_tmpl$3994(), _tmpl$3995(), _tmpl$3996()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Workflow'
 };
 const worm = {
   path: () => [_tmpl$3997(), _tmpl$3998(), _tmpl$3999()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Worm'
 };
 const wrapText = {
   path: () => [_tmpl$86(), _tmpl$4000(), _tmpl$4001(), _tmpl$4002()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wrap Text'
 };
 const wrench = {
   path: () => _tmpl$4003(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Wrench'
 };
 const x = {
   path: () => [_tmpl$4004(), _tmpl$4005()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'X'
 };
 const youtube = {
   path: () => [_tmpl$4006(), _tmpl$4007()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Youtube'
 };
 const zapOff = {
   path: () => [_tmpl$4008(), _tmpl$4009(), _tmpl$4010(), _tmpl$33()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Zap Off'
 };
 const zap = {
   path: () => _tmpl$4011(),
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Zap'
 };
 const zoomIn = {
   path: () => [_tmpl$2368(), _tmpl$4012(), _tmpl$4013(), _tmpl$4014()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Zoom In'
 };
 const zoomOut = {
   path: () => [_tmpl$2368(), _tmpl$4012(), _tmpl$4014()],
-  outline: false,
+  outline: true,
   mini: false,
   title: 'Zoom Out'
 };
