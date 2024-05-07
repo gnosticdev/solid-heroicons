@@ -57,13 +57,13 @@
 			"types": "./lucide/index.d.ts"
 		}
 	},
-	"files": ["dist", "outline", "solid", "solid-mini"],
+	"files": ["dist", "outline", "solid", "solid-mini", "lucide"],
 	"homepage": "https://github.com/amoutonbrady/solid-heroicons#readme",
-	"keywords": ["icon", "heroicon", "tailwind", "solidjs"],
+	"keywords": ["icon", "heroicon", "tailwind", "solidjs", "lucide"],
 	"license": "MIT",
 	"main": "dist/browser/index.module.js",
 	"module": "dist/browser/index.module.js",
-	"name": "solid-lucide-heroicons",
+	"name": "solid-heroicons-with-lucide",
 	"peerDependencies": {
 		"solid-js": ">= ^1.2.5"
 	},
@@ -77,7 +77,7 @@
 	"scripts": {
 		"build": "pnpm build:icons && pnpm build:component",
 		"build:component": "rollup -c",
-		"build:icons": "jiti scripts/fetchIcons",
+		"build:icons": "bun scripts/fetchIcons.ts",
 		"prepublishOnly": "pnpm build"
 	},
 	"sideEffects": false,
