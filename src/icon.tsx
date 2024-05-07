@@ -1,14 +1,20 @@
-import { Component, JSX, splitProps } from "solid-js";
+import {
+	splitProps,
+	type Component,
+	type ComponentProps,
+	type JSX,
+} from "solid-js";
 
-interface Props extends JSX.SvgSVGAttributes<SVGSVGElement> {
-  /**
-   * This is the path of the SVG
-   */
-  path: {
-    path: JSX.Element;
-    outline?: boolean;
-    mini?: boolean;
-  };
+interface Props extends ComponentProps<"svg"> {
+	/**
+	 * This is the path of the SVG
+	 */
+	path: {
+		path: JSX.Element;
+		outline?: boolean;
+		mini?: boolean;
+	};
+	title?: string;
 }
 
 /**
@@ -31,17 +37,18 @@ interface Props extends JSX.SvgSVGAttributes<SVGSVGElement> {
  * ```
  */
 export const Icon: Component<Props> = (props) => {
-  const [internal, external] = splitProps(props, ["path"]);
+	const [internal, external] = splitProps(props, ["path", "title"]);
 
-  return (
-    <svg
-      viewBox={internal.path.mini ? "0 0 20 20" : "0 0 24 24"}
-      fill={internal.path.outline ? "none" : "currentColor"}
-      stroke={internal.path.outline ? "currentColor" : "none"}
-      stroke-width={internal.path.outline ? 1.5 : undefined}
-      {...external}
-    >
-      {internal.path.path}
-    </svg>
-  );
+	return (
+		<svg
+			viewBox={internal.path.mini ? "0 0 20 20" : "0 0 24 24"}
+			fill={internal.path.outline ? "none" : "currentColor"}
+			stroke={internal.path.outline ? "currentColor" : "none"}
+			stroke-width={internal.path.outline ? 1.5 : undefined}
+			{...external}
+		>
+			<title>{internal.title}</title>
+			{internal.path.path}
+		</svg>
+	);
 };

@@ -68,6 +68,9 @@
     "solid-js": ">= ^1.2.5"
   },
   "dependencies": {
+    "@happy-dom/global-registrator": "^14.10.1",
+    "@solidjs/testing-library": "^0.8.7",
+    "@types/bun": "^1.1.1",
     "solid-js": "^1.7.6"
   },
   "devDependencies": {
