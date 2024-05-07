@@ -1,14 +1,14 @@
 {
-  "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true,
-    "moduleResolution": "node",
-    "jsx": "preserve",
-    "resolveJsonModule": true,
-    "jsxImportSource": "solid-js"
-  },
-  "include": ["./src"],
-  "exclude": ["node_modules/"]
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"moduleResolution": "Bundler",
+		"jsx": "preserve",
+		"resolveJsonModule": true,
+		"jsxImportSource": "solid-js"
+	},
+	"include": ["./src", "./__tests__"],
+	"exclude": ["node_modules/"]
 }
