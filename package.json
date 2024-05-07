@@ -9,6 +9,7 @@
 	"description": "Heroicons for Solid. Oh and lucide too.",
 	"devDependencies": {
 		"@babel/core": "^7.22.5",
+		"@happy-dom/global-registrator": "^14.10.1",
 		"@rollup/plugin-babel": "^6.0.3",
 		"@rollup/plugin-node-resolve": "^15.1.0",
 		"@types/bun": "^1.1.1",
@@ -49,15 +50,9 @@
 			"node": "./solid-mini/server/index.js",
 			"solid": "./solid-mini/index.jsx",
 			"types": "./solid-mini/index.d.ts"
-		},
-		"./lucide": {
-			"default": "./lucide/browser/index.js",
-			"node": "./lucide/server/index.js",
-			"solid": "./lucide/index.jsx",
-			"types": "./lucide/index.d.ts"
 		}
 	},
-	"files": ["dist", "outline", "solid", "solid-mini", "lucide"],
+	"files": ["dist", "outline", "solid", "solid-mini"],
 	"homepage": "https://github.com/amoutonbrady/solid-heroicons#readme",
 	"keywords": ["icon", "heroicon", "tailwind", "solidjs", "lucide"],
 	"license": "MIT",

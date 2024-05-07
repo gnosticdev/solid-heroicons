@@ -20,8 +20,8 @@ const SOLID_MINI_DIST = join(TMP, "solid/20");
 const OUTLINE_SRC = "tailwindlabs/heroicons/optimized/24/outline";
 const OUTLINE_DIST = join(TMP, "outline/24");
 
-const LUCIDE_SRC = "lucide-icons/lucide/icons";
-const LUCIDE_DIST = join(TMP, "lucide");
+// const LUCIDE_SRC = "lucide-icons/lucide/icons";
+// const LUCIDE_DIST = join(TMP, "lucide");
 
 // Start the whole machinery
 if (import.meta.main) {
@@ -35,20 +35,20 @@ async function main() {
 	removeSync(SOLID_DIST);
 	removeSync(SOLID_MINI_DIST);
 	removeSync(OUTLINE_DIST);
-	removeSync(LUCIDE_DIST);
+	// removeSync(LUCIDE_DIST);
 
 	// Clone the original SVG icons from the repo.
 	const [solidGit, solidMiniGit, outlineGit] = [
 		SOLID_SRC,
 		SOLID_MINI_SRC,
 		OUTLINE_SRC,
-		LUCIDE_SRC,
+		// LUCIDE_SRC,
 	].map((repo) => degit(repo, { cache: false, verbose: true, force: true }));
 
 	await solidGit.clone(SOLID_DIST);
 	await solidMiniGit.clone(SOLID_MINI_DIST);
 	await outlineGit.clone(OUTLINE_DIST);
-	await outlineGit.clone(LUCIDE_DIST);
+	// await outlineGit.clone(LUCIDE_DIST);
 
 	// Generate the icons in the proper folder
 	await generateIcons({
@@ -69,12 +69,12 @@ async function main() {
 		outline: true,
 		mini: false,
 	});
-	await generateIcons({
-		path: LUCIDE_DIST,
-		name: "lucide",
-		outline: false,
-		mini: false,
-	});
+	// await generateIcons({
+	// 	path: LUCIDE_DIST,
+	// 	name: "lucide",
+	// 	outline: false,
+	// 	mini: false,
+	// });
 
 	// Remove temporary git clones folder
 	await remove(TMP);
