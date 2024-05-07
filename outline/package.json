@@ -1,22 +1,22 @@
 {
-	"dependencies": {
-		"solid-js": "^1.7.6"
-	},
-	"exports": {
-		".": {
-			"default": "./browser/index.js",
-			"node": "./server/index.js",
-			"solid": "./index.jsx",
-			"types": "./index.d.ts"
-		}
-	},
-	"main": "browser/index.js",
-	"module": "browser/index.js",
-	"name": "solid-heroicons-with-lucide/outline",
-	"peerDependencies": {
-		"solid-js": ">= ^1.2.5"
-	},
-	"sideEffects": false,
-	"type": "module",
-	"types": "index.d.ts"
-}
+    "name": "solid-heroicons/outline",
+				"type": "module",
+    "module": "browser/index.js",
+    "main": "browser/index.js",
+    "types": "index.d.ts",
+				"peerDependencies": {
+					"solid-js": ">= ^1.2.5"
+				},
+				"dependencies": {
+					"solid-js": "^1.7.6"
+				},
+				"exports": {
+					".": {
+        "types": "./index.d.ts",
+						"solid": "./index.jsx",
+					  "node": "./server/index.js",
+					  "default": "./browser/index.js"
+					}
+				},
+    "sideEffects": false
+  }

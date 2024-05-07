@@ -1,7 +1,7 @@
 import { spread, mergeProps, insert, template } from 'solid-js/web';
 import { splitProps } from 'solid-js';
 
-var _tmpl$ = /*#__PURE__*/template(`<svg viewBox="0 0 24 24">`);
+var _tmpl$ = /*#__PURE__*/template(`<svg><title>`);
 /**
  * The Icon helper is just a SVG wrapper that can take any attributes
  * an SVG element can take plus a special props named `path` that represent
@@ -22,25 +22,28 @@ var _tmpl$ = /*#__PURE__*/template(`<svg viewBox="0 0 24 24">`);
  * ```
  */
 const Icon = props => {
-  const [internal, external] = splitProps(props, ["path"]);
-  return (// biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
-    (() => {
-      var _el$ = _tmpl$();
-      spread(_el$, mergeProps({
-        get fill() {
-          return internal.path.outline ? "none" : "currentColor";
-        },
-        get stroke() {
-          return internal.path.outline ? "currentColor" : "none";
-        },
-        get ["stroke-width"]() {
-          return internal.path.outline ? 1.5 : undefined;
-        }
-      }, external), true, true);
-      insert(_el$, () => internal.path.path);
-      return _el$;
-    })()
-  );
+  const [internal, external] = splitProps(props, ['path']);
+  return (() => {
+    var _el$ = _tmpl$(),
+      _el$2 = _el$.firstChild;
+    spread(_el$, mergeProps({
+      get viewBox() {
+        return internal.path.mini ? '0 0 20 20' : '0 0 24 24';
+      },
+      get fill() {
+        return internal.path.outline ? 'none' : 'currentColor';
+      },
+      get stroke() {
+        return internal.path.outline ? 'currentColor' : 'none';
+      },
+      get ["stroke-width"]() {
+        return internal.path.outline ? 1.5 : undefined;
+      }
+    }, external), true, true);
+    insert(_el$2, () => internal.path.title);
+    insert(_el$, () => internal.path.path, null);
+    return _el$;
+  })();
 };
 
 export { Icon };

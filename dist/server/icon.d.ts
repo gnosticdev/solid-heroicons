@@ -1,11 +1,13 @@
-import { type Component, type JSX } from "solid-js";
-interface Props extends JSX.SvgSVGAttributes<SVGSVGElement> {
+import { type Component, type ComponentProps, type JSX } from 'solid-js';
+interface Props extends ComponentProps<'svg'> {
     /**
      * This is the path of the SVG
      */
     path: {
         path: JSX.Element;
         outline?: boolean;
+        mini?: boolean;
+        title?: string;
     };
 }
 /**

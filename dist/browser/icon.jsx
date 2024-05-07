@@ -1,4 +1,4 @@
-import { splitProps } from "solid-js";
+import { splitProps } from 'solid-js';
 /**
  * The Icon helper is just a SVG wrapper that can take any attributes
  * an SVG element can take plus a special props named `path` that represent
@@ -19,10 +19,9 @@ import { splitProps } from "solid-js";
  * ```
  */
 export const Icon = (props) => {
-    const [internal, external] = splitProps(props, ["path"]);
-    return (
-    // biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
-    <svg viewBox={"0 0 24 24"} fill={internal.path.outline ? "none" : "currentColor"} stroke={internal.path.outline ? "currentColor" : "none"} stroke-width={internal.path.outline ? 1.5 : undefined} {...external}>
-			{internal.path.path}
-		</svg>);
+    const [internal, external] = splitProps(props, ['path']);
+    return (<svg viewBox={internal.path.mini ? '0 0 20 20' : '0 0 24 24'} fill={internal.path.outline ? 'none' : 'currentColor'} stroke={internal.path.outline ? 'currentColor' : 'none'} stroke-width={internal.path.outline ? 1.5 : undefined} {...external}>
+      <title>{internal.path.title}</title>
+      {internal.path.path}
+    </svg>);
 };

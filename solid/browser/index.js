@@ -363,1482 +363,1778 @@ var _tmpl$ = /*#__PURE__*/template(`<svg><path d="M11.7 2.805a.75.75 0 0 1 .6 0A
 const academicCap = {
   path: () => [_tmpl$(), _tmpl$2(), _tmpl$3()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Academic Cap'
 };
 const adjustmentsHorizontal = {
   path: () => _tmpl$4(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Adjustments Horizontal'
 };
 const adjustmentsVertical = {
   path: () => _tmpl$5(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Adjustments Vertical'
 };
 const archiveBoxArrowDown = {
   path: () => [_tmpl$6(), _tmpl$7()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Archive Box Arrow Down'
 };
 const archiveBoxXMark = {
   path: () => [_tmpl$6(), _tmpl$8()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Archive Box X Mark'
 };
 const archiveBox = {
   path: () => [_tmpl$6(), _tmpl$9()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Archive Box'
 };
 const arrowDownCircle = {
   path: () => _tmpl$10(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Down Circle'
 };
 const arrowDownLeft = {
   path: () => _tmpl$11(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Down Left'
 };
 const arrowDownOnSquareStack = {
   path: () => [_tmpl$12(), _tmpl$13()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Down On Square Stack'
 };
 const arrowDownOnSquare = {
   path: () => _tmpl$14(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Down On Square'
 };
 const arrowDownRight = {
   path: () => _tmpl$15(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Down Right'
 };
 const arrowDownTray = {
   path: () => _tmpl$16(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Down Tray'
 };
 const arrowDown = {
   path: () => _tmpl$17(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Down'
 };
 const arrowLeftCircle = {
   path: () => _tmpl$18(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Left Circle'
 };
 const arrowLeftEndOnRectangle = {
   path: () => _tmpl$19(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Left End On Rectangle'
 };
 const arrowLeftOnRectangle = {
   path: () => _tmpl$19(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Left On Rectangle'
 };
 const arrowLeftStartOnRectangle = {
   path: () => _tmpl$20(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Left Start On Rectangle'
 };
 const arrowLeft = {
   path: () => _tmpl$21(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Left'
 };
 const arrowLongDown = {
   path: () => _tmpl$22(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Long Down'
 };
 const arrowLongLeft = {
   path: () => _tmpl$23(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Long Left'
 };
 const arrowLongRight = {
   path: () => _tmpl$24(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Long Right'
 };
 const arrowLongUp = {
   path: () => _tmpl$25(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Long Up'
 };
 const arrowPathRoundedSquare = {
   path: () => _tmpl$26(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Path Rounded Square'
 };
 const arrowPath = {
   path: () => _tmpl$27(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Path'
 };
 const arrowRightCircle = {
   path: () => _tmpl$28(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Right Circle'
 };
 const arrowRightEndOnRectangle = {
   path: () => _tmpl$29(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Right End On Rectangle'
 };
 const arrowRightOnRectangle = {
   path: () => _tmpl$30(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Right On Rectangle'
 };
 const arrowRightStartOnRectangle = {
   path: () => _tmpl$30(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Right Start On Rectangle'
 };
 const arrowRight = {
   path: () => _tmpl$31(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Right'
 };
 const arrowSmallDown = {
   path: () => _tmpl$32(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Small Down'
 };
 const arrowSmallLeft = {
   path: () => _tmpl$33(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Small Left'
 };
 const arrowSmallRight = {
   path: () => _tmpl$34(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Small Right'
 };
 const arrowSmallUp = {
   path: () => _tmpl$35(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Small Up'
 };
 const arrowTopRightOnSquare = {
   path: () => _tmpl$36(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Top Right On Square'
 };
 const arrowTrendingDown = {
   path: () => _tmpl$37(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Trending Down'
 };
 const arrowTrendingUp = {
   path: () => _tmpl$38(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Trending Up'
 };
 const arrowUpCircle = {
   path: () => _tmpl$39(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Up Circle'
 };
 const arrowUpLeft = {
   path: () => _tmpl$40(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Up Left'
 };
 const arrowUpOnSquareStack = {
   path: () => [_tmpl$41(), _tmpl$13()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Up On Square Stack'
 };
 const arrowUpOnSquare = {
   path: () => _tmpl$42(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Up On Square'
 };
 const arrowUpRight = {
   path: () => _tmpl$43(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Up Right'
 };
 const arrowUpTray = {
   path: () => _tmpl$44(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Up Tray'
 };
 const arrowUp = {
   path: () => _tmpl$45(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Up'
 };
 const arrowUturnDown = {
   path: () => _tmpl$46(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Uturn Down'
 };
 const arrowUturnLeft = {
   path: () => _tmpl$47(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Uturn Left'
 };
 const arrowUturnRight = {
   path: () => _tmpl$48(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Uturn Right'
 };
 const arrowUturnUp = {
   path: () => _tmpl$49(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrow Uturn Up'
 };
 const arrowsPointingIn = {
   path: () => _tmpl$50(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrows Pointing In'
 };
 const arrowsPointingOut = {
   path: () => _tmpl$51(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrows Pointing Out'
 };
 const arrowsRightLeft = {
   path: () => _tmpl$52(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrows Right Left'
 };
 const arrowsUpDown = {
   path: () => _tmpl$53(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Arrows Up Down'
 };
 const atSymbol = {
   path: () => _tmpl$54(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'At Symbol'
 };
 const backspace = {
   path: () => _tmpl$55(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Backspace'
 };
 const backward = {
   path: () => _tmpl$56(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Backward'
 };
 const banknotes = {
   path: () => [_tmpl$57(), _tmpl$58(), _tmpl$59()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Banknotes'
 };
 const bars_2 = {
   path: () => _tmpl$60(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bars 2'
 };
 const bars_3BottomLeft = {
   path: () => _tmpl$61(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bars 3 Bottom Left'
 };
 const bars_3BottomRight = {
   path: () => _tmpl$62(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bars 3 Bottom Right'
 };
 const bars_3CenterLeft = {
   path: () => _tmpl$63(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bars 3 Center Left'
 };
 const bars_3 = {
   path: () => _tmpl$64(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bars 3'
 };
 const bars_4 = {
   path: () => _tmpl$65(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bars 4'
 };
 const barsArrowDown = {
   path: () => _tmpl$66(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bars Arrow Down'
 };
 const barsArrowUp = {
   path: () => _tmpl$67(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bars Arrow Up'
 };
 const battery_0 = {
   path: () => _tmpl$68(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Battery 0'
 };
 const battery_100 = {
   path: () => _tmpl$69(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Battery 100'
 };
 const battery_50 = {
   path: () => [_tmpl$70(), _tmpl$71()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Battery 50'
 };
 const beaker = {
   path: () => _tmpl$72(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Beaker'
 };
 const bellAlert = {
   path: () => [_tmpl$73(), _tmpl$74()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bell Alert'
 };
 const bellSlash = {
   path: () => [_tmpl$75(), _tmpl$76()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bell Slash'
 };
 const bellSnooze = {
   path: () => _tmpl$77(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bell Snooze'
 };
 const bell = {
   path: () => _tmpl$78(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bell'
 };
 const boltSlash = {
   path: () => _tmpl$79(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bolt Slash'
 };
 const bolt = {
   path: () => _tmpl$80(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bolt'
 };
 const bookOpen = {
   path: () => _tmpl$81(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Book Open'
 };
 const bookmarkSlash = {
   path: () => _tmpl$82(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bookmark Slash'
 };
 const bookmarkSquare = {
   path: () => _tmpl$83(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bookmark Square'
 };
 const bookmark = {
   path: () => _tmpl$84(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bookmark'
 };
 const briefcase = {
   path: () => [_tmpl$85(), _tmpl$86()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Briefcase'
 };
 const bugAnt = {
   path: () => _tmpl$87(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Bug Ant'
 };
 const buildingLibrary = {
   path: () => [_tmpl$88(), _tmpl$89(), _tmpl$90()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Building Library'
 };
 const buildingOffice_2 = {
   path: () => _tmpl$91(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Building Office 2'
 };
 const buildingOffice = {
   path: () => _tmpl$92(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Building Office'
 };
 const buildingStorefront = {
   path: () => [_tmpl$93(), _tmpl$94()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Building Storefront'
 };
 const cake = {
   path: () => _tmpl$95(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cake'
 };
 const calculator = {
   path: () => _tmpl$96(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Calculator'
 };
 const calendarDays = {
   path: () => [_tmpl$97(), _tmpl$98()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Calendar Days'
 };
 const calendar = {
   path: () => _tmpl$98(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Calendar'
 };
 const camera = {
   path: () => [_tmpl$99(), _tmpl$100()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Camera'
 };
 const chartBarSquare = {
   path: () => _tmpl$101(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chart Bar Square'
 };
 const chartBar = {
   path: () => _tmpl$102(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chart Bar'
 };
 const chartPie = {
   path: () => [_tmpl$103(), _tmpl$104()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chart Pie'
 };
 const chatBubbleBottomCenterText = {
   path: () => _tmpl$105(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chat Bubble Bottom Center Text'
 };
 const chatBubbleBottomCenter = {
   path: () => _tmpl$106(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chat Bubble Bottom Center'
 };
 const chatBubbleLeftEllipsis = {
   path: () => _tmpl$107(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chat Bubble Left Ellipsis'
 };
 const chatBubbleLeftRight = {
   path: () => [_tmpl$108(), _tmpl$109()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chat Bubble Left Right'
 };
 const chatBubbleLeft = {
   path: () => _tmpl$110(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chat Bubble Left'
 };
 const chatBubbleOvalLeftEllipsis = {
   path: () => _tmpl$111(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chat Bubble Oval Left Ellipsis'
 };
 const chatBubbleOvalLeft = {
   path: () => _tmpl$112(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chat Bubble Oval Left'
 };
 const checkBadge = {
   path: () => _tmpl$113(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Check Badge'
 };
 const checkCircle = {
   path: () => _tmpl$114(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Check Circle'
 };
 const check = {
   path: () => _tmpl$115(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Check'
 };
 const chevronDoubleDown = {
   path: () => [_tmpl$116(), _tmpl$117()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Double Down'
 };
 const chevronDoubleLeft = {
   path: () => [_tmpl$118(), _tmpl$119()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Double Left'
 };
 const chevronDoubleRight = {
   path: () => [_tmpl$120(), _tmpl$121()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Double Right'
 };
 const chevronDoubleUp = {
   path: () => [_tmpl$122(), _tmpl$123()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Double Up'
 };
 const chevronDown = {
   path: () => _tmpl$124(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Down'
 };
 const chevronLeft = {
   path: () => _tmpl$125(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Left'
 };
 const chevronRight = {
   path: () => _tmpl$126(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Right'
 };
 const chevronUpDown = {
   path: () => _tmpl$127(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Up Down'
 };
 const chevronUp = {
   path: () => _tmpl$128(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Chevron Up'
 };
 const circleStack = {
   path: () => [_tmpl$129(), _tmpl$130(), _tmpl$131(), _tmpl$132()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Circle Stack'
 };
 const clipboardDocumentCheck = {
   path: () => [_tmpl$133(), _tmpl$134()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Clipboard Document Check'
 };
 const clipboardDocumentList = {
   path: () => [_tmpl$133(), _tmpl$135()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Clipboard Document List'
 };
 const clipboardDocument = {
   path: () => [_tmpl$136(), _tmpl$137(), _tmpl$138()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Clipboard Document'
 };
 const clipboard = {
   path: () => _tmpl$139(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Clipboard'
 };
 const clock = {
   path: () => _tmpl$140(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Clock'
 };
 const cloudArrowDown = {
   path: () => _tmpl$141(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cloud Arrow Down'
 };
 const cloudArrowUp = {
   path: () => _tmpl$142(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cloud Arrow Up'
 };
 const cloud = {
   path: () => _tmpl$143(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cloud'
 };
 const codeBracketSquare = {
   path: () => _tmpl$144(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Code Bracket Square'
 };
 const codeBracket = {
   path: () => _tmpl$145(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Code Bracket'
 };
 const cog_6Tooth = {
   path: () => _tmpl$146(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cog 6 Tooth'
 };
 const cog_8Tooth = {
   path: () => _tmpl$147(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cog 8 Tooth'
 };
 const cog = {
   path: () => [_tmpl$148(), _tmpl$149()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cog'
 };
 const commandLine = {
   path: () => _tmpl$150(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Command Line'
 };
 const computerDesktop = {
   path: () => _tmpl$151(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Computer Desktop'
 };
 const cpuChip = {
   path: () => [_tmpl$152(), _tmpl$153()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cpu Chip'
 };
 const creditCard = {
   path: () => [_tmpl$154(), _tmpl$155()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Credit Card'
 };
 const cubeTransparent = {
   path: () => _tmpl$156(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cube Transparent'
 };
 const cube = {
   path: () => _tmpl$157(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cube'
 };
 const currencyBangladeshi = {
   path: () => _tmpl$158(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Currency Bangladeshi'
 };
 const currencyDollar = {
   path: () => [_tmpl$159(), _tmpl$160()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Currency Dollar'
 };
 const currencyEuro = {
   path: () => _tmpl$161(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Currency Euro'
 };
 const currencyPound = {
   path: () => _tmpl$162(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Currency Pound'
 };
 const currencyRupee = {
   path: () => _tmpl$163(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Currency Rupee'
 };
 const currencyYen = {
   path: () => _tmpl$164(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Currency Yen'
 };
 const cursorArrowRays = {
   path: () => _tmpl$165(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cursor Arrow Rays'
 };
 const cursorArrowRipple = {
   path: () => _tmpl$166(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Cursor Arrow Ripple'
 };
 const devicePhoneMobile = {
   path: () => [_tmpl$167(), _tmpl$168()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Device Phone Mobile'
 };
 const deviceTablet = {
   path: () => [_tmpl$169(), _tmpl$170()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Device Tablet'
 };
 const documentArrowDown = {
   path: () => [_tmpl$171(), _tmpl$172()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Arrow Down'
 };
 const documentArrowUp = {
   path: () => [_tmpl$173(), _tmpl$172()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Arrow Up'
 };
 const documentChartBar = {
   path: () => [_tmpl$174(), _tmpl$172()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Chart Bar'
 };
 const documentCheck = {
   path: () => [_tmpl$175(), _tmpl$176()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Check'
 };
 const documentDuplicate = {
   path: () => [_tmpl$177(), _tmpl$178()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Duplicate'
 };
 const documentMagnifyingGlass = {
   path: () => [_tmpl$179(), _tmpl$180(), _tmpl$172()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Magnifying Glass'
 };
 const documentMinus = {
   path: () => [_tmpl$181(), _tmpl$172()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Minus'
 };
 const documentPlus = {
   path: () => [_tmpl$182(), _tmpl$172()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Plus'
 };
 const documentText = {
   path: () => [_tmpl$183(), _tmpl$176()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document Text'
 };
 const document = {
   path: () => [_tmpl$184(), _tmpl$176()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Document'
 };
 const ellipsisHorizontalCircle = {
   path: () => _tmpl$185(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Ellipsis Horizontal Circle'
 };
 const ellipsisHorizontal = {
   path: () => _tmpl$186(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Ellipsis Horizontal'
 };
 const ellipsisVertical = {
   path: () => _tmpl$187(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Ellipsis Vertical'
 };
 const envelopeOpen = {
   path: () => [_tmpl$188(), _tmpl$189()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Envelope Open'
 };
 const envelope = {
   path: () => [_tmpl$190(), _tmpl$191()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Envelope'
 };
 const exclamationCircle = {
   path: () => _tmpl$192(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Exclamation Circle'
 };
 const exclamationTriangle = {
   path: () => _tmpl$193(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Exclamation Triangle'
 };
 const eyeDropper = {
   path: () => _tmpl$194(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Eye Dropper'
 };
 const eyeSlash = {
   path: () => [_tmpl$195(), _tmpl$196(), _tmpl$197()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Eye Slash'
 };
 const eye = {
   path: () => [_tmpl$198(), _tmpl$199()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Eye'
 };
 const faceFrown = {
   path: () => _tmpl$200(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Face Frown'
 };
 const faceSmile = {
   path: () => _tmpl$201(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Face Smile'
 };
 const film = {
   path: () => _tmpl$202(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Film'
 };
 const fingerPrint = {
   path: () => _tmpl$203(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Finger Print'
 };
 const fire = {
   path: () => _tmpl$204(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Fire'
 };
 const flag = {
   path: () => _tmpl$205(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Flag'
 };
 const folderArrowDown = {
   path: () => _tmpl$206(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Folder Arrow Down'
 };
 const folderMinus = {
   path: () => _tmpl$207(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Folder Minus'
 };
 const folderOpen = {
   path: () => _tmpl$208(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Folder Open'
 };
 const folderPlus = {
   path: () => _tmpl$209(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Folder Plus'
 };
 const folder = {
   path: () => _tmpl$210(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Folder'
 };
 const forward = {
   path: () => _tmpl$211(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Forward'
 };
 const funnel = {
   path: () => _tmpl$212(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Funnel'
 };
 const gif = {
   path: () => _tmpl$213(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Gif'
 };
 const giftTop = {
   path: () => [_tmpl$214(), _tmpl$215()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Gift Top'
 };
 const gift = {
   path: () => _tmpl$216(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Gift'
 };
 const globeAlt = {
   path: () => _tmpl$217(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Globe Alt'
 };
 const globeAmericas = {
   path: () => _tmpl$218(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Globe Americas'
 };
 const globeAsiaAustralia = {
   path: () => [_tmpl$219(), _tmpl$220()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Globe Asia Australia'
 };
 const globeEuropeAfrica = {
   path: () => _tmpl$221(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Globe Europe Africa'
 };
 const handRaised = {
   path: () => _tmpl$222(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Hand Raised'
 };
 const handThumbDown = {
   path: () => _tmpl$223(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Hand Thumb Down'
 };
 const handThumbUp = {
   path: () => _tmpl$224(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Hand Thumb Up'
 };
 const hashtag = {
   path: () => _tmpl$225(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Hashtag'
 };
 const heart = {
   path: () => _tmpl$226(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Heart'
 };
 const homeModern = {
   path: () => [_tmpl$227(), _tmpl$228()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Home Modern'
 };
 const home = {
   path: () => [_tmpl$229(), _tmpl$230()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Home'
 };
 const identification = {
   path: () => _tmpl$231(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Identification'
 };
 const inboxArrowDown = {
   path: () => [_tmpl$232(), _tmpl$233()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Inbox Arrow Down'
 };
 const inboxStack = {
   path: () => [_tmpl$234(), _tmpl$235()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Inbox Stack'
 };
 const inbox = {
   path: () => _tmpl$236(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Inbox'
 };
 const informationCircle = {
   path: () => _tmpl$237(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Information Circle'
 };
 const key = {
   path: () => _tmpl$238(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Key'
 };
 const language = {
   path: () => _tmpl$239(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Language'
 };
 const lifebuoy = {
   path: () => _tmpl$240(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Lifebuoy'
 };
 const lightBulb = {
   path: () => [_tmpl$241(), _tmpl$242()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Light Bulb'
 };
 const link = {
   path: () => _tmpl$243(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Link'
 };
 const listBullet = {
   path: () => _tmpl$244(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'List Bullet'
 };
 const lockClosed = {
   path: () => _tmpl$245(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Lock Closed'
 };
 const lockOpen = {
   path: () => _tmpl$246(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Lock Open'
 };
 const magnifyingGlassCircle = {
   path: () => [_tmpl$247(), _tmpl$248()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Magnifying Glass Circle'
 };
 const magnifyingGlassMinus = {
   path: () => _tmpl$249(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Magnifying Glass Minus'
 };
 const magnifyingGlassPlus = {
   path: () => _tmpl$250(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Magnifying Glass Plus'
 };
 const magnifyingGlass = {
   path: () => _tmpl$251(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Magnifying Glass'
 };
 const mapPin = {
   path: () => _tmpl$252(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Map Pin'
 };
 const map = {
   path: () => _tmpl$253(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Map'
 };
 const megaphone = {
   path: () => _tmpl$254(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Megaphone'
 };
 const microphone = {
   path: () => [_tmpl$255(), _tmpl$256()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Microphone'
 };
 const minusCircle = {
   path: () => _tmpl$257(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Minus Circle'
 };
 const minusSmall = {
   path: () => _tmpl$258(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Minus Small'
 };
 const minus = {
   path: () => _tmpl$259(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Minus'
 };
 const moon = {
   path: () => _tmpl$260(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Moon'
 };
 const musicalNote = {
   path: () => _tmpl$261(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Musical Note'
 };
 const newspaper = {
   path: () => [_tmpl$262(), _tmpl$263()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Newspaper'
 };
 const noSymbol = {
   path: () => _tmpl$264(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'No Symbol'
 };
 const paintBrush = {
   path: () => _tmpl$265(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Paint Brush'
 };
 const paperAirplane = {
   path: () => _tmpl$266(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Paper Airplane'
 };
 const paperClip = {
   path: () => _tmpl$267(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Paper Clip'
 };
 const pauseCircle = {
   path: () => _tmpl$268(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Pause Circle'
 };
 const pause = {
   path: () => _tmpl$269(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Pause'
 };
 const pencilSquare = {
   path: () => [_tmpl$270(), _tmpl$271()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Pencil Square'
 };
 const pencil = {
   path: () => _tmpl$272(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Pencil'
 };
 const phoneArrowDownLeft = {
   path: () => [_tmpl$273(), _tmpl$274()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Phone Arrow Down Left'
 };
 const phoneArrowUpRight = {
   path: () => [_tmpl$275(), _tmpl$274()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Phone Arrow Up Right'
 };
 const phoneXMark = {
   path: () => _tmpl$276(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Phone X Mark'
 };
 const phone = {
   path: () => _tmpl$274(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Phone'
 };
 const photo = {
   path: () => _tmpl$277(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Photo'
 };
 const playCircle = {
   path: () => _tmpl$278(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Play Circle'
 };
 const playPause = {
   path: () => _tmpl$279(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Play Pause'
 };
 const play = {
   path: () => _tmpl$280(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Play'
 };
 const plusCircle = {
   path: () => _tmpl$281(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Plus Circle'
 };
 const plusSmall = {
   path: () => _tmpl$282(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Plus Small'
 };
 const plus = {
   path: () => _tmpl$283(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Plus'
 };
 const power = {
   path: () => _tmpl$284(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Power'
 };
 const presentationChartBar = {
   path: () => _tmpl$285(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Presentation Chart Bar'
 };
 const presentationChartLine = {
   path: () => _tmpl$286(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Presentation Chart Line'
 };
 const printer = {
   path: () => _tmpl$287(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Printer'
 };
 const puzzlePiece = {
   path: () => _tmpl$288(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Puzzle Piece'
 };
 const qrCode = {
   path: () => _tmpl$289(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Qr Code'
 };
 const questionMarkCircle = {
   path: () => _tmpl$290(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Question Mark Circle'
 };
 const queueList = {
   path: () => _tmpl$291(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Queue List'
 };
 const radio = {
   path: () => _tmpl$292(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Radio'
 };
 const receiptPercent = {
   path: () => _tmpl$293(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Receipt Percent'
 };
 const receiptRefund = {
   path: () => _tmpl$294(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Receipt Refund'
 };
 const rectangleGroup = {
   path: () => _tmpl$295(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Rectangle Group'
 };
 const rectangleStack = {
   path: () => _tmpl$296(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Rectangle Stack'
 };
 const rocketLaunch = {
   path: () => [_tmpl$297(), _tmpl$298()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Rocket Launch'
 };
 const rss = {
   path: () => _tmpl$299(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Rss'
 };
 const scale = {
   path: () => _tmpl$300(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Scale'
 };
 const scissors = {
   path: () => [_tmpl$301(), _tmpl$302()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Scissors'
 };
 const serverStack = {
   path: () => [_tmpl$303(), _tmpl$304()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Server Stack'
 };
 const server = {
   path: () => [_tmpl$305(), _tmpl$306()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Server'
 };
 const share = {
   path: () => _tmpl$307(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Share'
 };
 const shieldCheck = {
   path: () => _tmpl$308(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Shield Check'
 };
 const shieldExclamation = {
   path: () => _tmpl$309(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Shield Exclamation'
 };
 const shoppingBag = {
   path: () => _tmpl$310(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Shopping Bag'
 };
 const shoppingCart = {
   path: () => _tmpl$311(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Shopping Cart'
 };
 const signalSlash = {
   path: () => _tmpl$312(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Signal Slash'
 };
 const signal = {
   path: () => _tmpl$313(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Signal'
 };
 const sparkles = {
   path: () => _tmpl$314(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Sparkles'
 };
 const speakerWave = {
   path: () => [_tmpl$315(), _tmpl$316()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Speaker Wave'
 };
 const speakerXMark = {
   path: () => _tmpl$317(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Speaker X Mark'
 };
 const square_2Stack = {
   path: () => [_tmpl$318(), _tmpl$319()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Square 2 Stack'
 };
 const square_3Stack_3d = {
   path: () => [_tmpl$320(), _tmpl$321(), _tmpl$322()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Square 3 Stack 3d'
 };
 const squares_2x2 = {
   path: () => _tmpl$323(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Squares 2x2'
 };
 const squaresPlus = {
   path: () => _tmpl$324(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Squares Plus'
 };
 const star = {
   path: () => _tmpl$325(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Star'
 };
 const stopCircle = {
   path: () => _tmpl$326(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Stop Circle'
 };
 const stop = {
   path: () => _tmpl$327(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Stop'
 };
 const sun = {
   path: () => _tmpl$328(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Sun'
 };
 const swatch = {
   path: () => [_tmpl$329(), _tmpl$330()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Swatch'
 };
 const tableCells = {
   path: () => _tmpl$331(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Table Cells'
 };
 const tag = {
   path: () => _tmpl$332(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Tag'
 };
 const ticket = {
   path: () => _tmpl$333(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Ticket'
 };
 const trash = {
   path: () => _tmpl$334(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Trash'
 };
 const trophy = {
   path: () => _tmpl$335(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Trophy'
 };
 const truck = {
   path: () => [_tmpl$336(), _tmpl$337(), _tmpl$338()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Truck'
 };
 const tv = {
   path: () => [_tmpl$339(), _tmpl$340()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Tv'
 };
 const userCircle = {
   path: () => _tmpl$341(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'User Circle'
 };
 const userGroup = {
   path: () => [_tmpl$342(), _tmpl$343()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'User Group'
 };
 const userMinus = {
   path: () => _tmpl$344(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'User Minus'
 };
 const userPlus = {
   path: () => _tmpl$345(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'User Plus'
 };
 const user = {
   path: () => _tmpl$346(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'User'
 };
 const users = {
   path: () => _tmpl$347(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Users'
 };
 const variable = {
   path: () => _tmpl$348(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Variable'
 };
 const videoCameraSlash = {
   path: () => _tmpl$349(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Video Camera Slash'
 };
 const videoCamera = {
   path: () => _tmpl$350(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Video Camera'
 };
 const viewColumns = {
   path: () => _tmpl$351(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'View Columns'
 };
 const viewfinderCircle = {
   path: () => _tmpl$352(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Viewfinder Circle'
 };
 const wallet = {
   path: () => _tmpl$353(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Wallet'
 };
 const wifi = {
   path: () => _tmpl$354(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Wifi'
 };
 const window = {
   path: () => _tmpl$355(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Window'
 };
 const wrenchScrewdriver = {
   path: () => [_tmpl$356(), _tmpl$357(), _tmpl$358()],
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Wrench Screwdriver'
 };
 const wrench = {
   path: () => _tmpl$356(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'Wrench'
 };
 const xCircle = {
   path: () => _tmpl$359(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'X Circle'
 };
 const xMark = {
   path: () => _tmpl$360(),
   outline: false,
-  mini: false
+  mini: false,
+  title: 'X Mark'
 };
 
 export { academicCap, adjustmentsHorizontal, adjustmentsVertical, archiveBox, archiveBoxArrowDown, archiveBoxXMark, arrowDown, arrowDownCircle, arrowDownLeft, arrowDownOnSquare, arrowDownOnSquareStack, arrowDownRight, arrowDownTray, arrowLeft, arrowLeftCircle, arrowLeftEndOnRectangle, arrowLeftOnRectangle, arrowLeftStartOnRectangle, arrowLongDown, arrowLongLeft, arrowLongRight, arrowLongUp, arrowPath, arrowPathRoundedSquare, arrowRight, arrowRightCircle, arrowRightEndOnRectangle, arrowRightOnRectangle, arrowRightStartOnRectangle, arrowSmallDown, arrowSmallLeft, arrowSmallRight, arrowSmallUp, arrowTopRightOnSquare, arrowTrendingDown, arrowTrendingUp, arrowUp, arrowUpCircle, arrowUpLeft, arrowUpOnSquare, arrowUpOnSquareStack, arrowUpRight, arrowUpTray, arrowUturnDown, arrowUturnLeft, arrowUturnRight, arrowUturnUp, arrowsPointingIn, arrowsPointingOut, arrowsRightLeft, arrowsUpDown, atSymbol, backspace, backward, banknotes, barsArrowDown, barsArrowUp, bars_2, bars_3, bars_3BottomLeft, bars_3BottomRight, bars_3CenterLeft, bars_4, battery_0, battery_100, battery_50, beaker, bell, bellAlert, bellSlash, bellSnooze, bolt, boltSlash, bookOpen, bookmark, bookmarkSlash, bookmarkSquare, briefcase, bugAnt, buildingLibrary, buildingOffice, buildingOffice_2, buildingStorefront, cake, calculator, calendar, calendarDays, camera, chartBar, chartBarSquare, chartPie, chatBubbleBottomCenter, chatBubbleBottomCenterText, chatBubbleLeft, chatBubbleLeftEllipsis, chatBubbleLeftRight, chatBubbleOvalLeft, chatBubbleOvalLeftEllipsis, check, checkBadge, checkCircle, chevronDoubleDown, chevronDoubleLeft, chevronDoubleRight, chevronDoubleUp, chevronDown, chevronLeft, chevronRight, chevronUp, chevronUpDown, circleStack, clipboard, clipboardDocument, clipboardDocumentCheck, clipboardDocumentList, clock, cloud, cloudArrowDown, cloudArrowUp, codeBracket, codeBracketSquare, cog, cog_6Tooth, cog_8Tooth, commandLine, computerDesktop, cpuChip, creditCard, cube, cubeTransparent, currencyBangladeshi, currencyDollar, currencyEuro, currencyPound, currencyRupee, currencyYen, cursorArrowRays, cursorArrowRipple, devicePhoneMobile, deviceTablet, document, documentArrowDown, documentArrowUp, documentChartBar, documentCheck, documentDuplicate, documentMagnifyingGlass, documentMinus, documentPlus, documentText, ellipsisHorizontal, ellipsisHorizontalCircle, ellipsisVertical, envelope, envelopeOpen, exclamationCircle, exclamationTriangle, eye, eyeDropper, eyeSlash, faceFrown, faceSmile, film, fingerPrint, fire, flag, folder, folderArrowDown, folderMinus, folderOpen, folderPlus, forward, funnel, gif, gift, giftTop, globeAlt, globeAmericas, globeAsiaAustralia, globeEuropeAfrica, handRaised, handThumbDown, handThumbUp, hashtag, heart, home, homeModern, identification, inbox, inboxArrowDown, inboxStack, informationCircle, key, language, lifebuoy, lightBulb, link, listBullet, lockClosed, lockOpen, magnifyingGlass, magnifyingGlassCircle, magnifyingGlassMinus, magnifyingGlassPlus, map, mapPin, megaphone, microphone, minus, minusCircle, minusSmall, moon, musicalNote, newspaper, noSymbol, paintBrush, paperAirplane, paperClip, pause, pauseCircle, pencil, pencilSquare, phone, phoneArrowDownLeft, phoneArrowUpRight, phoneXMark, photo, play, playCircle, playPause, plus, plusCircle, plusSmall, power, presentationChartBar, presentationChartLine, printer, puzzlePiece, qrCode, questionMarkCircle, queueList, radio, receiptPercent, receiptRefund, rectangleGroup, rectangleStack, rocketLaunch, rss, scale, scissors, server, serverStack, share, shieldCheck, shieldExclamation, shoppingBag, shoppingCart, signal, signalSlash, sparkles, speakerWave, speakerXMark, square_2Stack, square_3Stack_3d, squaresPlus, squares_2x2, star, stop, stopCircle, sun, swatch, tableCells, tag, ticket, trash, trophy, truck, tv, user, userCircle, userGroup, userMinus, userPlus, users, variable, videoCamera, videoCameraSlash, viewColumns, viewfinderCircle, wallet, wifi, window, wrench, wrenchScrewdriver, xCircle, xMark };

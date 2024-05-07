@@ -8,8 +8,8 @@ interface Props extends ComponentProps<'svg'> {
     path: JSX.Element
     outline?: boolean
     mini?: boolean
+    title?: string
   }
-  title?: string
 }
 
 /**
@@ -32,7 +32,7 @@ interface Props extends ComponentProps<'svg'> {
  * ```
  */
 export const Icon: Component<Props> = (props) => {
-  const [internal, external] = splitProps(props, ['path', 'title'])
+  const [internal, external] = splitProps(props, ['path'])
 
   return (
     <svg
@@ -42,7 +42,7 @@ export const Icon: Component<Props> = (props) => {
       stroke-width={internal.path.outline ? 1.5 : undefined}
       {...external}
     >
-      <title>{internal.title}</title>
+      <title>{internal.path.title}</title>
       {internal.path.path}
     </svg>
   )

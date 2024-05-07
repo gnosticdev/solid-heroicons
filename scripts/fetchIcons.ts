@@ -1,11 +1,12 @@
+import { babel } from '@rollup/plugin-babel'
+import { nodeResolve } from '@rollup/plugin-node-resolve'
+import { camelCase, capitalCase } from 'change-case'
 import dd from 'dedent'
 import degit from 'degit'
+
 import { outputFile, readFile, readdir, remove, removeSync } from 'fs-extra'
 import { join, parse } from 'node:path'
 import { rollup } from 'rollup'
-import { camelCase } from 'change-case'
-import { babel } from '@rollup/plugin-babel'
-import { nodeResolve } from '@rollup/plugin-node-resolve'
 
 import packageJSON from '../package.json'
 
@@ -37,15 +38,17 @@ async function main() {
 	removeSync(LUCIDE_DIST)
 
 	// Clone the original SVG icons from the repo.
-	const [solidGit, solidMiniGit, outlineGit] = [
+	const [solidGit, solidMiniGit, outlineGit, lucideGit] = [
 		SOLID_SRC,
 		SOLID_MINI_SRC,
 		OUTLINE_SRC,
+		LUCIDE_SRC,
 	].map((repo) => degit(repo, { cache: false, verbose: true, force: true }))
 
 	await solidGit.clone(SOLID_DIST)
 	await solidMiniGit.clone(SOLID_MINI_DIST)
 	await outlineGit.clone(OUTLINE_DIST)
+	await lucideGit.clone(LUCIDE_DIST)
 
 	// Generate the icons in the proper folder
 	await generateIcons({
@@ -77,35 +80,59 @@ async function main() {
 	await remove(TMP)
 }
 
-type GenerateProps = {
+type GenerateProps<TName = 'solid' | 'outline' | 'solid-mini' | 'lucide'> = {
 	path: string
-	name: string
+	name: TName
 	outline: boolean
 	mini: boolean
 }
 
+/**
+ * A running list of reserved keywords that will throw an error when used as a variable name.
+ */
+const changeNameMap = {
+	delete: 'deleteIcon',
+	import: 'importIcon',
+	package: 'packageIcon',
+} as const
+
 async function generateIcons({ path, name, outline, mini }: GenerateProps) {
-	const icons = await readdir(path)
+	// make sure file ends with .svg bc lucide repo has .json files mixed in.
+	const icons = Array.from(await readdir(path)).filter((file) =>
+		file.endsWith('.svg'),
+	)
 	const exportedIcons: string[] = []
-	const exportedTypes: string[] = ['import type { JSX } from "solid-js";', '']
+	const exportedTypes: string[] = [
+		'/** @jsxImportSource solid-js */\n',
+		'',
+		'import type { JSX } from "solid-js";',
+		'',
+	]
 
 	for (const icon of icons) {
-		const iconName = camelCase(parse(icon).name)
+		let iconName = camelCase(parse(icon).name)
+		if (Object.keys(changeNameMap).includes(iconName)) {
+			iconName = changeNameMap[iconName]
+		}
+		const iconTitle = capitalCase(parse(icon).name)
 		const iconSVG = await readFile(join(path, icon), { encoding: 'utf-8' })
 
-		// Clean the SVG markup
-		const cleanedSVG = iconSVG
-			.split('\n')
-			.filter(Boolean)
-			.map((path) => path.replace(/fill="(#\w+)"/g, 'fill="transparent"'))
-		cleanedSVG.shift()
-		cleanedSVG.pop()
+		// Clean the SVG markup and remove the SVG tags
+		const svgContent = iconSVG
+			.replace(/<\/?svg[^>]*>/g, '') // Remove all SVG tags
+			.trim()
 
-		const code = cleanedSVG.join(' ').replace(/\s{2,}/g, '')
-		const iconPathsStr = dd`export const ${iconName} = { path: () => <>${code}</>, outline: ${outline}, mini: ${mini} };`
-		const iconTypeStr = dd`export declare const ${iconName}: { path: JSX.Element; outline: boolean; mini: boolean; };`
-		exportedIcons.push(iconPathsStr)
-		exportedTypes.push(iconTypeStr)
+		// Ensure all paths are wrapped in a single fragment
+		const iconComponent = dd(
+			`export const ${iconName} = { path: () => (<>${svgContent}</>), outline: ${outline}, mini: ${mini}, title: '${iconTitle}' };`,
+		)
+
+		exportedIcons.push(iconComponent)
+		exportedTypes.push(
+			dd(
+				`export declare const ${iconName}: { path: JSX.Element | JSX.Element[]; outline: boolean; mini: boolean; title?: string };`,
+			),
+		)
 	}
 
 	const exportedIconsStr = exportedIcons.join('\n')

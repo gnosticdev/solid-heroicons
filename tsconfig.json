@@ -5,6 +5,7 @@
 		"allowSyntheticDefaultImports": true,
 		"esModuleInterop": true,
 		"moduleResolution": "Bundler",
+		"lib": ["DOM", "DOM.Iterable", "ESNext"],
 		"jsx": "preserve",
 		"resolveJsonModule": true,
 		"jsxImportSource": "solid-js"
