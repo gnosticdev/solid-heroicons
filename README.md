@@ -1,22 +1,25 @@
-# Solid Heroicons
+# Solid Heroicons with Lucide Icons
 
 > :warning: **This is not an official implementation**: All credits goes out to the Heroicons and Tailwind CSS team.
+> :warning: **I also added Lucide icons to the mix**: All credits goes out to the Lucide team.
 
-[Heroicons](https://github.com/tailwindlabs/heroicons) integration for [Solid](https://github.com/ryansolid/solid) with a twist.
+[Heroicons](https://github.com/tailwindlabs/heroicons) integration for [Solid](https://github.com/ryansolid/solid) with a twist of [Lucide](
+    https://lucide.dev/).
 
 [Demo](https://codesandbox.io/s/solid-heroicons-f26s1?file=/src/index.tsx)
 
 ## Installation
 
 ```bash
-$ npm install solid-heroicons
-$ yarn add solid-heroicons
-$ pnpm add solid-heroicons
+npm install solid-heroicons
+yarn add solid-heroicons
+pnpm add solid-heroicons
 ```
 
 ## Usage
 
-You can import every icon from heroicons [solid](https://github.com/tailwindlabs/heroicons/tree/master/24/solid), [outline](https://github.com/tailwindlabs/heroicons/tree/master/24/outline), or [solid-mini](https://github.com/tailwindlabs/heroicons/tree/master/20/solid) from `solid-heroicons/solid`, `solid-heroicons/outline` and `solid-heroicons/solid-mini` respectively. 
+You can import every icon from heroicons [solid](https://github.com/tailwindlabs/heroicons/tree/master/24/solid), [outline](https://github.com/tailwindlabs/heroicons/tree/master/24/outline), or [solid-mini](https://github.com/tailwindlabs/heroicons/tree/master/20/solid) from `solid-heroicons/solid`, `solid-heroicons/outline` and `solid-heroicons/solid-mini` respectively. Oh and the lucide icons are in the [lucide](https://github.com/lucide-icons/lucide) package.
+
 They are exported as camel case. Everything exported from those packages are just an object with the SVG path and a metadata to know whether it's been exported from the solid, outline or mini variant.
 
 Those packages are generated automatically via a script from [the heroicon repo](https://github.com/tailwindlabs/heroicons).
@@ -31,6 +34,7 @@ import { Icon } from "solid-heroicons";
 import { arrowLeft } from "solid-heroicons/solid";
 import { arrowRight } from "solid-heroicons/outline";
 import { arrowDown } from "solid-heroicons/solid-mini";
+import { volume } from "solid-heroicons/lucide";
 
 const App = () => (
   <>

@@ -1,13 +1,13 @@
-import { splitProps, type Component, type JSX } from 'solid-js'
+import { splitProps, type Component, type JSX } from "solid-js";
 
 interface Props extends JSX.SvgSVGAttributes<SVGSVGElement> {
-  /**
-   * This is the path of the SVG
-   */
-  path: {
-    path: JSX.Element
-    outline?: boolean
-  }
+	/**
+	 * This is the path of the SVG
+	 */
+	path: {
+		path: JSX.Element;
+		outline?: boolean;
+	};
 }
 
 /**
@@ -30,18 +30,18 @@ interface Props extends JSX.SvgSVGAttributes<SVGSVGElement> {
  * ```
  */
 export const Icon: Component<Props> = (props) => {
-  const [internal, external] = splitProps(props, ['path'])
+	const [internal, external] = splitProps(props, ["path"]);
 
-  return (
-    // biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
-    <svg
-      viewBox={'0 0 24 24'}
-      fill={internal.path.outline ? 'none' : 'currentColor'}
-      stroke={internal.path.outline ? 'currentColor' : 'none'}
-      stroke-width={internal.path.outline ? 1.5 : undefined}
-      {...external}
-    >
-      {internal.path.path}
-    </svg>
-  )
-}
+	return (
+		// biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
+		<svg
+			viewBox={"0 0 24 24"}
+			fill={internal.path.outline ? "none" : "currentColor"}
+			stroke={internal.path.outline ? "currentColor" : "none"}
+			stroke-width={internal.path.outline ? 1.5 : undefined}
+			{...external}
+		>
+			{internal.path.path}
+		</svg>
+	);
+};

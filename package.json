@@ -6,7 +6,7 @@
 	"dependencies": {
 		"solid-js": "^1.7.6"
 	},
-	"description": "Heroicons for Solid",
+	"description": "Heroicons for Solid. Oh and lucide too.",
 	"devDependencies": {
 		"@babel/core": "^7.22.5",
 		"@rollup/plugin-babel": "^6.0.3",
@@ -44,17 +44,17 @@
 			"solid": "./solid/index.jsx",
 			"types": "./solid/index.d.ts"
 		},
-		"./solid-lucide": {
-			"default": "./solid-lucide/browser/index.js",
-			"node": "./solid-lucide/server/index.js",
-			"solid": "./solid-lucide/index.jsx",
-			"types": "./solid-lucide/index.d.ts"
-		},
 		"./solid-mini": {
 			"default": "./solid-mini/browser/index.js",
 			"node": "./solid-mini/server/index.js",
 			"solid": "./solid-mini/index.jsx",
 			"types": "./solid-mini/index.d.ts"
+		},
+		"./lucide": {
+			"default": "./lucide/browser/index.js",
+			"node": "./lucide/server/index.js",
+			"solid": "./lucide/index.jsx",
+			"types": "./lucide/index.d.ts"
 		}
 	},
 	"files": ["dist", "outline", "solid", "solid-mini"],
